@@ -7,7 +7,7 @@ title: CV
 ### [IBM Research Zürich](https://www.zurich.ibm.com/) 
 **Visiting Researcher**
 
-- Geospatial Foundation Models for Climate Impact
+- Geospatial foundation models for climate impact
 - Generalized zero-shot semantic segmentation 
 - Part of research collaboration between IBM Research and NASA
 
@@ -15,20 +15,18 @@ title: CV
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Rüschlikon (Switzerland)</div>
 <br>
 
-<hr style="border:.5px solid lightgray"> <br>
 
 ### [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php) 
 **PhD Candidate in Machine Learning & Information Systems**
 
 Research on applied machine learning and deep learning.
 - Chair: Digital Service Innovation
-- Current topics: Foundation Models, Data-centric AI, Human-centered AI 
+- Current topics: Foundation models, Data-centric AI, Human-centered AI 
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   October 2020 - ongoing</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Karlsruhe (Germany)</div>
 <br>
 
-<hr style="border:.5px solid lightgray"> <br>
 
 
 ### [Dr. Ing. h.c. F. Porsche AG - Motorsport Department](https://motorsports.porsche.com/usa/en) 
@@ -41,7 +39,6 @@ Research on applied machine learning and deep learning.
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Weissach (Germany)</div>
 <br>
 
-<hr style="border:.5px solid lightgray"> <br>
 
 ### [d-fine](https://www.d-fine.com/en/) 
 **Visiting Consultant, Quantitative Finance**
@@ -53,10 +50,9 @@ Research on applied machine learning and deep learning.
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Frankfurt (Germany)</div>
 <br>
 
-<hr style="border:.5px solid lightgray"> <br>
 
 ### [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php) 
-**Analytical Process Management: Intern and Working Student**
+**Several Positions as Teaching Assistant and Graduate Research Assistent**
 
 - Teaching assistant for mathematical optimization and advanced statistics
 - Research on the efficient implementation, parameterization and scaling of reinforcement learning in manufacturing
@@ -66,7 +62,7 @@ Research on applied machine learning and deep learning.
 <br>
 
 ### [EnBW AG](https://www.enbw.com/company/) 
-**Several Positions as Teaching Assistant and Graduate Research Assistent**
+**Analytical Process Management: Intern and Working Student**
 - Natural Language Processing: Unsupervised learning to categorize textual customer interactions
 - Process Mining: Statistical analysis of incoming customer interaction
 
@@ -87,7 +83,6 @@ Research on applied machine learning and deep learning.
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   April 2020 - October 2020</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Zurich (Switzerland)</div>
 <br>
-<hr style="border:.5px solid lightgray"> <br>
 
 
 ### [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php) 
@@ -97,12 +92,11 @@ Research on applied machine learning and deep learning.
 - Stochastic optimization
 - Recommender systems
 
-Master thesis at ETH Zurich: "Applied prescriptive analytics: Combining machine learning and mathematical optimization"
+Master thesis at ETH Zurich: "Applied prescriptive analytics: Combining machine learning and mathematical optimization" (1.0)
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   April 2018 - October 2020</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Karlsruhe (Germany)</div>
 <br>
-<hr style="border:.5px solid lightgray"> <br>
 
 
 
@@ -117,7 +111,6 @@ Master thesis at ETH Zurich: "Applied prescriptive analytics: Combining machine 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   September 2018 - January 2019</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Lisbon (Portugal)</div>
 <br>
-<hr style="border:.5px solid lightgray"> <br>
 
 
 

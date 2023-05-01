@@ -1,5 +1,5 @@
 ---
-layout: cv
+layout: publications
 title: Publications
 ---
 

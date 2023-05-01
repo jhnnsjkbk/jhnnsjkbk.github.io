@@ -40,7 +40,7 @@ author: jhnnsjkbk
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: <div> <img src="https://img.icons8.com/color/25/000000/switzerland-circular.png"/> <br> {currentYear} (c) Johannes Jakubik <div/>
+copyright: <div> <br> {currentYear} (c) Johannes Jakubik <div/>
 
 description: >- # this means to ignore newlines until "baseurl:"
   PhD Candidate @ KIT | Visiting Researcher @ IBM Research

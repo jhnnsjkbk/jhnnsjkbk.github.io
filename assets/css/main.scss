@@ -30,7 +30,7 @@ $brand-color: map-get($brand-colors, "greenblue");
 @if map-has-key($brand-colors, $brand-name) {
   $brand-color: map-get($brand-colors, $brand-name);
 } @else if str-index($brand-name, "#") == 1 {
-  $brand-color: {{ site.brand_color | default: '#ff5100' }};
+  $brand-color: {{ site.brand_color | default: '#389092' }};
 }
 
 @import "yat";

@@ -129,7 +129,7 @@ translate_langs: []
 # it will be always kept on every visit (i.e. no matter
 # the browser is closed or not)
 #
-# night_mode: "auto"
+ night_mode: "auto"
 
 # Code badge setting
 # You can enable or disable the code badge and so on
@@ -161,9 +161,8 @@ defaults:
 # Banner default settings
 # These banner settings are for global banner default, but you can also
 # config it by the front matter for one specific post
- banner:
-   heading_style: "font-weight: bold; color: gray"     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
-
+# banner:
+#   heading_style: "font-weight: bold; color: gray"     # Custom heading style (e.g. "font-weight: bold; text-decoration: underline")
 #   video: null             # Video banner source
 #   loop: true              # Video loop
 #   volume: 0               # Video volume (100% is 1.0)

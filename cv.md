@@ -146,4 +146,4 @@ Research on emotion dynamics
 <br>
 <hr style="border:.5px solid lightgray"> <br>
 
-You can find a PDF version of my CV [here](https://raw.githubusercontent.com/johaab/johaab.github.io/master/assets/pdf/CV_Johannes.pdf).
+You can find a PDF version of my CV [here](https://raw.githubusercontent.com/jhnnsjkbk/jhnnsjkbk.github.io/master/assets/pdf/CV_Johannes.pdf).

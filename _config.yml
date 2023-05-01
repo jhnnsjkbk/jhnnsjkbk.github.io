@@ -145,8 +145,8 @@ header_pages:
 # - index.html
  - about.md
  - cv.md
- - contact.md
  - publications.md
+ - contact.md
 # - categories.html
 # - tags.html
 # - about.md

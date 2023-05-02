@@ -146,6 +146,7 @@ header_pages:
  - about.md
  - cv.md
  - publications.md
+ - media.md
  - contact.md
 # - categories.html
 # - tags.html

@@ -16,4 +16,4 @@ In October 2022, I joined IBM Research as a Visiting Researcher and since then h
 
 <img src="https://raw.githubusercontent.com/jhnnsjkbk/jhnnsjkbk.github.io/master/assets/images/banners/Foto_Johannes_Jakubik_2.png"
      alt="Johannes"
-     style="margin-left: 20px; margin-right: 20px; margin-top: 20px; margin-bottom: 20px;" />
+     style="margin-top: 20px;" />

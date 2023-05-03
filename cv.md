@@ -16,7 +16,7 @@ title: CV
 <br>
 
 
-### [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php) 
+### [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/index.php) 
 **PhD Candidate in Machine Learning & Information Systems**
 
 Research on applied machine learning and deep learning.

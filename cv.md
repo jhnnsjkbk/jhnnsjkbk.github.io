@@ -51,7 +51,7 @@ Research on applied machine learning and deep learning.
 <br>
 
 
-### [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php) 
+### [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/index.php) 
 **Several Positions as Teaching Assistant and Graduate Research Assistent**
 
 - Teaching assistant for mathematical optimization and advanced statistics
@@ -85,7 +85,7 @@ Research on applied machine learning and deep learning.
 <br>
 
 
-### [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php) 
+### [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/index.php) 
 **Master of Science - Industrial Engineering and Management**
 
 - Machine learning
@@ -115,7 +115,7 @@ Master thesis at ETH Zurich: "Applied prescriptive analytics: Combining machine 
 
 
 
-### [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php) 
+### [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/index.php) 
 **Bachelor of Science - Industrial Engineering and Management**
 
 Thesis: "Reinforcement learning based optimization of stochastic production processes for an opportunistic maintenance system" (1.0)

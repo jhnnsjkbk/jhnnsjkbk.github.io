@@ -28,7 +28,6 @@ Research on applied machine learning and deep learning.
 <br>
 
 
-
 ### [Dr. Ing. h.c. F. Porsche AG - Motorsport Department](https://motorsports.porsche.com/usa/en) 
 **Machine Learning and Information System Intern**
 

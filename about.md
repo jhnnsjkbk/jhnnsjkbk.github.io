@@ -3,7 +3,7 @@ layout: about
 title: About me
 ---
 
-I am a 3rd year Ph.D. student in Machine Learning and Information Systems at [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/index.php). My research interests include foundation models, data-centric AI, and human-centered artificial intelligence. 
+I am a 3rd year Ph.D. student in Machine Learning (ML) and Information Systems (IS) at [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/index.php). My research interests include ML for climate impact, data-centric ML, and human-centered artificial intelligence. 
 
 In October 2020, I graduated from KIT with a bachelor’s and a master’s degree in Industrial Engineering and Management with a focus on machine learning, statistics, and optimization. During my master’s degree, I studied Information Systems and Computer Engineering at the [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) in Lisbon, Portugal and authored my master's thesis at [ETH Zurich](https://ethz.ch/en.html) at the Chair of Management Information Systems in the field of machine learning and optimization. 
 

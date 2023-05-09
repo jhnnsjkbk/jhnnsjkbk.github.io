@@ -17,6 +17,10 @@ IBM AI Helps NASA Researchers Mine Earth Data. [Article (Feb 1st, 2023)](https:/
 <br>
 AI evolving faster than even its biggest backers expected [Article (Feb 2nd, 2023)](https://www.smh.com.au/world/north-america/things-are-moving-really-really-fast-inside-a-lab-researching-ai-20230201-p5ch1z.html) 
 
+**Reuters**
+<br>
+IBM unveils new watsonx, AI and data platform [Article (May 9th, 2023)](https://www.reuters.com/technology/ibm-unveils-new-watsonx-ai-data-platform-2023-05-09/)
+
 <br>
 <hr style="border:.5px solid lightgray"> <br>
 

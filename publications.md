@@ -34,7 +34,7 @@ Hemmer, P., Thede, L., Vössing, M., **Jakubik, J.**, & Kühl, N. (2023). Learni
 
 **ECML-PKDD**
 <br>
-**Jakubik, J.**, Schöffer, J., Hoge, V., Vössing, M., & Kühl, N. (2023, January). An Empirical Evaluation of Predicted Outcomes as Explanations in Human-AI Decision-Making. In Machine Learning and Principles and Practice of Knowledge Discovery in Databases: International Workshops of ECML PKDD 2022, Grenoble, France, September 19–23, 2022, Proceedings, Part I (pp. 353-368). Cham: Springer Nature Switzerland. [Paper](https://www.researchgate.net/profile/Johannes-Jakubik/publication/362567180_An_Empirical_Evaluation_of_Predicted_Outcomes_as_Explanations_in_Human-AI_Decision-Making/links/63119abd5eed5e4bd13bffd2/An-Empirical-Evaluation-of-Predicted-Outcomes-as-Explanations-in-Human-AI-Decision-Making.pdf)
+**Jakubik, J.**, Schöffer, J., Hoge, V., Vössing, M., & Kühl, N. (2023, January). An Empirical Evaluation of Predicted Outcomes as Explanations in Human-AI Decision-Making. In Machine Learning and Principles and Practice of Knowledge Discovery in Databases: International Workshops of ECML PKDD 2022, Proceedings, Part I (pp. 353-368). [Paper](https://www.researchgate.net/profile/Johannes-Jakubik/publication/362567180_An_Empirical_Evaluation_of_Predicted_Outcomes_as_Explanations_in_Human-AI_Decision-Making/links/63119abd5eed5e4bd13bffd2/An-Empirical-Evaluation-of-Predicted-Outcomes-as-Explanations-in-Human-AI-Decision-Making.pdf)
 
 **IJCAI**
 <br>

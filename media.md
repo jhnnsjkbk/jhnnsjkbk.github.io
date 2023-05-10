@@ -21,6 +21,10 @@ AI evolving faster than even its biggest backers expected [Article (Feb 2nd, 202
 <br>
 IBM unveils new watsonx, AI and data platform [Article (May 9th, 2023)](https://www.reuters.com/technology/ibm-unveils-new-watsonx-ai-data-platform-2023-05-09/)
 
+**CNBC**
+<br>
+IBM takes another shot at Watson as A.I. boom picks up steam [Article (May 9th, 2023)](https://www.cnbc.com/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html)
+
 **TechCrunch**
 <br>
 IBM intros a slew of new AI services, including generative models [Article (May 9th, 2023)](https://techcrunch.com/2023/05/09/ibm-intros-a-slew-of-new-ai-services-including-generative-models/amp/?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNoLw&guce_referrer_sig=AQAAAD_BS&guccounter=2)
@@ -29,6 +33,15 @@ IBM intros a slew of new AI services, including generative models [Article (May 
 <hr style="border:.5px solid lightgray"> <br>
 
 ### Germany 
+**Heise**
+<br>
+Watsonx: IBM liefert die KI-Modelle, Firmen dürfen sie individuell anpassen [Article (May 9th, 2023)](https://www.heise.de/news/IBM-KI-Plattform-Watsonx-samt-vortrainierter-Modelle-zum-Anpassen-8991618.html)
+
+**Computerwoche**
+<br>
+IBM kündigt KI-Offensive an [Article (May 9th, 2023)](https://www.computerwoche.de/a/ibm-kuendigt-ki-offensive-an,3614423)
+
+
 **BigData-Insider**
 <br>
 Mit KI gegen die Folgen des Klimawandels [Article (April 14th, 2023)](https://www.bigdata-insider.de/mit-ki-gegen-die-folgen-des-klimawandels-a-ff759cda97b6d430b9fc2a88ae8d4987/) 

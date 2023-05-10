@@ -25,6 +25,10 @@ IBM unveils new watsonx, AI and data platform [Article (May 9th, 2023)](https://
 <br>
 IBM takes another shot at Watson as A.I. boom picks up steam [Article (May 9th, 2023)](https://www.cnbc.com/2023/05/09/ibm-takes-another-shot-at-watson-as-ai-boom-picks-up-steam.html)
 
+**Bloomberg**
+<br>
+IBM Unveils the Watsonx Platform to Power Next-Generation Foundation Models for Business [Article (May 9th, 2023)](https://www.bloomberg.com/press-releases/2023-05-09/ibm-unveils-the-watsonx-platform-to-power-next-generation-foundation-models-for-business-lhg3ptjk)
+
 **TechCrunch**
 <br>
 IBM intros a slew of new AI services, including generative models [Article (May 9th, 2023)](https://techcrunch.com/2023/05/09/ibm-intros-a-slew-of-new-ai-services-including-generative-models/amp/?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNoLw&guce_referrer_sig=AQAAAD_BS&guccounter=2)

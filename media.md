@@ -21,6 +21,10 @@ AI evolving faster than even its biggest backers expected [Article (Feb 2nd, 202
 <br>
 IBM unveils new watsonx, AI and data platform [Article (May 9th, 2023)](https://www.reuters.com/technology/ibm-unveils-new-watsonx-ai-data-platform-2023-05-09/)
 
+**TechCrunch**
+<br>
+IBM intros a slew of new AI services, including generative models [Article (May 9th, 2023)](https://techcrunch.com/2023/05/09/ibm-intros-a-slew-of-new-ai-services-including-generative-models/amp/?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNoLw&guce_referrer_sig=AQAAAD_BS&guccounter=2)
+
 <br>
 <hr style="border:.5px solid lightgray"> <br>
 

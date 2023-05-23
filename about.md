@@ -17,4 +17,5 @@ During the weekends, I love spending time in the mountains.
 
 <img src="https://raw.githubusercontent.com/jhnnsjkbk/jhnnsjkbk.github.io/master/assets/images/banners/skiing.png"
      alt="Johannes"
+     width="60%" height="60%"
      style="margin-top: 20px;" />

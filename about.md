@@ -15,6 +15,7 @@ In October 2022, I joined IBM Research as a Visiting Researcher and since then h
 
 During the weekends, I love spending time in the mountains.
 
+<p style="text-align:center;">
 <img src="https://raw.githubusercontent.com/jhnnsjkbk/jhnnsjkbk.github.io/master/assets/images/banners/skiing.png"
      alt="Johannes"
      width="60%" height="60%"

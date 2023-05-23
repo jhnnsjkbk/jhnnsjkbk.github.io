@@ -13,7 +13,8 @@ For the first year of my Ph.D., I worked as an Affiliated Research Member at ETH
 
 In October 2022, I joined IBM Research as a Visiting Researcher and since then have been working on geospatial foundation models and the segmentation of natural hazards on satellite images. I am part of a research collaboration between [IBM Research](https://www.research.ibm.com/) and [NASA](https://impact.earthdata.nasa.gov), where I am responsible for fine-tuning [geospatial foundation models](https://research.ibm.com/blog/ibm-nasa-foundation-models) to downstream applications.
 
+During the weekends, I love spending time in the mountains.
 
-<img src="https://raw.githubusercontent.com/jhnnsjkbk/jhnnsjkbk.github.io/master/assets/images/banners/Foto_Johannes_Jakubik_2.png"
+<img src="https://raw.githubusercontent.com/jhnnsjkbk/jhnnsjkbk.github.io/master/assets/images/banners/skiing.png"
      alt="Johannes"
      style="margin-top: 20px;" />

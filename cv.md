@@ -85,7 +85,7 @@ Research on applied machine learning and deep learning.
 
 
 ### [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/index.php) 
-**Master of Science - Industrial Engineering and Management**
+**Master of Science**
 
 - Machine learning
 - Stochastic optimization
@@ -115,7 +115,7 @@ Master thesis at ETH Zurich: "Applied prescriptive analytics: Combining machine 
 
 
 ### [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/index.php) 
-**Bachelor of Science - Industrial Engineering and Management**
+**Bachelor of Science**
 
 Thesis: "Reinforcement learning based optimization of stochastic production processes for an opportunistic maintenance system" (1.0)
 

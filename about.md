@@ -3,9 +3,9 @@ layout: about
 title: About me
 ---
 
-I am a 3rd year Ph.D. student in Machine Learning (ML) and Information Systems (IS) at [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/index.php). My research interests include ML for climate impact, data-centric ML, and human-centered artificial intelligence. 
+I am a 3rd year Ph.D. student in Machine Learning (ML) and Information Systems (IS) at [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/index.php). My research interests include foundational models, few-shot learning, and uncertainty in machine learning.
 
-In October 2020, I graduated from KIT with a bachelor’s and a master’s degree in Industrial Engineering and Management with a focus on machine learning, statistics, and optimization. During my master’s degree, I studied Information Systems and Computer Engineering at the [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) in Lisbon, Portugal and authored my master's thesis at [ETH Zurich](https://ethz.ch/en.html) at the Chair of Management Information Systems in the field of machine learning and optimization. 
+In October 2020, I graduated from KIT with a bachelor’s and a master’s degree with a focus on machine learning, statistics, and optimization. During my master’s degree, I studied Information Systems and Computer Engineering at the [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) in Lisbon, Portugal and authored my master's thesis at [ETH Zurich](https://ethz.ch/en.html) at the Chair of Management Information Systems in the field of machine learning and optimization. 
 
 Throughout my studies, I have worked on real-world machine learning implementations (e.g., computer vision, natural language processing) during internships at [Porsche motorsports](https://motorsports.porsche.com/usa/en), [d-fine](https://www.d-fine.com/en/), and [EnBW](https://www.enbw.com/company/). 
 

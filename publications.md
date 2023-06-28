@@ -22,9 +22,11 @@ title: Publications
 Kuhnle, A., **Jakubik, J.**, & Lanza, G. (2019). Reinforcement learning for opportunistic maintenance optimization. Production Engineering, 13, 33-41. [Paper](https://link.springer.com/article/10.1007/s11740-018-0855-7)
 
 ### Conference papers 
-**IGARSS**
+
+**NeurIPS**
 <br>
-**Jakubik, J.**, Muszynski, M., Vössing, M., Kühl, N., & Brunschwiler, T. (2023). Toward Foundation Models for Earth Monitoring: Generalizable Deep Learning Models for Natural Hazard Segmentation. International Geoscience and Remote Sensing Symposium. [Paper](https://arxiv.org/pdf/2301.09318)
+**Jakubik, J.**, Blumenstiel, B., Kühne, H., Vössing, M. (2023). What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation. Under single-blinded review at NeurIPS Benchmark & Data Track. [Paper](http://arxiv.org/abs/2306.15521)
+
 
 **AAAI**
 <br>
@@ -39,6 +41,10 @@ Hemmer, P., Thede, L., Vössing, M., **Jakubik, J.**, & Kühl, N. (2023). Learni
 **IJCAI**
 <br>
 Hemmer, P., Schellhammer, S., Vössing, M., **Jakubik, J.**, & Satzger, G. Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts. IJCAI'22. [Paper](https://arxiv.org/pdf/2206.07948)
+
+**IGARSS**
+<br>
+**Jakubik, J.**, Muszynski, M., Vössing, M., Kühl, N., & Brunschwiler, T. (2023). Toward Foundation Models for Earth Monitoring: Generalizable Deep Learning Models for Natural Hazard Segmentation. International Geoscience and Remote Sensing Symposium. [Paper](https://arxiv.org/pdf/2301.09318)
 
 **ICWSM**
 <br>

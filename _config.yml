@@ -142,12 +142,12 @@ translate_langs: []
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-# - index.html
+ - index.html
  - about.md
  - cv.md
  - publications.md
  - media.md
- - contact.md
+# - contact.md
 # - categories.html
 # - tags.html
 # - about.md

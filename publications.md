@@ -25,7 +25,7 @@ Kuhnle, A., **Jakubik, J.**, & Lanza, G. (2019). Reinforcement learning for oppo
 
 **NeurIPS**
 <br>
-**Jakubik, J.**, Blumenstiel, B., Kühne, H., Vössing, M. (2023). What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation. Under single-blinded review at NeurIPS Benchmark & Data Track. [Paper](http://arxiv.org/abs/2306.15521)
+**Jakubik, J.**, Blumenstiel, B., Kühne, H., Vössing, M. (2023). What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation. Under single-blinded review at NeurIPS Benchmark & Data Track. [Paper](http://arxiv.org/abs/2306.15521) [Website](https://blumenstiel.github.io/mess-benchmark/) [Code](https://github.com/blumenstiel/MESS)
 
 
 **AAAI**
@@ -48,11 +48,11 @@ Hemmer, P., Schellhammer, S., Vössing, M., **Jakubik, J.**, & Satzger, G. Formi
 
 **ICWSM**
 <br>
-**Jakubik, J.**, Vössing, M., Bär, D., Pröllochs, N., & Feuerriegel, S. (2022). Online Emotions During the Storming of the US Capitol: Evidence from the Social Media Network Parler. ICWSM'23. [Paper](https://arxiv.org/pdf/2204.04245)
+**Jakubik, J.**, Vössing, M., Bär, D., Pröllochs, N., & Feuerriegel, S. (2022). Online Emotions During the Storming of the US Capitol: Evidence from the Social Media Network Parler. ICWSM'23. [Paper](https://arxiv.org/pdf/2204.04245) [Code](https://github.com/jhnnsjkbk/EmotionDynamics)
 
 **HHAI**
 <br>
-Schoeffer, J., **Jakubik, J.**, Voessing, M., Kuehl, N., & Satzger, G. (2023). On the Interdependence of Reliance Behavior and Accuracy in AI-Assisted Decision-Making. HHAI'23. [Paper](https://arxiv.org/pdf/2304.08804)
+Schoeffer, J., **Jakubik, J.**, Voessing, M., Kuehl, N., & Satzger, G. (2023). On the Interdependence of Reliance Behavior and Accuracy in AI-Assisted Decision-Making. HHAI'23. [Paper](https://arxiv.org/pdf/2304.08804) [Code](https://github.com/jhnnsjkbk/accuracy-reliance)
 
 ### Preprints
 **Data-centric Artificial Intelligence**

@@ -49,6 +49,10 @@ IBM kündigt KI-Offensive an [Article (May 9th, 2023)](https://www.computerwoche
 <br>
 Mit KI gegen die Folgen des Klimawandels [Article (April 14th, 2023)](https://www.bigdata-insider.de/mit-ki-gegen-die-folgen-des-klimawandels-a-ff759cda97b6d430b9fc2a88ae8d4987/) 
 
+<br>
+<hr style="border:.5px solid lightgray"> <br>
+
+
 ## Honors
 ### Best paper award at HHAI'23
 Our full paper on the interdependence of reliance behavior and accuracy in AI-assisted decision-making got awarded with the best paper award! Find the paper [here](https://arxiv.org/pdf/2304.08804.pdf) and the ranking [here](https://hhai-conference.org/2023/accepted-papers/)

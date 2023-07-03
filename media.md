@@ -4,7 +4,7 @@ title: Media & Honors
 ---
 
 ## Media coverage of projects I'm involved in
-### International
+## International
 **Wall Street Journal**
 <br>
 IBM and NASA Collaborate to Research Impact of Climate Change with AI. [Article (Feb 1st, 2023)](https://www.wsj.com/articles/ibm-and-nasa-collaborate-to-research-impact-of-climate-change-with-ai-01675249538)
@@ -34,9 +34,8 @@ IBM Unveils the Watsonx Platform to Power Next-Generation Foundation Models for 
 IBM intros a slew of new AI services, including generative models [Article (May 9th, 2023)](https://techcrunch.com/2023/05/09/ibm-intros-a-slew-of-new-ai-services-including-generative-models/amp/?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNoLw&guce_referrer_sig=AQAAAD_BS&guccounter=2)
 
 <br>
-<hr style="border:.5px solid lightgray"> <br>
 
-### Germany 
+## Germany 
 **Heise**
 <br>
 Watsonx: IBM liefert die KI-Modelle, Firmen dürfen sie individuell anpassen [Article (May 9th, 2023)](https://www.heise.de/news/IBM-KI-Plattform-Watsonx-samt-vortrainierter-Modelle-zum-Anpassen-8991618.html)

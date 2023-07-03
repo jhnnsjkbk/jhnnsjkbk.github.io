@@ -5,19 +5,27 @@ title: Publications
 
 ## Selected publications
 ### Journal publications 
-**Productions and Operations Management (A-Journal, FT-50)**
+**Productions and Operations Management**
+<br>
+**FT-50, Journal ranking: A, IF: 4.6**
 <br>
 **Jakubik, J.**, & Feuerriegel, S. (2022). Data‐driven allocation of development aid toward sustainable development goals: Evidence from HIV/AIDS. Production and Operations Management, 31(6), 2739-2756. [Paper](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/poms.13714)
 
-**European Journal of Operational Research (A-Journal)**
+**European Journal of Operational Research**
+<br>
+**Journal ranking: A, IF: 6.4**
 <br>
 **Jakubik, J.**, Binding, A., & Feuerriegel, S. (2021). Directed particle swarm optimization with Gaussian-process-based function forecasting. European Journal of Operational Research, 295(1), 157-169. [Paper](https://www.sciencedirect.com/science/article/pii/S0377221721001661)
 
-**Quantitative Finance (B-Journal)**
+**Quantitative Finance**
+<br>
+**Journal ranking: B, IF: 2.0**
 <br>
 **Jakubik, J.**, Nazemi, A., Geyer-Schulz, A., & Fabozzi, F. J. (2023). Incorporating financial news for forecasting Bitcoin prices based on long short-term memory networks. Quantitative Finance, 23(2), 335-349. [Paper](https://www.tandfonline.com/doi/abs/10.1080/14697688.2022.2130085)
 
-**Production Engineering (C-Journal)**
+**Production Engineering**
+<br>
+**Journal ranking: N/A, IF: 3.6**
 <br>
 Kuhnle, A., **Jakubik, J.**, & Lanza, G. (2019). Reinforcement learning for opportunistic maintenance optimization. Production Engineering, 13, 33-41. [Paper](https://link.springer.com/article/10.1007/s11740-018-0855-7)
 
@@ -30,9 +38,8 @@ Kuhnle, A., **Jakubik, J.**, & Lanza, G. (2019). Reinforcement learning for oppo
 
 **AAAI**
 <br>
-Hemmer, P., Thede, L., Vössing, M., **Jakubik, J.**, & Kühl, N. (2023). Learning to Defer with Limited Expert Predictions. AAAI'23. [Paper](https://arxiv.org/pdf/2304.07306)
-<br>
-**Jakubik, J.**, Hemmer, P., Vössing, M., Blumenstiel, B., Bartos, A., & Mohr, K. (2022, June). Designing a Human-in-the-Loop System for Object Detection in Floor Plans. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 36, No. 11, pp. 12524-12530). [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/21522/21271)
+- Hemmer, P., Thede, L., Vössing, M., **Jakubik, J.**, & Kühl, N. (2023). Learning to Defer with Limited Expert Predictions. AAAI'23. [Paper](https://arxiv.org/pdf/2304.07306)
+- **Jakubik, J.**, Hemmer, P., Vössing, M., Blumenstiel, B., Bartos, A., & Mohr, K. (2022, June). Designing a Human-in-the-Loop System for Object Detection in Floor Plans. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 36, No. 11, pp. 12524-12530). [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/21522/21271)
 
 **ECML-PKDD**
 <br>

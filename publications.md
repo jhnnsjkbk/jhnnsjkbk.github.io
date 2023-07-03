@@ -25,7 +25,7 @@ title: Publications
 
 **Production Engineering**
 <br>
-**Journal ranking: N/A, IF: 3.6**
+**Journal ranking: C, IF: 0.5**
 <br>
 Kuhnle, A., **Jakubik, J.**, & Lanza, G. (2019). Reinforcement learning for opportunistic maintenance optimization. Production Engineering, 13, 33-41. [Paper](https://link.springer.com/article/10.1007/s11740-018-0855-7)
 
@@ -38,7 +38,7 @@ Kuhnle, A., **Jakubik, J.**, & Lanza, G. (2019). Reinforcement learning for oppo
 
 **AAAI**
 <br>
-- Hemmer, P., Thede, L., Vössing, M., **Jakubik, J.**, & Kühl, N. (2023). Learning to Defer with Limited Expert Predictions. AAAI'23. [Paper](https://arxiv.org/pdf/2304.07306)
+- Hemmer, P., Thede, L., Vössing, M., **Jakubik, J.**, & Kühl, N. (2023). Learning to Defer with Limited Expert Predictions. AAAI'23. [Paper](https://arxiv.org/pdf/2304.07306) [Code](https://github.com/ptrckhmmr/learning-to-defer-with-limited-expert-predictions)
 - **Jakubik, J.**, Hemmer, P., Vössing, M., Blumenstiel, B., Bartos, A., & Mohr, K. (2022, June). Designing a Human-in-the-Loop System for Object Detection in Floor Plans. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 36, No. 11, pp. 12524-12530). [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/21522/21271)
 
 **ECML-PKDD**
@@ -47,7 +47,7 @@ Kuhnle, A., **Jakubik, J.**, & Lanza, G. (2019). Reinforcement learning for oppo
 
 **IJCAI**
 <br>
-Hemmer, P., Schellhammer, S., Vössing, M., **Jakubik, J.**, & Satzger, G. Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts. IJCAI'22. [Paper](https://arxiv.org/pdf/2206.07948)
+Hemmer, P., Schellhammer, S., Vössing, M., **Jakubik, J.**, & Satzger, G. Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts. IJCAI'22. [Paper](https://arxiv.org/pdf/2206.07948) [Code](https://github.com/ptrckhmmr/human-ai-teams)
 
 **IGARSS**
 <br>

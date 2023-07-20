@@ -11,7 +11,7 @@ Throughout my studies, I have worked on real-world machine learning implementati
 
 For the first year of my Ph.D., I worked as an Affiliated Research Member at ETH Zurich to research emotion dynamics on social media. 
 
-In October 2022, I joined IBM Research as a Visiting Researcher and since then have been working on geospatial foundation models and the segmentation of natural hazards on satellite images. I am part of a research collaboration between [IBM Research](https://www.research.ibm.com/) and [NASA](https://impact.earthdata.nasa.gov), where I am responsible for fine-tuning [geospatial foundation models](https://research.ibm.com/blog/ibm-nasa-foundation-models) to downstream applications.
+In October 2022, I joined IBM Research as a Visiting Researcher and since then have been working on geospatial foundation models and the segmentation of natural hazards on satellite images. I am part of a research collaboration between [IBM Research](https://www.research.ibm.com/) and [NASA](https://impact.earthdata.nasa.gov), where I am responsible for pretraining [geospatial foundation models](https://research.ibm.com/blog/ibm-nasa-foundation-models) and transferring them to downstream applications.
 
 During the weekends, I love spending time in the mountains with my family and friends.
 

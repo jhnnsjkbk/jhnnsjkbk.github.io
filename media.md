@@ -36,6 +36,11 @@ IBM intros a slew of new AI services, including generative models [Article (May 
 <br>
 
 ## Germany 
+
+**Spektrum der Wissenschaft**
+<br>
+NASA und IBM machen Geodaten-KI für alle zugänglich [Article (August 7th, 2023)](https://www.spektrum.de/news/open-science-nasa-und-ibm-machen-geodaten-ki-fuer-alle-zugaenglich/2167956)
+
 **Heise**
 <br>
 Watsonx: IBM liefert die KI-Modelle, Firmen dürfen sie individuell anpassen [Article (May 9th, 2023)](https://www.heise.de/news/IBM-KI-Plattform-Watsonx-samt-vortrainierter-Modelle-zum-Anpassen-8991618.html)

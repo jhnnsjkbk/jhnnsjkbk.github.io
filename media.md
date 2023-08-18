@@ -63,7 +63,7 @@ Mit KI gegen die Folgen des Klimawandels [Article (April 14th, 2023)](https://ww
 Our full paper on the interdependence of reliance behavior and accuracy in AI-assisted decision-making got awarded with the best paper award! Find the paper [here](https://arxiv.org/pdf/2304.08804.pdf) and the ranking [here](https://hhai-conference.org/2023/accepted-papers/).
 
 ### Best paper award nomination and top 2% of accepted papers at WI'23
-Our full paper on improving the efficiency of human-in-the-loop systems: adding artificial to human experts was nominated for the best paper award at WI'23 and is one out of four papers from the entire set of accepted papers that was selected for a thought-provoking session. Find the nomination [here](https://wi2023.de/en/best-paper-nominations/)
+Our full paper on improving the efficiency of human-in-the-loop systems: adding artificial to human experts was nominated for the best paper award at WI'23 and is one out of four papers from the entire set of accepted papers that was selected for a thought-provoking session. Find the nomination [here](https://wi2023.de/en/best-paper-nominations/).
 
 ### Invited keynote speaker at IBM Think on Tour
 As a special guest, I contributed to the keynote on generative AI for business and climate impact based on our work at IBM Research in collaboration with NASA. Find more information [here](https://www.linkedin.com/posts/johannes-jakubik-8763ba167_was-super-exciting-to-contribute-to-the-keynote-activity-7077302085284716544-kDBj?utm_source=share&utm_medium=member_ios).

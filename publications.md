@@ -33,7 +33,7 @@ Kuhnle, A., **Jakubik, J.**, & Lanza, G. (2019). Reinforcement learning for oppo
 
 **NeurIPS**
 <br>
-**Jakubik, J.**, Blumenstiel, B., Kühne, H., Vössing, M. (2023). What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation. Under single-blinded review at NeurIPS Benchmark & Data Track. [Paper](http://arxiv.org/abs/2306.15521) [Website](https://blumenstiel.github.io/mess-benchmark/) [Code](https://github.com/blumenstiel/MESS)
+**Jakubik, J.**, Blumenstiel, B., Kühne, H., Vössing, M. (2023). What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation. Accepted at NeurIPS 2023 Benchmarks & Datasets Track. [Paper](http://arxiv.org/abs/2306.15521) [Website](https://blumenstiel.github.io/mess-benchmark/) [Code](https://github.com/blumenstiel/MESS)
 
 
 **AAAI**

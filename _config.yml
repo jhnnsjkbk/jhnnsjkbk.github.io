@@ -162,6 +162,9 @@ defaults:
 # Banner default settings
 # These banner settings are for global banner default, but you can also
 # config it by the front matter for one specific post
+banner:
+  opacity: 0.6            # Banner opacity (100% is 1.0)
+
 # banner:
 #   video: null             # Video banner source
 #   loop: true              # Video loop

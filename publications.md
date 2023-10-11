@@ -35,6 +35,10 @@ Holstein, J., Schemmer, M., **Jakubik, J.**, Vössing, M., Satzger, G. (2023). S
 <br>
 Kuhnle, A., **Jakubik, J.**, & Lanza, G. (2019). Reinforcement learning for opportunistic maintenance optimization. Production Engineering, 13, 33-41. [Paper](https://link.springer.com/article/10.1007/s11740-018-0855-7)
 
+<br>
+
+<hr style="border:.5px solid lightgray"> <br>
+
 ### Conference papers 
 
 ### Computer Science
@@ -71,6 +75,9 @@ Schoeffer, J., **Jakubik, J.**, Voessing, M., Kuehl, N., & Satzger, G. (2023). O
 - **Jakubik, J.**, Muszynski, M., Vössing, M., Kühl, N., & Brunschwiler, T. (2023). Unsupervised Domain Adaptation for Geospatial Semantic Segmentation. American Geophysical Union (AGU).
 - B Zadrozny, R Bangalore, K Das, P Fraccaro, C Gomes, J Jakubik, Lambhate, D., Muszynski, M., Oliveira, D., Watson, C., & Weldemariam, K. (2023). Fine-tuning a Geospatial Foundation Model for Environmental Impact Monitoring Tasks. American Geophysical Union (AGU).
 
+<br>
+
+<hr style="border:.5px solid lightgray"> <br>
 
 ### Open-source Work and Preprints
 

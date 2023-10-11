@@ -82,10 +82,8 @@ Mukkavilli, S. K., Civitarese, D. S., Schmude, J., **Jakubik, J.**, Jones, A., N
 <br>
 **Jakubik, J.**, Chu, L., Fraccaro, P., Gomes, C., Nyirjesy, G., Bangalore, R., Lamb- hate, D., Das, K., Oliveira Borges, D., Kimura, D., Simumba, N., Szwarcman, D., Muszynski, M., Weldemariam, K., Zadrozny, B., Ganti, R., Costa, C., Edwards, B., Watson, C., Mukkavilli, K., Schmude, J., Hamann, H., Parkin, R., Roy, S., Phillips, C., Ankur, K., Ramasubramanian, M., Gurung, I., Leong, W., Avery, R., Ramachandran, R., Maskey, M., Olofossen, P., Fancher, E., Lee, T., Murphy, K., Duffy, D., Little, M., Alemohammad, H., Cecil, M., Li, S., Khallaghi, S., Godwin, D., Ahmadi, M., Kordi, F., Saux, B., Pastick, N., Doucette, P., Fleckenstein, R., Luanga, D. (2023). NASA-IBM HLS Foundation Model - Image Segmentation by Foundation Model Finetuning. [Code](https://github.com/nasa-impact/hls-foundation-os) 
 
-<br>
 **Jakubik, J.**, Chu, L., Fraccaro, P., Gomes, C., Nyirjesy, G., Bangalore, R., Lamb- hate, D., Das, K., Oliveira Borges, D., Kimura, D., Simumba, N., Szwarcman, D., Muszynski, M., Weldemariam, K., Zadrozny, B., Ganti, R., Costa, C., Edwards, B., Watson, C., Mukkavilli, K., Schmude, J., Hamann, H., Parkin, R., Roy, S., Phillips, C., Ankur, K., Ramasubramanian, M., Gurung, I., Leong, W., Avery, R., Ramachandran, R., Maskey, M., Olofossen, P., Fancher, E., Lee, T., Murphy, K., Duffy, D., Little, M., Alemohammad, H., Cecil, M., Li, S., Khallaghi, S., Godwin, D., Ahmadi, M., Kordi, F., Saux, B., Pastick, N., Doucette, P., Fleckenstein, R., & Luanga, D. (2023). Prithvi-100M. [HuggingFace for Weights and Demo](https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M)
 
-<br>
 **Jakubik, J.**, Fraccaro, P., Oliveira Borges, D., Muszynski, M., Weldemariam, K., Zadrozny, B., Ganti, R., & Mukkavilli, K., (2023). Prithvi-100M - Flood Mapping. [HuggingFace for Weights and Demo](https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M-sen1floods11)
 
 <br>

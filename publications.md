@@ -41,8 +41,6 @@ Kuhnle, A., **Jakubik, J.**, & Lanza, G. (2019). Reinforcement learning for oppo
 
 ### Conference papers 
 
-### Computer Science
-
 **NeurIPS**
 <br>
 **Jakubik, J.**, Blumenstiel, B., Kühne, H., Vössing, M. (2023). What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation. Accepted at NeurIPS 2023 Benchmarks & Datasets Track. [Paper](http://arxiv.org/abs/2306.15521) [Website](https://blumenstiel.github.io/mess-benchmark/) [Code](https://github.com/blumenstiel/MESS)
@@ -63,8 +61,6 @@ Hemmer, P., Schellhammer, S., Vössing, M., **Jakubik, J.**, & Satzger, G. Formi
 **HHAI**
 <br>
 Schoeffer, J., **Jakubik, J.**, Voessing, M., Kuehl, N., & Satzger, G. (2023). On the Interdependence of Reliance Behavior and Accuracy in AI-Assisted Decision-Making. HHAI'23. [Paper](https://arxiv.org/pdf/2304.08804) [Code](https://github.com/jhnnsjkbk/accuracy-reliance)
-
-### Earth Observation and Remote Sensing
 
 **IGARSS**
 <br>

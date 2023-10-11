@@ -18,7 +18,7 @@ $brand-colors: (
 
 $theme-name: "{{ site.theme_color }}";
 $brand-name: "{{ site.brand_color }}";
-$theme-color: map-get($theme-colors, "snowwhite");
+$theme-color: map-get($theme-colors, "spacegrey");
 $brand-color: map-get($brand-colors, "greenblue");
 
 @if map-has-key($theme-colors, $theme-name) {

@@ -86,7 +86,6 @@ Mukkavilli, S. K., Civitarese, D. S., Schmude, J., **Jakubik, J.**, Jones, A., N
 
 **Jakubik, J.**, Fraccaro, P., Oliveira Borges, D., Muszynski, M., Weldemariam, K., Zadrozny, B., Ganti, R., & Mukkavilli, K., (2023). Prithvi-100M - Flood Mapping. [HuggingFace for Weights and Demo](https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M-sen1floods11)
 
-<br>
 Maskey, M., Cavallaro, G., Chu, L., Edwards, B., Fraccaro, P., Freitag, B., Gurung, I, Heras, D., Costa, C., Corvin, A., Asthana, A., **Jakubik, J.**, Ganti, R., Ramasubra- manian, K., Ramachandran, R., Weldemariam, K (2023). A Summer School Session on Mastering Geospatial Artificial Intelligence (GeoAI): From Data Production to AI Foundation Model Development and Downstream Applications. IEEE Geoscience and Remote Sensing Magazine, 11(3), 129-132. [Paper](https://ieeexplore.ieee.org/iel7/6245518/10261874/10261878.pdf)
 
 **Data-centric Artificial Intelligence**

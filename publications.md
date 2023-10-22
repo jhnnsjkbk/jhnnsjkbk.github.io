@@ -3,6 +3,8 @@ layout: publications
 title: Publications
 ---
 
+Together with a range of amazing co-authors, we have published 5+ journal papers (including top outlets, e.g., Production and Operations Management and the European Journal on Operational Research) and 10+ conference papers (including top conferences like NeurIPS, AAAI, ICWSM, and IEEE IGARSS).
+
 ## Selected publications
 ### Journal publications 
 **Productions and Operations Management**
@@ -95,3 +97,29 @@ Maskey, M., Cavallaro, G., Chu, L., Edwards, B., Fraccaro, P., Freitag, B., Guru
 <hr style="border:.5px solid lightgray"> <br>
 
 You can find a full list of publications I co-authored also on [Google Scholar](https://scholar.google.com/citations?user=Bz3X5pQAAAAJ&hl=de&oi=ao).
+
+<br>
+<hr style="border:.5px solid lightgray"> 
+<br>
+
+### Community service
+
+Here is a selected overview of my community services, including reviewer activities and chairing activities.
+
+**Journals**
+- Journal of Artificial Intelligence Research (JAIR)
+- Omega -- The International Journal of Management Science
+
+**Conferences**
+- NeurIPS
+- ECML
+- AAAI
+- CHI
+- ICIS
+- ECIS
+- HICSS
+- WI
+- CBI 
+
+I served as track chair at IEEE IGARSS’23.
+

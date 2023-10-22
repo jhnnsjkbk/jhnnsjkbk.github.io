@@ -3,9 +3,16 @@ layout: publications
 title: Publications
 ---
 
-Together with a range of amazing co-authors, we have published 5+ journal papers (including top outlets, e.g., Production and Operations Management and the European Journal on Operational Research) and 10+ conference papers (including top conferences like NeurIPS, AAAI, ICWSM, and IEEE IGARSS).
+Together with a range of amazing co-authors, I have published 5+ journal papers (including top outlets, e.g., Production and Operations Management and the European Journal on Operational Research) and 10+ conference papers (including top conferences like NeurIPS, AAAI, ICWSM, and IEEE IGARSS). You can find a full list of publications I co-authored also on [Google Scholar](https://scholar.google.com/citations?user=Bz3X5pQAAAAJ&hl=de&oi=ao).
+<br>
+<br>
 
-## Selected publications
+## Selected peer-reviewed publications
+
+<br>
+<hr style="border:.5px solid lightgray"> 
+<br>
+
 ### Journal publications 
 **Productions and Operations Management**
 <br>
@@ -32,8 +39,8 @@ Together with a range of amazing co-authors, we have published 5+ journal papers
 Holstein, J., Schemmer, M., **Jakubik, J.**, Vössing, M., Satzger, G. (2023). Sanitizing Data for Analysis: Designing Systems for Data Understanding. Electronic Markets,  33 (52). [Paper]([https://www.tandfonline.com/doi/abs/10.1080/14697688.2022.2130085](https://link.springer.com/article/10.1007/s12525-023-00677-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231009&utm_content=10.1007/s12525-023-00677-w))
 
 <br>
-
-<hr style="border:.5px solid lightgray"> <br>
+<hr style="border:.5px solid lightgray"> 
+<br>
 
 ### Conference papers 
 
@@ -68,8 +75,8 @@ Schoeffer, J., **Jakubik, J.**, Voessing, M., Kuehl, N., & Satzger, G. (2023). O
 - B Zadrozny, R Bangalore, K Das, P Fraccaro, C Gomes, J Jakubik, Lambhate, D., Muszynski, M., Oliveira, D., Watson, C., & Weldemariam, K. (2023). Fine-tuning a Geospatial Foundation Model for Environmental Impact Monitoring Tasks. American Geophysical Union (AGU).
 
 <br>
-
-<hr style="border:.5px solid lightgray"> <br>
+<hr style="border:.5px solid lightgray"> 
+<br>
 
 ### Open-source Work and Preprints
 
@@ -91,20 +98,15 @@ Maskey, M., Cavallaro, G., Chu, L., Edwards, B., Fraccaro, P., Freitag, B., Guru
 <br>
 **Jakubik**, J., Vössing, M., Kühl, N., Walk, J., & Satzger, G. (2022). Data-centric Artificial Intelligence. [Paper](https://arxiv.org/pdf/2212.11854.pdf) 
 
-
-<br>
-
-<hr style="border:.5px solid lightgray"> <br>
-
-You can find a full list of publications I co-authored also on [Google Scholar](https://scholar.google.com/citations?user=Bz3X5pQAAAAJ&hl=de&oi=ao).
-
 <br>
 <hr style="border:.5px solid lightgray"> 
 <br>
 
-### Community service
+## Community service
 
 Here is a selected overview of my community services, including reviewer activities and chairing activities.
+
+### Reviewer activities
 
 **Journals**
 - Journal of Artificial Intelligence Research (JAIR)
@@ -120,6 +122,8 @@ Here is a selected overview of my community services, including reviewer activit
 - HICSS
 - WI
 - CBI 
+
+### Chairing activities
 
 I served as track chair at IEEE IGARSS’23.
 

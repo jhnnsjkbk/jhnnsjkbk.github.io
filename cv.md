@@ -5,13 +5,24 @@ title: CV
 
 ## Experience
 ### [IBM Research Zürich](https://www.zurich.ibm.com/) 
+**Postdoctoral Researcher**
+
+- Pretraining, scaling, and finetuning of foundation models for weather and geospatial
+- Part of research collaboration between IBM Research and NASA
+
+<div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   January 2024 - ongoing</div>
+<div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Rüschlikon (Switzerland)</div>
+<br>
+
+
+### [IBM Research Zürich](https://www.zurich.ibm.com/) 
 **Visiting Researcher**
 
 - Geospatial foundation models for climate impact
 - Generalized zero-shot semantic segmentation 
 - Part of research collaboration between IBM Research and NASA
 
-<div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   October 2022 - ongoing</div>
+<div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   October 2022 - December 2023</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Rüschlikon (Switzerland)</div>
 <br>
 
@@ -20,10 +31,9 @@ title: CV
 **PhD Candidate in Machine Learning & Information Systems**
 
 Research on applied machine learning and deep learning.
-- Chair: Digital Service Innovation
-- Current topics: Foundation models, Data-centric AI, Human-centered AI 
+- Thesis: "Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning"
 
-<div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   October 2020 - ongoing</div>
+<div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   October 2020 - December 2023</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Karlsruhe (Germany)</div>
 <br>
 

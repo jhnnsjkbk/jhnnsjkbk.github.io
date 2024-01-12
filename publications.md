@@ -3,7 +3,7 @@ layout: publications
 title: Publications
 ---
 
-Together with a range of amazing co-authors, I have published 5+ journal papers (including top outlets, e.g., Production and Operations Management and the European Journal on Operational Research) and 10+ conference papers (including top conferences like NeurIPS, AAAI, ICWSM, and IEEE IGARSS). You can find a full list of publications I co-authored also on [Google Scholar](https://scholar.google.com/citations?user=Bz3X5pQAAAAJ&hl=de&oi=ao).
+Together with a range of amazing co-authors, I have published 5+ journal papers (including top outlets, e.g., Production and Operations Management and the European Journal on Operational Research) and 10+ conference papers (including top conferences like NeurIPS, AAAI, IJCAI). You can find a full list of publications I co-authored also on [Google Scholar](https://scholar.google.com/citations?user=Bz3X5pQAAAAJ&hl=de&oi=ao).
 
 <br>
 <hr style="border:.5px solid lightgray"> 

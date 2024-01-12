@@ -4,14 +4,12 @@ title: Publications
 ---
 
 Together with a range of amazing co-authors, I have published 5+ journal papers (including top outlets, e.g., Production and Operations Management and the European Journal on Operational Research) and 10+ conference papers (including top conferences like NeurIPS, AAAI, ICWSM, and IEEE IGARSS). You can find a full list of publications I co-authored also on [Google Scholar](https://scholar.google.com/citations?user=Bz3X5pQAAAAJ&hl=de&oi=ao).
-<br>
-<br>
-
-## Selected peer-reviewed publications
 
 <br>
 <hr style="border:.5px solid lightgray"> 
 <br>
+
+## Selected peer-reviewed publications
 
 ### Journal publications 
 **Productions and Operations Management**
@@ -25,6 +23,10 @@ Together with a range of amazing co-authors, I have published 5+ journal papers 
 **Journal ranking: A, IF: 6.4**
 <br>
 **Jakubik, J.**, Binding, A., & Feuerriegel, S. (2021). Directed particle swarm optimization with Gaussian-process-based function forecasting. European Journal of Operational Research, 295(1), 157-169. [Paper](https://www.sciencedirect.com/science/article/pii/S0377221721001661)
+
+**Business & Information Systems Engineering**
+<br>
+**Jakubik**, J., Vössing, M., Kühl, N., Walk, J., & Satzger, G. (2022). Data-centric Artificial Intelligence. Business & Information Systems Engineering (Forthcoming). [Paper](https://arxiv.org/pdf/2212.11854.pdf) 
 
 **Quantitative Finance**
 <br>
@@ -86,17 +88,16 @@ Mukkavilli, S. K., Civitarese, D. S., Schmude, J., **Jakubik, J.**, Jones, A., N
 
 **Geospatial Foundation Models**
 <br>
-**Jakubik, J.**, Chu, L., Fraccaro, P., Gomes, C., Nyirjesy, G., Bangalore, R., Lamb- hate, D., Das, K., Oliveira Borges, D., Kimura, D., Simumba, N., Szwarcman, D., Muszynski, M., Weldemariam, K., Zadrozny, B., Ganti, R., Costa, C., Edwards, B., Watson, C., Mukkavilli, K., Schmude, J., Hamann, H., Parkin, R., Roy, S., Phillips, C., Ankur, K., Ramasubramanian, M., Gurung, I., Leong, W., Avery, R., Ramachandran, R., Maskey, M., Olofossen, P., Fancher, E., Lee, T., Murphy, K., Duffy, D., Little, M., Alemohammad, H., Cecil, M., Li, S., Khallaghi, S., Godwin, D., Ahmadi, M., Kordi, F., Saux, B., Pastick, N., Doucette, P., Fleckenstein, R., Luanga, D. (2023). NASA-IBM HLS Foundation Model - Image Segmentation by Foundation Model Finetuning. [Code](https://github.com/nasa-impact/hls-foundation-os) 
+**Jakubik, J.**, Roy, S., Phillips, C. E., Fraccaro, P., Godwin, D., Zadrozny, B., ..., & Ramachandran, R. (2023). Foundation Models for Generalist Geospatial Artificial Intelligence. [Paper](https://arxiv.org/pdf/2310.18660.pdf) 
 
-**Jakubik, J.**, Chu, L., Fraccaro, P., Gomes, C., Nyirjesy, G., Bangalore, R., Lamb- hate, D., Das, K., Oliveira Borges, D., Kimura, D., Simumba, N., Szwarcman, D., Muszynski, M., Weldemariam, K., Zadrozny, B., Ganti, R., Costa, C., Edwards, B., Watson, C., Mukkavilli, K., Schmude, J., Hamann, H., Parkin, R., Roy, S., Phillips, C., Ankur, K., Ramasubramanian, M., Gurung, I., Leong, W., Avery, R., Ramachandran, R., Maskey, M., Olofossen, P., Fancher, E., Lee, T., Murphy, K., Duffy, D., Little, M., Alemohammad, H., Cecil, M., Li, S., Khallaghi, S., Godwin, D., Ahmadi, M., Kordi, F., Saux, B., Pastick, N., Doucette, P., Fleckenstein, R., & Luanga, D. (2023). Prithvi-100M. [HuggingFace for Weights and Demo](https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M)
+**Jakubik, J.**, Chu, L., Fraccaro, P., Gomes, C., Nyirjesy, G., Bangalore, ... & Luanga, D. (2023). NASA-IBM HLS Foundation Model - Image Segmentation by Foundation Model Finetuning. [Code](https://github.com/nasa-impact/hls-foundation-os) 
+
+**Jakubik, J.**, Chu, L., Fraccaro, P., Gomes, C., Nyirjesy, G., Bangalore, R., ..., & Luanga, D. (2023). Prithvi-100M. [HuggingFace for Weights and Demo](https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M)
 
 **Jakubik, J.**, Fraccaro, P., Oliveira Borges, D., Muszynski, M., Weldemariam, K., Zadrozny, B., Ganti, R., & Mukkavilli, K., (2023). Prithvi-100M - Flood Mapping. [HuggingFace for Weights and Demo](https://huggingface.co/ibm-nasa-geospatial/Prithvi-100M-sen1floods11)
 
-Maskey, M., Cavallaro, G., Chu, L., Edwards, B., Fraccaro, P., Freitag, B., Gurung, I, Heras, D., Costa, C., Corvin, A., Asthana, A., **Jakubik, J.**, Ganti, R., Ramasubra- manian, K., Ramachandran, R., Weldemariam, K (2023). A Summer School Session on Mastering Geospatial Artificial Intelligence (GeoAI): From Data Production to AI Foundation Model Development and Downstream Applications. IEEE Geoscience and Remote Sensing Magazine, 11(3), 129-132. [Paper](https://ieeexplore.ieee.org/iel7/6245518/10261874/10261878.pdf)
+Maskey, M., Cavallaro, G., ..., **Jakubik, J.**, Ganti, R., Ramasubramanian, K., Ramachandran, R., Weldemariam, K (2023). A Summer School Session on Mastering Geospatial Artificial Intelligence (GeoAI): From Data Production to AI Foundation Model Development and Downstream Applications. IEEE Geoscience and Remote Sensing Magazine, 11(3), 129-132. [Paper](https://ieeexplore.ieee.org/iel7/6245518/10261874/10261878.pdf)
 
-**Data-centric Artificial Intelligence**
-<br>
-**Jakubik**, J., Vössing, M., Kühl, N., Walk, J., & Satzger, G. (2022). Data-centric Artificial Intelligence. [Paper](https://arxiv.org/pdf/2212.11854.pdf) 
 
 <br>
 <hr style="border:.5px solid lightgray"> 

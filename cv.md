@@ -4,7 +4,7 @@ title: CV
 ---
 
 ## Experience
-### [IBM Research Zürich](https://www.zurich.ibm.com/) 
+### [IBM Research Europe](https://www.zurich.ibm.com/) 
 **Postdoctoral Researcher**
 
 - Pretraining, scaling, and finetuning of foundation models for weather and geospatial
@@ -15,7 +15,7 @@ title: CV
 <br>
 
 
-### [IBM Research Zürich](https://www.zurich.ibm.com/) 
+### [IBM Research Europe](https://www.zurich.ibm.com/) 
 **Visiting Researcher**
 
 - Geospatial foundation models for climate impact

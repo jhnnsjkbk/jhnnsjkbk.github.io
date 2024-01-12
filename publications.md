@@ -41,7 +41,6 @@ Together with a range of amazing co-authors, I have published 5+ journal papers 
 Holstein, J., Schemmer, M., **Jakubik, J.**, Vössing, M., Satzger, G. (2023). Sanitizing Data for Analysis: Designing Systems for Data Understanding. Electronic Markets,  33 (52). [Paper]([https://www.tandfonline.com/doi/abs/10.1080/14697688.2022.2130085](https://link.springer.com/article/10.1007/s12525-023-00677-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231009&utm_content=10.1007/s12525-023-00677-w))
 
 <br>
-<hr style="border:.5px solid lightgray"> 
 <br>
 
 ### Conference papers 

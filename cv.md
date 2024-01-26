@@ -14,8 +14,6 @@ title: CV
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Rüschlikon (Switzerland)</div>
 <br>
 
-
-### [IBM Research Europe](https://www.zurich.ibm.com/) 
 **Visiting Researcher**
 
 - Geospatial foundation models for climate impact
@@ -83,6 +81,17 @@ Research on applied machine learning and deep learning.
 <hr style="border:.5px solid lightgray"> <br>
 
 ## Education
+
+
+### [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/index.php) 
+**Doktor (Ph.D.)**
+
+Ph.D. thesis on "Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning"
+
+<div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   2020 - 2024</div>
+<div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Karlsruhe (Germany)</div>
+<br>
+
 
 ### [ETH Zurich](https://mis.ethz.ch/) 
 **Master thesis on machine learning and optimization**

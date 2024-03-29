@@ -29,7 +29,7 @@ title: CV
 **PhD Candidate in Machine Learning & Information Systems**
 
 Research on applied machine learning and deep learning.
-- Thesis: "Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning"
+- Thesis: "Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning" (summa cum laude)
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   October 2020 - December 2023</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Karlsruhe (Germany)</div>
@@ -86,7 +86,7 @@ Research on applied machine learning and deep learning.
 ### [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/index.php) 
 **Doktor (Ph.D.)**
 
-Ph.D. thesis on "Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning"
+Ph.D. thesis on "Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning" (summa cum laude)
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   2020 - 2024</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Karlsruhe (Germany)</div>

@@ -84,7 +84,7 @@ Research on applied machine learning and deep learning.
 
 
 ### [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/index.php) 
-**Doctor of Engineering (Ph.D.)**
+**Doctor (Ph.D.) in Applied Deep Learning**
 
 Ph.D. thesis on "Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning" (summa cum laude)
 

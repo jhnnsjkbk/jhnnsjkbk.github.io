@@ -94,7 +94,7 @@ Ph.D. thesis on "Data-Centric Artificial Intelligence: Foundations and Methods f
 
 
 ### [ETH Zurich](https://mis.ethz.ch/) 
-**Master thesis on machine learning and optimization**
+**Master's Thesis on Machine Learning and Optimization**
 - Supervisor: Prof. Feuerriegel
 - Chair: Management Information Systems, D-MTEC
 

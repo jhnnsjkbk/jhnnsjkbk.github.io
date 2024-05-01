@@ -59,6 +59,13 @@ Mit KI gegen die Folgen des Klimawandels [Article (April 14th, 2023)](https://ww
 
 
 ## Honors
+
+### Invited panelist at ICLR'24
+I contribute to the data-centric machine learning research (DMLR) workshop at this year's ICLR in Vienna! Find the workshop [here](https://dmlr.ai).
+
+### Invited speaker at BIFOLD
+Among other speakers from NASA, ESA, Google Research, Apple Research, etc., I contributed to the two-day workshop on Machine Learning and Data Management for Earth Observation as an invited speaker! Find the event [here](https://www.bifold.berlin/news-events/events/machine-learning-and-data-management-for-earth-observation).
+
 ### Best paper award at HHAI'23
 Our full paper on the interdependence of reliance behavior and accuracy in AI-assisted decision-making got awarded with the best paper award! Find the paper [here](https://arxiv.org/pdf/2304.08804.pdf) and the ranking [here](https://hhai-conference.org/2023/accepted-papers/).
 

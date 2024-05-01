@@ -60,6 +60,10 @@ Mit KI gegen die Folgen des Klimawandels [Article (April 14th, 2023)](https://ww
 
 ## Honors
 
+### Member of projects with NASA, ESA and EU
+As of March 1st, 2024, I am contributing to projects with NASA, ESA and in an EU Horizon project. Links to the projects: [NASA](https://research.ibm.com/blog/weather-climate-foundation-model#), [ESA](https://eo4society.esa.int/projects/fast-eo/), [EU Horizon](https://www.embed2scale.eu).
+
+
 ### Invited panelist at ICLR'24
 I contribute to the data-centric machine learning research (DMLR) workshop at this year's ICLR in Vienna! Find the workshop [here](https://dmlr.ai).
 

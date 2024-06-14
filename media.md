@@ -64,11 +64,14 @@ Mit KI gegen die Folgen des Klimawandels [Article (April 14th, 2023)](https://ww
 As of March 1st, 2024, I am contributing to projects with NASA, ESA and in an EU Horizon project. Links to the projects: [NASA](https://research.ibm.com/blog/weather-climate-foundation-model#), [ESA](https://eo4society.esa.int/projects/fast-eo/), [EU Horizon](https://www.embed2scale.eu).
 
 
+### Invited speaker and panelist at ICLR'24
+I contribute to the foundation models in earth systems sciences workshop at PASC'24 in Zurich! Find the workshop [here](https://pasc24.pasc-conference.org/presentation/?id=msa174&sess=sess108).
+
 ### Invited panelist at ICLR'24
 I contribute to the data-centric machine learning research (DMLR) workshop at this year's ICLR in Vienna! Find the workshop [here](https://dmlr.ai).
 
 ### Invited speaker at BIFOLD
-Among other speakers from NASA, ESA, Google Research, Apple Research, etc., I contributed to the two-day workshop on Machine Learning and Data Management for Earth Observation as an invited speaker! Find the event [here](https://www.bifold.berlin/news-events/events/machine-learning-and-data-management-for-earth-observation).
+Among other speakers from NASA, ESA, Google Research, Apple Research, etc., I contributed to the two-day workshop on Machine Learning and Data Management for Earth Observation as an invited speaker! Find the event [here](https://www.bifold.berlin/news-events/events/machine-learning-and-data-management-for-earth-observation) and a recording of my talk on [YouTube](https://www.youtube.com/watch?v=K4wTvDKsqe4).
 
 ### Best paper award at HHAI'23
 Our full paper on the interdependence of reliance behavior and accuracy in AI-assisted decision-making got awarded with the best paper award! Find the paper [here](https://arxiv.org/pdf/2304.08804.pdf) and the ranking [here](https://hhai-conference.org/2023/accepted-papers/).

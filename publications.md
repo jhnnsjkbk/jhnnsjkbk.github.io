@@ -26,7 +26,9 @@ Together with a range of amazing co-authors, I have published 5+ journal papers 
 
 **Business & Information Systems Engineering**
 <br>
-**Jakubik**, J., Vössing, M., Kühl, N., Walk, J., & Satzger, G. (2022). Data-centric Artificial Intelligence. Business & Information Systems Engineering (Forthcoming). [Paper](https://arxiv.org/pdf/2212.11854.pdf) 
+**Journal ranking: B, IF: 7.9**
+<br>
+**Jakubik**, J., Vössing, M., Kühl, N., Walk, J., & Satzger, G. (2022). Data-centric Artificial Intelligence. Business & Information Systems Engineering. [Paper](https://arxiv.org/pdf/2212.11854.pdf) 
 
 **Quantitative Finance**
 <br>

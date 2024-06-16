@@ -3,7 +3,9 @@ layout: about
 title: About me
 ---
 
-I am a postdoctoral researcher at [IBM Research Europe](https://www.zurich.ibm.com/). My current research mainly centers around foundational models for weather and geospatial in collaboration with [NASA](https://impact.earthdata.nasa.gov).
+I am a Postdoc within the AI for Climate Impact team at <a href="https://www.zurich.ibm.com">IBM Research Europe</a>. My work at IBM Research focuses on pretraining and finetuning foundations models for weather and earth observation in collaboration with <a href="https://impact.earthdata.nasa.gov">NASA</a>. I have a background in applied deep learning, having worked on a variety of topics during my PhD at <a href="https://dsi.iism.kit.edu/team_jakubik.php">KIT</a>, my visiting research role at IBM Research, at <a href="https://mtec.ethz.ch">ETH Zurich</a>, and during several internships in industry. 
+
+At the moment, I am involved in projects with NASA, ESA, and within the EU HORIZON program. I am actively collaborating with researchers from institutions like MIT, Oxford, and ETH. 
 
 Before joining IBM as a postdoc, I served a PhD student at [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/index.php), focusing on applied deep learning, mainly in the context of data-centric AI. My thesis is entitled "Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning" and aims for providing scalable methods to systematically enhance data for deep learning. During my undergrad studies at KIT, I specialized in machine learning, statistics, and optimization and graduated with a bachelor’s and a master’s degree. During my master’s, I studied Information Systems and Computer Engineering at the [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) in Lisbon, Portugal and authored my master's thesis at [ETH Zurich](https://ethz.ch/en.html) at the Chair of Management Information Systems in the field of machine learning and optimization. 
 

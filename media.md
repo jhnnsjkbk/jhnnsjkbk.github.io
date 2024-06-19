@@ -60,18 +60,11 @@ Mit KI gegen die Folgen des Klimawandels [Article (April 14th, 2023)](https://ww
 
 ## Honors
 
-### NASA Center Honor Award 
-In summer 2024, I received the NASA Center Honor Award for work on foundation models for earth observations.
+### NASA MSFC Honor Award 
+In summer 2024, I received the NASA Honor Award from Marshall Space Flight Center (MSFC) for my contributions to foundation models for earth observations.
 
-
-### Invited speaker and panelist at PASC'24
-I contribute to the foundation models in earth systems sciences workshop at PASC'24 in Zurich! Find the workshop [here](https://pasc24.pasc-conference.org/presentation/?id=msa174&sess=sess108).
-
-### Invited panelist at ICLR'24
-I contribute to the data-centric machine learning research (DMLR) workshop at this year's ICLR in Vienna! Find the workshop [here](https://dmlr.ai).
-
-### Invited speaker at BIFOLD
-Among other speakers from NASA, ESA, Google Research, Apple Research, etc., I contributed to the two-day workshop on Machine Learning and Data Management for Earth Observation as an invited speaker! Find the event [here](https://www.bifold.berlin/news-events/events/machine-learning-and-data-management-for-earth-observation) and a recording of my talk on [YouTube](https://www.youtube.com/watch?v=K4wTvDKsqe4).
+### Outstanding dissertation 
+In spring 2024, I defended my Ph.D. thesis that was awarded as outstanding dissertation (summa cum laude).
 
 ### Best paper award at HHAI'23
 Our full paper on the interdependence of reliance behavior and accuracy in AI-assisted decision-making got awarded with the best paper award! Find the paper [here](https://arxiv.org/pdf/2304.08804.pdf) and the ranking [here](https://hhai-conference.org/2023/accepted-papers/).
@@ -79,12 +72,25 @@ Our full paper on the interdependence of reliance behavior and accuracy in AI-as
 ### Best paper award nomination and top 2% of accepted papers at WI'23
 Our full paper on improving the efficiency of human-in-the-loop systems: adding artificial to human experts was nominated for the best paper award at WI'23 and is one out of four papers from the entire set of accepted papers that was selected for a thought-provoking session. Find the nomination [here](https://wi2023.de/en/best-paper-nominations/).
 
-### Invited keynote speaker at IBM Think on Tour
+### DAAD scholarship for international research on AI 
+I received a scholarship as part of my master's thesis supporting research on AI. 
+
+
+## Invited talks
+
+This is an excerpt of recent invited talks I gave during conferences, workshops, and panels.
+
+### Invited speaker and panelist at PASC'24
+I contribute to the foundation models in earth systems sciences workshop at PASC'24 in Zurich! Find the workshop [here](https://pasc24.pasc-conference.org/presentation/?id=msa174&sess=sess108).
+
+### Invited panelist at ICLR'24
+I contribute to the data-centric machine learning research (DMLR) workshop at this year's ICLR in Vienna! Find the workshop [here](https://dmlr.ai).
+
+### Invited speaker at BIFOLD'24
+Among other speakers from NASA, ESA, Google Research, Apple Research, etc., I contributed to the two-day workshop on Machine Learning and Data Management for Earth Observation as an invited speaker! Find the event [here](https://www.bifold.berlin/news-events/events/machine-learning-and-data-management-for-earth-observation) and a recording of my talk on [YouTube](https://www.youtube.com/watch?v=K4wTvDKsqe4).
+
+### Invited keynote speaker at IBM Think on Tour (2023)
 As a special guest, I contributed to the keynote on generative AI for business and climate impact based on our work at IBM Research in collaboration with NASA. Find more information [here](https://www.linkedin.com/posts/johannes-jakubik-8763ba167_was-super-exciting-to-contribute-to-the-keynote-activity-7077302085284716544-kDBj?utm_source=share&utm_medium=member_ios).
 
-### Invited lecturer at NASA workshop on Data Science at Scale in Reykjavic, Iceland
+### Invited lecturer at NASA workshop on Data Science at Scale in Reykjavic, Iceland (2023)
 In a team of NASA and IBM researches, we gave a one-day workshop on data science at scale and geospatial foundation models. Find more information [here](https://www.hdc-rs.com/summer-schools/2023/lecture-for-topic-1).
-
-### DAAD scholarship for international research on AI
-I received a scholarship as part of my master thesis supporting research on AI. 
-

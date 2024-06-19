@@ -4,7 +4,7 @@ title: Media & Honors
 ---
 
 ## Media coverage of projects I'm involved in
-## International
+### International
 **Wall Street Journal**
 <br>
 IBM and NASA Collaborate to Research Impact of Climate Change with AI. [Article (Feb 1st, 2023)](https://www.wsj.com/articles/ibm-and-nasa-collaborate-to-research-impact-of-climate-change-with-ai-01675249538)
@@ -35,7 +35,7 @@ IBM intros a slew of new AI services, including generative models [Article (May 
 
 <br>
 
-## Germany 
+### Germany 
 
 **Spektrum der Wissenschaft**
 <br>

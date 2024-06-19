@@ -75,6 +75,8 @@ Our full paper on improving the efficiency of human-in-the-loop systems: adding 
 ### DAAD scholarship for international research on AI 
 I received a scholarship as part of my master's thesis supporting research on AI. 
 
+<br>
+<hr style="border:.5px solid lightgray"> <br>
 
 ## Invited talks
 

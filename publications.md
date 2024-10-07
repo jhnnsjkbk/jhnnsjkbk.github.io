@@ -15,7 +15,7 @@ Together with a range of amazing co-authors, I have published 15+ conference pap
 
 **NeurIPS**
 <br>
-__Jakubik, J.*__, Blumenstiel, B.*, Kühne, H., Vössing, M. (2023). What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation. NeurIPS 2023. [Paper](http://arxiv.org/abs/2306.15521) [Website](https://blumenstiel.github.io/mess-benchmark/) [Code](https://github.com/blumenstiel/MESS). * denotes shared first authorship
+**Jakubik, J.**,\* Blumenstiel, B.*, Kühne, H., Vössing, M. (2023). What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation. NeurIPS 2023. [Paper](http://arxiv.org/abs/2306.15521) [Website](https://blumenstiel.github.io/mess-benchmark/) [Code](https://github.com/blumenstiel/MESS). * denotes shared first authorship
 
 **AAAI**
 <br>
@@ -28,7 +28,7 @@ Hemmer, P., Schellhammer, S., Vössing, M., **Jakubik, J.**, & Satzger, G. Formi
 
 **HHAI**
 <br>
-__Jakubik, J.*__, Schoeffer, J.*, Voessing, M., Kuehl, N., & Satzger, G. (2023). On the Interdependence of Reliance Behavior and Accuracy in AI-Assisted Decision-Making. HHAI'23. [Paper](https://ebooks.iospress.nl/volumearticle/63322)
+**Jakubik, J.**,\*, Schoeffer, J.*, Voessing, M., Kuehl, N., & Satzger, G. (2023). On the Interdependence of Reliance Behavior and Accuracy in AI-Assisted Decision-Making. HHAI'23. [Paper](https://ebooks.iospress.nl/volumearticle/63322)
 
 **IGARSS**
 <br>

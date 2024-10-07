@@ -84,7 +84,7 @@ Holstein, J., Schemmer, M., **Jakubik, J.**, Vössing, M., Satzger, G. (2023). S
 **Foundation Models for Weather and Climate**
 <br>
 
-Schmude, J., Roy, S., Trojak, W., __Jakubik, J.__, Civitarese, D. S., Singh, S., ... & Ramachandran, R. (2024). Prithvi WxC: Foundation Model for Weather and Climate. [Paper](https://arxiv.org/pdf/2409.13598)
+Schmude, J., Roy, S., Trojak, W., __Jakubik, J.__, Civitarese, D. S., Singh, S., ... & Ramachandran, R. (2024). Prithvi WxC: Foundation Model for Weather and Climate. [Paper](https://arxiv.org/pdf/2409.13598) [HuggingFace](https://huggingface.co/Prithvi-WxC).
 
 Mukkavilli, S. K., Civitarese, D. S., Schmude, J., **Jakubik, J.**, Jones, A., Nguyen, N., Phillips, C., Roy, S., Singh, S., Watson, C., Ganti, R., Hamann, H., Nair, U., Ramachandran,R., & Weldemariam, K. (2023). AI Foundation Models for Weather and Climate: Applications, Design, and Implementation. [Paper](https://arxiv.org/pdf/2309.10808) 
 

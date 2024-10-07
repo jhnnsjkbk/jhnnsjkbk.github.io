@@ -3,7 +3,7 @@ layout: publications
 title: Publications
 ---
 
-Together with a range of amazing co-authors, I have published 15+ conference papers (including top conferences like NeurIPS, AAAI, IJCAI) and 5+ journal papers (including top outlets, e.g., JAIR, Production and Operations Management and the European Journal on Operational Research). You can find a full list of publications I co-authored also on [Google Scholar](https://scholar.google.com/citations?user=Bz3X5pQAAAAJ&hl=de&oi=ao).
+**Together with a range of amazing co-authors, I have published 15+ conference papers (including top conferences like NeurIPS, AAAI, IJCAI) and 5+ journal papers (including top outlets, e.g., JAIR, Production and Operations Management and the European Journal on Operational Research). You can find a full list of publications I co-authored also on [Google Scholar](https://scholar.google.com/citations?user=Bz3X5pQAAAAJ&hl=de&oi=ao).**
 
 <br>
 <hr style="border:.5px solid lightgray"> 
@@ -28,7 +28,7 @@ Hemmer, P., Schellhammer, S., Vössing, M., **Jakubik, J.**, & Satzger, G. Formi
 
 **HHAI**
 <br>
-**Jakubik, J.**,\*, Schoeffer, J.*, Voessing, M., Kuehl, N., & Satzger, G. (2023). On the Interdependence of Reliance Behavior and Accuracy in AI-Assisted Decision-Making. HHAI'23. [Paper](https://ebooks.iospress.nl/volumearticle/63322)
+**Jakubik, J.**,\*, Schoeffer, J.*, Voessing, M., Kuehl, N., & Satzger, G. (2023). On the Interdependence of Reliance Behavior and Accuracy in AI-Assisted Decision-Making. HHAI'23. [Paper](https://ebooks.iospress.nl/volumearticle/63322) * denotes shared first authorship
 
 **IGARSS**
 <br>

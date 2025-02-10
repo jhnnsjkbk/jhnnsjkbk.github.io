@@ -55,6 +55,9 @@ As a special guest, I contributed to the keynote on generative AI for business a
 ### Invited lecturer at NASA workshop on Data Science at Scale in Reykjavic, Iceland (2023)
 In a team of NASA and IBM researches, we gave a one-day workshop on data science at scale and geospatial foundation models. Find more information [here](https://www.hdc-rs.com/summer-schools/2023/lecture-for-topic-1).
 
+<br>
+<hr style="border:.5px solid lightgray"> <br>
+
 
 ## Media coverage of projects I'm involved in
 ### International

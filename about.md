@@ -1,7 +1,9 @@
 ---
 layout: about
-title: About me
+title: Nice meeting you!
 ---
+
+### Hi there, I'm Johannes!
 
 I am a Staff Research Scientist within the AI for Climate Impact team at IBM Research Europe. In my role, I am leading research activities on pretraining and scaling multi-modal AI foundation models for earth observation as well as developing AI foundation models for weather and climate assessments in collaborations with NASA, ESA, and within the EU Horizon program. My work on large-scale deep learning for Earth observation was awarded with the NASA Marshall Space Flight Center Honor Award, several IBM accomplishment awards, and was featured in various international and national media. I am fortunate enough to be able to supervise and mentor several exceptionally bright Ph.D. students at MIT and ETH Zurich. 
     

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Nice meeting you!
+title: About me
 ---
 
 ### Hi there, I'm Johannes!

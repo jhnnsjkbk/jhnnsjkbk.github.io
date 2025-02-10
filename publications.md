@@ -5,10 +5,6 @@ title: Publications
 
 Together with a range of amazing co-authors, I have published 15+ conference papers (including top conferences like NeurIPS, AAAI, IJCAI) and 5+ journal papers (including top outlets, e.g., JAIR, Production and Operations Management and the European Journal on Operational Research). You can find a full list of publications I co-authored also on [Google Scholar](https://scholar.google.com/citations?user=Bz3X5pQAAAAJ&hl=de&oi=ao).
 
-<br>
-<hr style="border:.5px solid lightgray"> 
-<br>
-
 ## Selected peer-reviewed publications
 
 ### Conference papers 
@@ -31,6 +27,7 @@ Hemmer, P., Schellhammer, S., Vössing, M., **Jakubik, J.**, & Satzger, G. Formi
 Schoeffer, J.*, **Jakubik, J.**\*, Voessing, M., Kuehl, N., & Satzger, G. (2023). On the Interdependence of Reliance Behavior and Accuracy in AI-Assisted Decision-Making. HHAI'23. [Paper](https://ebooks.iospress.nl/volumearticle/63322) * denotes shared first authorship ⭐️ Best paper award.
 
 **ICWSM**
+<br>
 **Jakubik, J.**, Voessing, M., Baer, D., Proellochs, N., & Feuerriegel, S. (2023). Online Emotions During the Storming of the US Capitol: Evidence from the Social Media Network Parler. International AAAI Conference on Web and Social Media (ICWSM’23) **(CORE: A)**.
 
 ### Journal publications 
@@ -61,6 +58,7 @@ Holstein, J., Schemmer, M., **Jakubik, J.**, Vössing, M., Satzger, G. (2023). S
 
 <br>
 <br>
+<hr style="border:.5px solid lightgray"> 
 <br>
 
 I contribute to a range of communities as reviewer, associate editor, and track chair including conferences like NeurIPS, AAAI, ECML, and journals like the Journal of Artificial Intelligence Research.

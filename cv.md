@@ -48,15 +48,15 @@ Leading research activities on pretraining and scaling AI foundation models for 
 
 ### Several Undergrad-Internships in Industry
 Formula E (Porsche Motorsports)
-• Development of AI-based Applications for Formula E Performance Optimization 
+- Development of AI-based Applications for Formula E Performance Optimization 
 
 Quant Finance Consulting (d-fine)
-• Natural Language Processing in S&P500 Business Reports 
+- Natural Language Processing in S&P500 Business Reports 
 
 Energy (EnBW AG)
-• Natural Language Processing to Categorize Customer Interactions
+- Natural Language Processing to Categorize Customer Interactions
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   Sept 2016 - January 2020</div>
-<div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Weissach (Germany)</div>
+<div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Multiple locations (Germany)</div>
 <br>
 
 ### Research & Teaching Assistant Positions

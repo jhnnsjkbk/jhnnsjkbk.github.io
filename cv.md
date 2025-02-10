@@ -16,8 +16,10 @@ Leading research activities on pretraining and scaling AI foundation models for 
 ### [IBM Research Europe](https://www.zurich.ibm.com/) 
 **Postdoctoral Researcher**
 
-- Pretraining, scaling, and finetuning of foundation models for weather and geospatial
-- Part of research collaboration between IBM Research and NASA
+- Leading the Development of Large-Scale Multi-Modal AI for Sustainability Assessments (collaborating with ESA)
+- Developing AI Foundation Models for Weather and Climate Impact Assessments (collaborating with NASA)
+- Localized Wind Forecasting for Renewable Energy Production (collaborating with MIT and Shell)
+- Deep Learning for Quantum Optimization Algorithms (voluntary IBM internal project)
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   January 2024 - February 2025 </div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Rüschlikon (Switzerland)</div>
@@ -25,9 +27,8 @@ Leading research activities on pretraining and scaling AI foundation models for 
 
 **Visiting Researcher**
 
-- Geospatial foundation models for climate impact
-- Generalized zero-shot semantic segmentation 
-- Part of research collaboration between IBM Research and NASA
+- Co-lead the Development of AI-based Systems and a Corresponding Data Platform for Understanding the Earth System (collaborating with NASA)
+- Domain Adaptation Techniques for the Detection of Natural Hazards
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   October 2022 - December 2023</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Rüschlikon (Switzerland)</div>
@@ -45,44 +46,24 @@ Research on applied machine learning and deep learning.
 <br>
 
 
-### [Dr. Ing. h.c. F. Porsche AG - Motorsport Department](https://motorsports.porsche.com/usa/en) 
-**Machine Learning and Information System Intern**
+### Several Undergrad-Internships in Industry
+Formula E (Porsche Motorsports)
+• Development of AI-based Applications for Formula E Performance Optimization 
 
-- Image classification (in productive use): Application and optimization of an open source optical character recognition model for classifying Formula E free TV streams.
-- Speech recognition (in productive use): Speech-to-text application for audio streams of Formula E drivers
+Quant Finance Consulting (d-fine)
+• Natural Language Processing in S&P500 Business Reports 
 
-<div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   October 2019 - January 2020</div>
+Energy (EnBW AG)
+• Natural Language Processing to Categorize Customer Interactions
+<div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   Sept 2016 - January 2020</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Weissach (Germany)</div>
 <br>
 
-
-### [d-fine](https://www.d-fine.com/en/) 
-**Visiting Consultant, Quantitative Finance**
-
-- Named entity recognition in S&P500 business reports
-- Support of the head project management in a credit risk platform project
-
-<div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   April 2019 - May 2019</div>
-<div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Frankfurt (Germany)</div>
-<br>
-
-
-### [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/index.php) 
-**Several Positions as Teaching Assistant and Graduate Research Assistent**
-
-- Teaching assistant for mathematical optimization and advanced statistics
-- Research on the efficient implementation, parameterization and scaling of reinforcement learning in manufacturing
-
+### Research & Teaching Assistant Positions
+Karlsruhe Institute of Technology (KIT)
+• Teaching Assistant for Operations Research and Statistics
+• Student Research Assistant on Machine Learning and Reinforcement Learning
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   April 2017 - February 2019</div>
-<div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Karlsruhe (Germany)</div>
-<br>
-
-### [EnBW AG](https://www.enbw.com/company/) 
-**Analytical Process Management: Intern and Working Student**
-- Natural Language Processing: Unsupervised learning to categorize textual customer interactions
-- Process Mining: Statistical analysis of incoming customer interaction
-
-<div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   September 2016 - Juli 2017</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Karlsruhe (Germany)</div>
 <br>
 

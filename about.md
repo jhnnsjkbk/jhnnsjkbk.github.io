@@ -7,10 +7,8 @@ I am a Staff Research Scientist within the AI for Climate Impact team at IBM Res
     
 I graduated from KIT and ETH, where my research spanned across all relevant subfields of deep learning-based systems: data-centricity, model-centricity, and human-centricity. During my Ph.D., I received a best paper award and a best paper award nomination for theoretical contributions to human-centric AI. In fall 2024, I was fortunate enough to be recommended as a top candidate for a tenure track professorship at a German university of excellence. Together with a range of amazing co-authors, my work has been published in highly recognized journals and conferences.
 
-During the weekends, I love spending time in the mountains with family and friends.
-
 <p style="text-align:center;">
-<img src="https://raw.githubusercontent.com/jhnnsjkbk/jhnnsjkbk.github.io/master/assets/images/banners/skiing.png"
+<img src="https://raw.githubusercontent.com/jhnnsjkbk/jhnnsjkbk.github.io/master/assets/images/banners/coffee.png"
      alt="Johannes"
      width="60%" height="60%"
      style="margin-top: 20px;" />

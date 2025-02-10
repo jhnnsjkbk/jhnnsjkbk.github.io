@@ -5,31 +5,32 @@ title: Honors, Talks & Media
 
 ## Honors
 
-### VDE ITG Dissertation Award Nomination (under review)
-In spring 2025, my thesis on data-centric AI has been nominated for a VDE ITG dissertation award (currently under review).
 
 ### NASA MSFC Honor Award 
-In summer 2024, I received the NASA Honor Award from Marshall Space Flight Center (MSFC) for my contributions to foundation models for earth observations.
+I received the NASA Honor Award from Marshall Space Flight Center (MSFC) for my contributions to foundation models for earth observations.
+
+### VDE ITG Dissertation Award Nomination (under review)
+My thesis on data-centric AI has been nominated for a VDE ITG dissertation award (currently under review).
 
 ### Tenure-Track Professorship -- Recommendation
-In 2024, I was fortunate enough to be recommended for a tenure-track professorship at a German university of excellence.
+I was fortunate enough to be recommended for a tenure-track professorship at a German university of excellence.
 
 ### IBM Accomplishment Award 2024 
-In summer 2024, my work on foundation models for weather and climate assessments have been awarded with an IBM Accomplishment Award.
+My work on foundation models for weather and climate assessments have been awarded with an IBM Accomplishment Award.
 
-### Outstanding dissertation 
-In spring 2024, I defended my Ph.D. thesis that was awarded as outstanding dissertation (summa cum laude).
+### Outstanding Dissertation 
+I defended my Ph.D. thesis that was awarded as outstanding dissertation (summa cum laude).
 
 ### IBM Outstanding Accomplishment Award
 In summer 2023, my contributions on pioneering foundation models to accelerate scientific discovery have been awarded with an IBM Outstanding Accomplishment Award.
 
-### Best paper award at HHAI'23
+### Best Paper Award at HHAI'23
 Our paper on the interdependence of reliance behavior and accuracy in AI-assisted decision-making got awarded with the best paper award! Find the paper [here](https://arxiv.org/pdf/2304.08804.pdf) and the ranking [here](https://hhai-conference.org/2023/accepted-papers/).
 
-### Best paper award nomination
+### Best Paper Award Nomination at WI'23
 Our paper on improving the efficiency of human-in-the-loop systems: adding artificial to human experts was nominated for the best paper award at WI'23 and is one out of four papers from the entire set of accepted papers that was selected for a thought-provoking session. Find the nomination [here](https://wi2023.de/en/best-paper-nominations/).
 
-### DAAD scholarship for international research on AI 
+### DAAD Scholarship for International Research on AI 
 I received a scholarship as part of my master's thesis supporting research on AI. 
 
 <br>

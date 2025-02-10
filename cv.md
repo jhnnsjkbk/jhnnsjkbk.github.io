@@ -7,7 +7,12 @@ title: CV
 ### [IBM Research Europe](https://www.zurich.ibm.com/) 
 **Staff Research Scientist**
 
-Leading research activities on pretraining and scaling AI foundation models for weather and climate assessments, as well as multi-modal AI foundation models for earth observation in collaborations with NASA, ESA, and within the EU Horizon program.
+- Leading research activities on pretraining and scaling multi-modal AI foundation models for earth observation (collaborating with ESA)
+- Leading research collaborations with NASA and KIT 
+- Developing AI foundation models for weather and climate assessments (collaborating with NASA) 
+- Localized Wind Forecasting for Renewable Energy Production (collaborating with MIT and ETH)
+- Deep Learning for Quantum Optimization Algorithms (voluntary IBM internal project)
+
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   March 2025 - ongoing</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Rüschlikon (Switzerland)</div>

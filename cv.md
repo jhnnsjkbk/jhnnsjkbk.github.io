@@ -13,7 +13,6 @@ Leading research activities on pretraining and scaling AI foundation models for 
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Rüschlikon (Switzerland)</div>
 <br>
 
-### [IBM Research Europe](https://www.zurich.ibm.com/) 
 **Postdoctoral Researcher**
 
 - Leading the Development of Large-Scale Multi-Modal AI for Sustainability Assessments (collaborating with ESA)
@@ -36,9 +35,10 @@ Leading research activities on pretraining and scaling AI foundation models for 
 
 
 ### [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/index.php) 
-**PhD Candidate in Machine Learning & Information Systems**
+**Research Associate & PhD Candidate in Machine Learning & Information Systems**
 
-Research on applied machine learning and deep learning.
+- Research on applied machine learning and deep learning.
+- Teaching of ”Artificial Intelligence in Service Systems: Applications in Computer Vision”
 - Thesis: "Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning" (summa cum laude)
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   October 2020 - December 2023</div>
@@ -74,7 +74,7 @@ Karlsruhe Institute of Technology (KIT)
 
 
 ### [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/index.php) 
-**Doctor (Ph.D.) in Applied Deep Learning**
+**Ph.D. in Applied Deep Learning**
 
 Ph.D. thesis on "Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning" (summa cum laude)
 
@@ -87,6 +87,8 @@ Ph.D. thesis on "Data-Centric Artificial Intelligence: Foundations and Methods f
 **Master's Thesis on Machine Learning and Optimization**
 - Supervisor: Prof. Feuerriegel
 - Chair: Management Information Systems, D-MTEC
+
+M.Sc. thesis on "Applied prescriptive analytics" (highest grade)
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   April 2020 - October 2020</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Zurich (Switzerland)</div>

@@ -5,12 +5,21 @@ title: CV
 
 ## Experience
 ### [IBM Research Europe](https://www.zurich.ibm.com/) 
+**Staff Research Scientist**
+
+Leading research activities on pretraining and scaling AI foundation models for weather and climate assessments, as well as multi-modal AI foundation models for earth observation in collaborations with NASA, ESA, and within the EU Horizon program.
+
+<div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   March 2025 - ongoing</div>
+<div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Rüschlikon (Switzerland)</div>
+<br>
+
+### [IBM Research Europe](https://www.zurich.ibm.com/) 
 **Postdoctoral Researcher**
 
 - Pretraining, scaling, and finetuning of foundation models for weather and geospatial
 - Part of research collaboration between IBM Research and NASA
 
-<div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   January 2024 - ongoing</div>
+<div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   January 2024 - February 2025 </div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Rüschlikon (Switzerland)</div>
 <br>
 

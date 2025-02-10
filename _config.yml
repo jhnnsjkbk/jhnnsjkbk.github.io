@@ -43,7 +43,7 @@ author: jhnnsjkbk
 copyright: <div> <br> {currentYear} (c) Johannes Jakubik <div/>
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Postdoc @ IBM Research Europe
+  Staff Research Scientist @ IBM Research Europe
 
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://jhnnsjkbk.github.io" # the base hostname & protocol for your site, e.g. http://example.com

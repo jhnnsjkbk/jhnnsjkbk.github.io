@@ -15,25 +15,23 @@ title: Publications
 
 **NeurIPS**
 <br>
-**Jakubik, J.**,\* Blumenstiel, B.*, Kühne, H., Vössing, M. (2023). What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation. NeurIPS 2023. [Paper](http://arxiv.org/abs/2306.15521) [Website](https://blumenstiel.github.io/mess-benchmark/) [Code](https://github.com/blumenstiel/MESS). * denotes shared first authorship
+Blumenstiel, B.\*, **Jakubik, J.**\*,  Kühne, H., Vössing, M. (2023). What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation. NeurIPS 2023. [Paper](http://arxiv.org/abs/2306.15521) [Website](https://blumenstiel.github.io/mess-benchmark/) [Code](https://github.com/blumenstiel/MESS). * denotes shared first authorship **(VHB-2024: A, CORE: A\*).**
 
 **AAAI**
 <br>
-- Hemmer, P., Thede, L., Vössing, M., **Jakubik, J.**, & Kühl, N. (2023). Learning to Defer with Limited Expert Predictions. AAAI'23. [Paper](https://arxiv.org/pdf/2304.07306) [Code](https://github.com/ptrckhmmr/learning-to-defer-with-limited-expert-predictions)
+- Hemmer, P., Thede, L., Vössing, M., **Jakubik, J.**, & Kühl, N. (2023). Learning to Defer with Limited Expert Predictions. AAAI'23. [Paper](https://arxiv.org/pdf/2304.07306) [Code](https://github.com/ptrckhmmr/learning-to-defer-with-limited-expert-predictions) **(VHB-2024: A, CORE: A\*)**
 - **Jakubik, J.**, Hemmer, P., Vössing, M., Blumenstiel, B., Bartos, A., & Mohr, K. (2022, June). Designing a Human-in-the-Loop System for Object Detection in Floor Plans. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 36, No. 11, pp. 12524-12530). [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/21522/21271)
 
 **IJCAI**
 <br>
-Hemmer, P., Schellhammer, S., Vössing, M., **Jakubik, J.**, & Satzger, G. Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts. IJCAI'22. [Paper](https://arxiv.org/pdf/2206.07948) [Code](https://github.com/ptrckhmmr/human-ai-teams)
+Hemmer, P., Schellhammer, S., Vössing, M., **Jakubik, J.**, & Satzger, G. Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts. IJCAI'22. [Paper](https://arxiv.org/pdf/2206.07948) [Code](https://github.com/ptrckhmmr/human-ai-teams) **(VHB-2024: A, CORE: A\*)**
 
 **HHAI**
 <br>
-**Jakubik, J.**,\*, Schoeffer, J.*, Voessing, M., Kuehl, N., & Satzger, G. (2023). On the Interdependence of Reliance Behavior and Accuracy in AI-Assisted Decision-Making. HHAI'23. [Paper](https://ebooks.iospress.nl/volumearticle/63322) * denotes shared first authorship
+Schoeffer, J.*, **Jakubik, J.**\*, Voessing, M., Kuehl, N., & Satzger, G. (2023). On the Interdependence of Reliance Behavior and Accuracy in AI-Assisted Decision-Making. HHAI'23. [Paper](https://ebooks.iospress.nl/volumearticle/63322) * denotes shared first authorship ⭐️ Best paper award.
 
-**IGARSS**
-<br>
-**Jakubik, J.**, Muszynski, M., Vössing, M., Kühl, N., & Brunschwiler, T. (2023). Toward Foundation Models for Earth Monitoring: Generalizable Deep Learning Models for Natural Hazard Segmentation. International Geoscience and Remote Sensing Symposium. [Paper](https://arxiv.org/pdf/2301.09318)
-
+**ICWSM**
+**Jakubik, J.**, Voessing, M., Baer, D., Proellochs, N., & Feuerriegel, S. (2023). Online Emotions During the Storming of the US Capitol: Evidence from the Social Media Network Parler. International AAAI Conference on Web and Social Media (ICWSM’23) **(CORE: A)**.
 
 ### Journal publications 
 

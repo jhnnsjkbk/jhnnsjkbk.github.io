@@ -9,8 +9,14 @@ title: Honors, Talks & Media
 ### NASA MSFC Honor Award 
 I received the NASA Honor Award from Marshall Space Flight Center (MSFC) for my contributions to foundation models for earth observations.
 
+### IBM Significant External Honor
+I was recognized with an IBM Significant External Honor for my contributions in geospatial AI as part of our collaboration with NASA.
+
 ### VDE ITG Dissertation Award Nomination (under review)
 My thesis on data-centric AI has been nominated for a VDE ITG dissertation award (currently under review).
+
+### KIT Faculty Disseration Award Nomination (under review)
+My thesis on data-centric AI has been nominated for a dissertation award by KIT (currently under review).
 
 ### Tenure-Track Professorship -- Recommendation
 I was fortunate enough to be recommended for a tenure-track professorship at a German university of excellence.

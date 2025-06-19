@@ -38,11 +38,14 @@ Hemmer, P., Schellhammer, S., Vössing, M., **Jakubik, J.**, & Satzger, G. Formi
 Marimo, C. T., Blumenstiel, B., Nitsche, M., **Jakubik, J.**, & Brunschwiler, T. (2025). Beyond the visible: Multispectral vision-language learning for earth observation. Accepted at ECML. [Paper](https://arxiv.org/pdf/2503.15969?)
 
 
+<br>
+<hr style="border:.5px solid lightgray"> <br>
+
 ## Selected journal publications 
 
 **Journal of Artificial Intelligence Research**
 <br>
-Jakubik, J., Vössing, M., Maskey, M., Wölfle, C., & Satzger, G. (2024). Improving Label Error Detection and Elimination with Uncertainty Quantification. Accepted at JAIR. [Paper](https://arxiv.org/pdf/2405.09602) **(CORE: A, IF: 2.4)**
+**Jakubik, J.**, Vössing, M., Maskey, M., Wölfle, C., & Satzger, G. (2024). Improving Label Error Detection and Elimination with Uncertainty Quantification. Accepted at JAIR. [Paper](https://arxiv.org/pdf/2405.09602) **(CORE: A, IF: 2.4)**
 
 **Journal of Artificial Intelligence Research**
 <br>
@@ -72,25 +75,24 @@ Gomes, C., Wittmann, I., Robert, D., **Jakubik, J.**, Reichelt, T., Maurogiovann
 <br>
 Holstein, J., Schemmer, M., **Jakubik, J.**, Vössing, M., Satzger, G. (2023). Sanitizing Data for Analysis: Designing Systems for Data Understanding. Electronic Markets,  33 (52). [Paper]([https://www.tandfonline.com/doi/abs/10.1080/14697688.2022.2130085](https://link.springer.com/article/10.1007/s12525-023-00677-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231009&utm_content=10.1007/s12525-023-00677-w))  **(VHB: B, IF: 8.5)**
 
+
 <br>
-<br>
-<hr style="border:.5px solid lightgray"> 
-<br>
+<hr style="border:.5px solid lightgray"> <br>
 
 ## Supervised students 
 
 I had the priviledge to work with outstanding students in the past who have contributed to a range of the above publications that I want to acknowledge in the following:
 
-- Felix Yang -- M.Sc. thesis at ETH Zurich/IBM Research (now: Research Engineer at NVIDIA)
-- Gianfranco Basile -- M.Sc. thesis at ETH Zurich/IBM Research (incoming: PhD student at EPFL)
-- Benedikt Blumenstiel -- M.Sc. thesis at KIT (now: Research Engineer at IBM Research)
-- Isabelle Wittmann -- M.Sc. thesis at ETH Zurich, co-supervisor (now: Research Engineer at IBM Research)
-- Joshua Holstein -- M.Sc. thesis at KIT (now: PhD student at KIT)
-- Niklas Kopp -- M.Sc. thesis at KIT (now: Client Engineering at IBM)
-- Daniel Weber -- M.Sc. thesis at KIT (now: Boston Consulting Group)
-- Sinan Glagau -- M.Sc. thesis at KIT (now: Deloitte Consulting)
-- Nicolas Wehrli -- B.Sc. thesis at ETH Zurich (now: ETH Zurich)
-- Silvan Jödicke -- B.Sc. thesis at ETH Zurich (now: ETH Zurich)
-- Luca Reutter -- B.Sc. thesis at KIT (now: KPMG)
+- **Felix Yang** -- M.Sc. thesis at ETH Zurich/IBM Research (now: Research Engineer at **NVIDIA**)
+- **Gianfranco Basile** -- M.Sc. thesis at ETH Zurich/IBM Research (incoming: PhD student at **EPFL**)
+- **Benedikt Blumenstiel** -- M.Sc. thesis at KIT (now: Research Engineer at **IBM Research**)
+- **Isabelle Wittmann** -- M.Sc. thesis at ETH Zurich, co-supervisor (now: Research Engineer at **IBM Research**)
+- **Joshua Holstein** -- M.Sc. thesis at KIT (now: PhD student at **KIT**)
+- **Niklas Kopp** -- M.Sc. thesis at KIT (now: Client Engineering at **IBM**)
+- **Daniel Weber** -- M.Sc. thesis at KIT (now: **Boston Consulting Group**)
+- **Sinan Glagau** -- M.Sc. thesis at KIT (now: **Deloitte Consulting**)
+- **Nicolas Wehrli** -- B.Sc. thesis at ETH Zurich (now: **ETH Zurich**)
+- **Silvan Jödicke** -- B.Sc. thesis at ETH Zurich (now: **ETH Zurich**)
+- **Luca Reutter** -- B.Sc. thesis at KIT (now: **KPMG**)
 
 

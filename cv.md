@@ -5,17 +5,17 @@ title: CV
 
 ## Experience
 ### [IBM Research Europe](https://www.zurich.ibm.com/) 
-**Staff Research Scientist**
+**Research Scientist**
 
-- Leading research activities on pretraining and scaling multi-modal AI foundation models for earth observation (collaborating with ESA)
-- Leading research collaborations with NASA and KIT 
-- Developing AI foundation models for weather and climate assessments (collaborating with NASA) 
-- Localized Wind Forecasting for Renewable Energy Production (collaborating with MIT and ETH)
+- Leading research activities on pretraining and scaling multi-modal deep learning models for Earth observation
+- Leading research collaborations with ESA and KIT 
+- Developing AI foundation models for weather and climate assessments collaborating with NASA
+- Localized Wind Forecasting for Renewable Energy Production collaborating with MIT and ETH
 - Deep Learning for Quantum Optimization Algorithms (voluntary IBM internal project)
 
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   March 2025 - ongoing</div>
-<div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Rüschlikon (Switzerland)</div>
+<div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Zurich (Switzerland)</div>
 <br>
 
 **Postdoctoral Researcher**
@@ -26,7 +26,7 @@ title: CV
 - Deep Learning for Quantum Optimization Algorithms (voluntary IBM internal project)
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   January 2024 - February 2025 </div>
-<div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Rüschlikon (Switzerland)</div>
+<div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Zurich (Switzerland)</div>
 <br>
 
 **Visiting Researcher**
@@ -35,7 +35,7 @@ title: CV
 - Domain Adaptation Techniques for the Detection of Natural Hazards
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   October 2022 - December 2023</div>
-<div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Rüschlikon (Switzerland)</div>
+<div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Zurich (Switzerland)</div>
 <br>
 
 

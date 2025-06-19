@@ -12,7 +12,7 @@ I graduated from KIT and ETH, where my research spanned across all relevant subf
 On weekends you will find me somewhere in the mountains with my wife, our son, and our dog! 
 
 <p style="text-align:center;">
-<img src="https://raw.githubusercontent.com/jhnnsjkbk/jhnnsjkbk.github.io/master/assets/images/banners/skiingwithmonty.png"
+<img src="https://raw.githubusercontent.com/jhnnsjkbk/jhnnsjkbk.github.io/master/assets/images/banners/coffee.png"
      alt="Johannes"
      width="60%" height="60%"
      style="margin-top: 20px;" />

@@ -5,7 +5,9 @@ title: Publications
 
 Together with a range of amazing co-authors, I have published 15+ conference papers (including top conferences like NeurIPS, CVPR, ECML) and 5+ journal papers (including top outlets, e.g., Journal of Artificial Intelligence Research, European Journal on Operational Research). You can find a full list of publications I co-authored also on **[Google Scholar](https://scholar.google.com/citations?user=Bz3X5pQAAAAJ&hl=de&oi=ao)**.
 
-### Selected conference papers 
+I also contribute to a range of communities as reviewer, associate editor, and track chair including conferences like NeurIPS, AAAI, ECML, and journals like the Journal of Artificial Intelligence Research.
+
+## Selected conference papers 
 
 **NeurIPS**
 <br>
@@ -19,8 +21,12 @@ Blumenstiel, B., Fraccaro, P., Marsocci, V., **Jakubik, J.**, Maurogiovanni, S.,
 <br>
 Hemmer, P., Thede, L., Vössing, M., **Jakubik, J.**, & Kühl, N. (2023). Learning to Defer with Limited Expert Predictions. AAAI'23. [Paper](https://arxiv.org/pdf/2304.07306) [Code](https://github.com/ptrckhmmr/learning-to-defer-with-limited-expert-predictions) **(VHB-2024: A, CORE: A\*)**
 
+**AAAI**
+<br>
 **Jakubik, J.**, Hemmer, P., Vössing, M., Blumenstiel, B., Bartos, A., & Mohr, K. (2022, June). Designing a Human-in-the-Loop System for Object Detection in Floor Plans. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 36, No. 11, pp. 12524-12530). [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/21522/21271)
 
+**AAAI**
+<br>
 Müller, L., Hemmer, P., Queisner, M., Sauer, I., Allmendinger, S., **Jakubik, J.**, ... & Kühl, N. (2024). Redefining the laparoscopic spatial sense: AI-based intra-and postoperative measurement from stereoimages. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 38, No. 21, pp. 22948-22954). [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/30334)
 
 **IJCAI**
@@ -28,10 +34,11 @@ Müller, L., Hemmer, P., Queisner, M., Sauer, I., Allmendinger, S., **Jakubik, J
 Hemmer, P., Schellhammer, S., Vössing, M., **Jakubik, J.**, & Satzger, G. Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts. IJCAI'22. [Paper](https://arxiv.org/pdf/2206.07948) [Code](https://github.com/ptrckhmmr/human-ai-teams) **(VHB-2024: A, CORE: A\*)**
 
 **ECML**
+<br>
 Marimo, C. T., Blumenstiel, B., Nitsche, M., **Jakubik, J.**, & Brunschwiler, T. (2025). Beyond the visible: Multispectral vision-language learning for earth observation. Accepted at ECML. [Paper](https://arxiv.org/pdf/2503.15969?)
 
 
-### Selected journal publications 
+## Selected journal publications 
 
 **Journal of Artificial Intelligence Research**
 <br>
@@ -70,9 +77,7 @@ Holstein, J., Schemmer, M., **Jakubik, J.**, Vössing, M., Satzger, G. (2023). S
 <hr style="border:.5px solid lightgray"> 
 <br>
 
-I contribute to a range of communities as reviewer, associate editor, and track chair including conferences like NeurIPS, AAAI, ECML, and journals like the Journal of Artificial Intelligence Research.
-
-### Supervised students 
+## Supervised students 
 
 I had the priviledge to work with outstanding students in the past who have contributed to a range of the above publications that I want to acknowledge in the following:
 

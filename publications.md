@@ -1,6 +1,6 @@
 ---
 layout: publications
-title: Publications
+title: Publications & Students
 ---
 
 Together with a range of amazing co-authors, I have published 15+ conference papers (including top conferences like NeurIPS, CVPR, ECML) and 5+ journal papers (including top outlets, e.g., Journal of Artificial Intelligence Research, European Journal on Operational Research). You can find a full list of publications I co-authored also on **[Google Scholar](https://scholar.google.com/citations?user=Bz3X5pQAAAAJ&hl=de&oi=ao)**.

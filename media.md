@@ -6,19 +6,19 @@ title: Honors, Talks & Media
 # Honors
 
 ### NASA MSFC Honor Award
-I received the NASA Honor Award from Marshall Space Flight Center (MSFC) for my contributions to foundation models for earth observations.
+I received the NASA Honor Award from Marshall Space Flight Center (MSFC) for my contributions to foundation models for earth observations in summer 2024.
 
-### IBM Significant External Honor (2025)
-I was recognized with an IBM Significant External Honor for my contributions in geospatial AI as part of our collaboration with NASA.
+### IBM Significant External Honor
+I was recognized with an IBM Significant External Honor in 2025 for my contributions in geospatial AI as part of our collaboration with NASA.
 
-### IBM Accomplishment Award (2024) 
-My work on foundation models for weather and climate assessments have been awarded with an IBM Accomplishment Award.
+### IBM Accomplishment Award
+My work on foundation models for weather and climate assessments have been awarded with an IBM Accomplishment Award in 2024.
 
-### IBM Outstanding Accomplishment Award (2023)
-In summer 2023, my contributions on pioneering foundation models to accelerate scientific discovery have been awarded with an IBM Outstanding Accomplishment Award.
+### IBM Outstanding Accomplishment Award
+In summer 2023, my contributions on pioneering foundation models to accelerate scientific discovery have been awarded with an IBM Outstanding Accomplishment Award in 2023.
 
-### Tenure-Track Professorship Recommendation (2025)
-I was fortunate enough to be recommended for a tenure-track professorship at a German university of excellence.
+### Tenure-Track Professorship Recommendation
+I was fortunate enough to be recommended for a tenure-track professorship at a German university of excellence in winter 2024.
 
 ### Dissertation Award Nomination of VDE ITG (under review)
 My thesis on data-centric AI has been nominated for a VDE ITG dissertation award (currently under review).
@@ -27,16 +27,16 @@ My thesis on data-centric AI has been nominated for a VDE ITG dissertation award
 My thesis on data-centric AI has been nominated for a dissertation award by KIT (currently under review).
 
 ### Outstanding Dissertation 
-I defended my Ph.D. thesis that was awarded as outstanding dissertation (summa cum laude).
+I defended my Ph.D. thesis with _summa cum laude_.
 
-### Best Paper Award at HHAI'23
-Our paper on the interdependence of reliance behavior and accuracy in AI-assisted decision-making got awarded with the best paper award! Find the paper [here](https://arxiv.org/pdf/2304.08804.pdf) and the ranking [here](https://hhai-conference.org/2023/accepted-papers/).
+### Best Paper Award at HHAI
+Our paper on the interdependence of reliance behavior and accuracy in AI-assisted decision-making got awarded with the best paper award at HHAI'23! Find the paper [here](https://arxiv.org/pdf/2304.08804.pdf) and the ranking [here](https://hhai-conference.org/2023/accepted-papers/).
 
-### Best Paper Award Nomination at WI'23
+### Best Paper Award Nomination at WI
 Our paper on improving the efficiency of human-in-the-loop systems: adding artificial to human experts was nominated for the best paper award at WI'23 and is one out of four papers from the entire set of accepted papers that was selected for a thought-provoking session. Find the nomination [here](https://wi2023.de/en/best-paper-nominations/).
 
 ### Scholarship for International Research on AI 
-I received a DAAD scholarship as part of my master's thesis supporting research on AI. 
+I received a DAAD scholarship as part of my master's thesis supporting research on AI in 2020. 
 
 <br>
 <hr style="border:.5px solid lightgray"> <br>
@@ -51,13 +51,13 @@ I had the pleasure of giving a keynote at CVPR MORSE on large-scale generative m
 ### Invited lecturer at HDCRS summer school in Santiago de Compostela, Spain (2025)
 In a team of NASA and IBM researches, we gave a one-day workshop on TerraMind and Prithvi models.
 
-### Invited speaker and panelist at PASC'24
+### Invited speaker and panelist at PASC (2024)
 I contribute to the foundation models in earth systems sciences workshop at PASC'24 in Zurich! Find the workshop [here](https://pasc24.pasc-conference.org/presentation/?id=msa174&sess=sess108).
 
-### Invited panelist at ICLR'24
+### Invited panelist at ICLR (2024)
 I contribute to the data-centric machine learning research (DMLR) workshop at this year's ICLR in Vienna! Find the workshop [here](https://dmlr.ai).
 
-### Invited speaker at BIFOLD'24
+### Invited speaker at BIFOLD (2024)
 Among other speakers from NASA, ESA, Google Research, Apple Research, etc., I contributed to the two-day workshop on Machine Learning and Data Management for Earth Observation as an invited speaker! Find the event [here](https://www.bifold.berlin/news-events/events/machine-learning-and-data-management-for-earth-observation) and a recording of my talk on [YouTube](https://www.youtube.com/watch?v=K4wTvDKsqe4).
 
 ### Invited keynote speaker at IBM Think on Tour (2023)
@@ -80,8 +80,6 @@ IBM and NASA Collaborate to Research Impact of Climate Change with AI. [Article 
 <br>
 IBM AI Helps NASA Researchers Mine Earth Data. [Article (Feb 1st, 2023)](https://www.forbes.com/sites/tiriasresearch/2023/02/01/ibm-ai-helps-nasa-researchers-mine-earth-data/?sh=414d70e94b87)
 
-
-<br>
 
 ### Germany 
 

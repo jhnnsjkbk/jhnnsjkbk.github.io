@@ -23,8 +23,8 @@ I was fortunate enough to be recommended for a tenure-track professorship at a G
 ### Dissertation Award Nomination of VDE ITG (under review)
 My thesis on data-centric AI has been nominated for a VDE ITG dissertation award (currently under review).
 
-### Disseration Award Nomination of KIT Faculty (under review)
-My thesis on data-centric AI has been nominated for a dissertation award by KIT (currently under review).
+### Disseration Award Nomination of KIT Faculty
+My thesis on data-centric AI has been nominated for a dissertation award by KIT.
 
 ### Outstanding Dissertation 
 I defended my Ph.D. thesis with _summa cum laude_.

@@ -7,10 +7,11 @@ title: CV
 ### [IBM Research Europe](https://www.zurich.ibm.com/) 
 **Research Scientist**
 
+- Technical co-lead for IBM Research's activities on foundation models for planetary observations
 - Leading research activities on pretraining and scaling multi-modal deep learning models for Earth observation
-- Leading research collaborations with ESA and KIT 
 - Developing AI foundation models for weather and climate assessments collaborating with NASA
 - Localized Wind Forecasting for Renewable Energy Production collaborating with MIT and ETH
+- Leading technical collaborations with ESA and KIT
 - Deep Learning for Quantum Optimization Algorithms (voluntary IBM internal project)
 
 

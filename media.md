@@ -5,6 +5,10 @@ title: Honors, Talks & Media
 
 # Honors
 
+### NASA Agency Group Award
+The development team around the deep learning models of the Prithvi and INDUS family received the NASA Agency Group Award in summer 2025:
+_For developing AI foundational models that enhance scientific analysis, facilitating breakthrough discoveries, and exemplifying collaborative innovation, setting new standards for transparency and scientific rigor in AI development._
+
 ### NASA MSFC Honor Award
 I received the NASA Honor Award from Marshall Space Flight Center (MSFC) for my contributions to foundation models for earth observations in summer 2024.
 
@@ -45,7 +49,10 @@ I received a DAAD scholarship as part of my master's thesis supporting research 
 
 This is an excerpt of recent invited talks I gave during conferences, workshops, and panels.
 
-### Invited keynote speaker at CVPR MORSE workshop (2025)
+### Invited keynote speaker at University of Oxford (2025)
+I had the pleasure of giving a keynote at the Intelligent Earth Graduate School on large-scale generative multimodality for Earth observation.
+
+### Invited keynote speaker at CVPR (2025)
 I had the pleasure of giving a keynote at CVPR MORSE on large-scale generative multimodality for Earth observation.
 
 ### Invited lecturer at HDCRS summer school in Santiago de Compostela, Spain (2025)
@@ -63,7 +70,7 @@ Among other speakers from NASA, ESA, Google Research, Apple Research, etc., I co
 ### Invited keynote speaker at IBM Think on Tour (2023)
 As a special guest, I contributed to the keynote on generative AI for business and climate impact based on our work at IBM Research in collaboration with NASA. Find more information [here](https://www.linkedin.com/posts/johannes-jakubik-8763ba167_was-super-exciting-to-contribute-to-the-keynote-activity-7077302085284716544-kDBj?utm_source=share&utm_medium=member_ios).
 
-### Invited lecturer at NASA workshop on Data Science at Scale in Reykjavic, Iceland (2023)
+### Invited lecturer at NASA workshop (2023)
 In a team of NASA and IBM researches, we gave a one-day workshop on data science at scale and geospatial foundation models. Find more information [here](https://www.hdc-rs.com/summer-schools/2023/lecture-for-topic-1).
 
 <br>

@@ -55,7 +55,7 @@ I had the pleasure of giving a keynote at the Intelligent Earth Graduate School 
 ### Invited keynote speaker at CVPR (2025)
 I had the pleasure of giving a keynote at CVPR MORSE on large-scale generative multimodality for Earth observation.
 
-### Invited lecturer at HDCRS summer school in Santiago de Compostela, Spain (2025)
+### Invited lecturer at HDCRS (2025)
 In a team of NASA and IBM researches, we gave a one-day workshop on TerraMind and Prithvi models.
 
 ### Invited speaker and panelist at PASC (2024)

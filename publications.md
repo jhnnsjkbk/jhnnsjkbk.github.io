@@ -3,7 +3,7 @@ layout: publications
 title: Publications & Students
 ---
 
-Together with a range of amazing co-authors, I have published 15+ conference papers (including top conferences like NeurIPS, CVPR, ECML) and 5+ journal papers (including top outlets, e.g., Journal of Artificial Intelligence Research, European Journal on Operational Research). You can find a full list of publications I co-authored also on **[Google Scholar](https://scholar.google.com/citations?user=Bz3X5pQAAAAJ&hl=de&oi=ao)**.
+Together with a range of amazing co-authors, I have published 15+ conference papers (including top conferences like NeurIPS, ICCV, AAAI) and 5+ journal papers (including top outlets, e.g., Journal of Artificial Intelligence Research, European Journal on Operational Research). You can find a full list of publications I co-authored also on **[Google Scholar](https://scholar.google.com/citations?user=Bz3X5pQAAAAJ&hl=de&oi=ao)**.
 
 I also contribute to a range of communities as reviewer, associate editor, and track chair including conferences like NeurIPS, AAAI, ECML, and journals like the Journal of Artificial Intelligence Research.
 
@@ -13,9 +13,13 @@ I also contribute to a range of communities as reviewer, associate editor, and t
 <br>
 Blumenstiel, B.\*, **Jakubik, J.**\*,  Kühne, H., Vössing, M. (2023). What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation. NeurIPS 2023. [Paper](http://arxiv.org/abs/2306.15521) [Website](https://blumenstiel.github.io/mess-benchmark/) [Code](https://github.com/blumenstiel/MESS). * denotes shared first authorship **(VHB-2024: A, CORE: A\*).**
 
+**ICCV**
+<br>
+**Jakubik, J.**\*, Yang, F.\*, Blumenstiel, B.\*, Scheurer, E., Sedona, R., Maurogiovanni, S., ... & Longépé, N. (2025). TerraMind: Large-scale generative multimodality for Earth observation. Accepted at ICCV'25. [Paper](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/papers/Blumenstiel_TerraMesh_A_Planetary_Mosaic_of_Multimodal_Earth_Observation_Data_CVPRW_2025_paper.pdf)
+
 **CVPR**
 <br>
-Blumenstiel, B., Fraccaro, P., Marsocci, V., **Jakubik, J.**, Maurogiovanni, S., Czerkawski, M., ... & Longépé, N. (2025). Terramesh: A planetary mosaic of multimodal earth observation data. In Proceedings of the Computer Vision and Pattern Recognition Conference (pp. 2394-2402). [Paper](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/papers/Blumenstiel_TerraMesh_A_Planetary_Mosaic_of_Multimodal_Earth_Observation_Data_CVPRW_2025_paper.pdf)
+Blumenstiel, B., Fraccaro, P., Marsocci, V., **Jakubik, J.**, Maurogiovanni, S., Czerkawski, M., ... & Longépé, N. (2025). Terramesh: A planetary mosaic of multimodal earth observation data. In Proceedings of the Computer Vision and Pattern Recognition Conference (pp. 2394-2402). [Paper](https://arxiv.org/pdf/2504.11171)
 
 **AAAI**
 <br>

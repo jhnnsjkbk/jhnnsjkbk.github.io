@@ -15,11 +15,11 @@ Blumenstiel, B.\*, **Jakubik, J.**\*,  Kühne, H., Vössing, M. (2023). What a M
 
 **ICCV**
 <br>
-**Jakubik, J.**\*, Yang, F.\*, Blumenstiel, B.\*, Scheurer, E., Sedona, R., Maurogiovanni, S., ... & Longépé, N. (2025). TerraMind: Large-scale generative multimodality for Earth observation. Accepted at ICCV'25. [Paper](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/papers/Blumenstiel_TerraMesh_A_Planetary_Mosaic_of_Multimodal_Earth_Observation_Data_CVPRW_2025_paper.pdf)
+**Jakubik, J.**\*, Yang, F.\*, Blumenstiel, B.\*, Scheurer, E., Sedona, R., Maurogiovanni, S., ... & Longépé, N. (2025). TerraMind: Large-scale generative multimodality for Earth observation. Accepted at ICCV'25.  [Paper](https://arxiv.org/pdf/2504.11171)
 
 **CVPR**
 <br>
-Blumenstiel, B., Fraccaro, P., Marsocci, V., **Jakubik, J.**, Maurogiovanni, S., Czerkawski, M., ... & Longépé, N. (2025). Terramesh: A planetary mosaic of multimodal earth observation data. In Proceedings of the Computer Vision and Pattern Recognition Conference (pp. 2394-2402). [Paper](https://arxiv.org/pdf/2504.11171)
+Blumenstiel, B., Fraccaro, P., Marsocci, V., **Jakubik, J.**, Maurogiovanni, S., Czerkawski, M., ... & Longépé, N. (2025). Terramesh: A planetary mosaic of multimodal earth observation data. In Proceedings of the Computer Vision and Pattern Recognition Conference (pp. 2394-2402). [Paper](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/papers/Blumenstiel_TerraMesh_A_Planetary_Mosaic_of_Multimodal_Earth_Observation_Data_CVPRW_2025_paper.pdf)
 
 **AAAI**
 <br>

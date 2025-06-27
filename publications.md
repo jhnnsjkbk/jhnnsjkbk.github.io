@@ -9,21 +9,21 @@ I also contribute to a range of communities as reviewer, associate editor, and t
 
 ## Selected conference papers 
 
-**NeurIPS**
-<br>
-Blumenstiel, B.\*, **Jakubik, J.**\*,  Kühne, H., Vössing, M. (2023). What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation. NeurIPS 2023. [Paper](http://arxiv.org/abs/2306.15521) [Website](https://blumenstiel.github.io/mess-benchmark/) [Code](https://github.com/blumenstiel/MESS). * denotes shared first authorship **(VHB-2024: A, CORE: A\*).**
-
 **ICCV**
 <br>
-**Jakubik, J.**\*, Yang, F.\*, Blumenstiel, B.\*, Scheurer, E., Sedona, R., Maurogiovanni, S., ... & Longépé, N. (2025). TerraMind: Large-scale generative multimodality for Earth observation. Accepted at ICCV'25.  [Paper](https://arxiv.org/pdf/2504.11171)
+**Jakubik, J.**\*, Yang, F.\*, Blumenstiel, B.\*, Scheurer, E., Sedona, R., Maurogiovanni, S., ... & Longépé, N. (2025). TerraMind: Large-scale generative multimodality for Earth observation. Accepted at ICCV'25.  [Paper](https://arxiv.org/pdf/2504.11171) [Website](https://ibm.github.io/terramind/) [Code](https://github.com/ibm/terramind) [HuggingFace](https://huggingface.co/ibm-esa-geospatial) 
 
 **CVPR**
 <br>
 Blumenstiel, B., Fraccaro, P., Marsocci, V., **Jakubik, J.**, Maurogiovanni, S., Czerkawski, M., ... & Longépé, N. (2025). Terramesh: A planetary mosaic of multimodal earth observation data. In Proceedings of the Computer Vision and Pattern Recognition Conference (pp. 2394-2402). [Paper](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/papers/Blumenstiel_TerraMesh_A_Planetary_Mosaic_of_Multimodal_Earth_Observation_Data_CVPRW_2025_paper.pdf)
 
+**NeurIPS**
+<br>
+Blumenstiel, B.\*, **Jakubik, J.**\*,  Kühne, H., Vössing, M. (2023). What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation. NeurIPS 2023. [Paper](http://arxiv.org/abs/2306.15521) [Website](https://blumenstiel.github.io/mess-benchmark/) [Code](https://github.com/blumenstiel/MESS). * denotes shared first authorship 
+
 **AAAI**
 <br>
-Hemmer, P., Thede, L., Vössing, M., **Jakubik, J.**, & Kühl, N. (2023). Learning to Defer with Limited Expert Predictions. AAAI'23. [Paper](https://arxiv.org/pdf/2304.07306) [Code](https://github.com/ptrckhmmr/learning-to-defer-with-limited-expert-predictions) **(VHB-2024: A, CORE: A\*)**
+Hemmer, P., Thede, L., Vössing, M., **Jakubik, J.**, & Kühl, N. (2023). Learning to Defer with Limited Expert Predictions. AAAI'23. [Paper](https://arxiv.org/pdf/2304.07306) [Code](https://github.com/ptrckhmmr/learning-to-defer-with-limited-expert-predictions) 
 
 **AAAI**
 <br>
@@ -35,7 +35,7 @@ Müller, L., Hemmer, P., Queisner, M., Sauer, I., Allmendinger, S., **Jakubik, J
 
 **IJCAI**
 <br>
-Hemmer, P., Schellhammer, S., Vössing, M., **Jakubik, J.**, & Satzger, G. Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts. IJCAI'22. [Paper](https://arxiv.org/pdf/2206.07948) [Code](https://github.com/ptrckhmmr/human-ai-teams) **(VHB-2024: A, CORE: A\*)**
+Hemmer, P., Schellhammer, S., Vössing, M., **Jakubik, J.**, & Satzger, G. Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts. IJCAI'22. [Paper](https://arxiv.org/pdf/2206.07948) [Code](https://github.com/ptrckhmmr/human-ai-teams)
 
 **ECML**
 <br>
@@ -63,10 +63,6 @@ Schoeffer, J., **Jakubik, J.**, Voessing, M., Kuehl, N., & Satzger, G. (2024). A
 <br>
 **Jakubik, J.**, & Feuerriegel, S. (2022). Data‐driven allocation of development aid toward sustainable development goals: Evidence from HIV/AIDS. Production and Operations Management, 31(6), 2739-2756. [Paper](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/poms.13714) **(FT-50, VHB: A, IF: 4.6)**
 
-**IEEE Geoscience and Remote Sensing Magazine**
-<br>
-Gomes, C., Wittmann, I., Robert, D., **Jakubik, J.**, Reichelt, T., Maurogiovanni, S., ... & Albrecht, C. M. (2025). Lossy neural compression for geospatial analytics: A review. IEEE Geoscience and Remote Sensing Magazine.
-
 **Business & Information Systems Engineering**
 <br>
 **Jakubik**, J., Vössing, M., Kühl, N., Walk, J., & Satzger, G. (2022). Data-centric Artificial Intelligence. Business & Information Systems Engineering. [Paper](https://arxiv.org/pdf/2212.11854.pdf) **(VHB: B, IF: 7.9)**
@@ -78,6 +74,10 @@ Gomes, C., Wittmann, I., Robert, D., **Jakubik, J.**, Reichelt, T., Maurogiovann
 **Electronic Markets**
 <br>
 Holstein, J., Schemmer, M., **Jakubik, J.**, Vössing, M., Satzger, G. (2023). Sanitizing Data for Analysis: Designing Systems for Data Understanding. Electronic Markets,  33 (52). [Paper]([https://www.tandfonline.com/doi/abs/10.1080/14697688.2022.2130085](https://link.springer.com/article/10.1007/s12525-023-00677-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20231009&utm_content=10.1007/s12525-023-00677-w))  **(VHB: B, IF: 8.5)**
+
+**IEEE Geoscience and Remote Sensing Magazine**
+<br>
+Gomes, C., Wittmann, I., Robert, D., **Jakubik, J.**, Reichelt, T., Maurogiovanni, S., ... & Albrecht, C. M. (2025). Lossy neural compression for geospatial analytics: A review. IEEE Geoscience and Remote Sensing Magazine. **(IF: 9.7)**
 
 
 <br>

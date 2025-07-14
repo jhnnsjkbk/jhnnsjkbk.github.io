@@ -23,8 +23,9 @@ I was fortunate enough to be recommended for a tenure-track professorship at a G
 
 ### Dissertation Award
 My dissertation _Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning_ was recognized as one of the most outstanding theses in Germany in 2024 by the Association for Electrical, Electronic & Information Technologies.
-### Disseration Award Nomination of KIT Faculty
-My thesis _Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning_ has been nominated for a dissertation award by KIT.
+
+### Disseration Award Nomination
+My thesis _Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning_ has been nominated for a faculty-wide dissertation award by Karlsruhe Institute of Technology.
 
 ### IBM Outstanding Accomplishment Award
 In summer 2023, my contributions on pioneering foundation models to accelerate scientific discovery have been awarded with an IBM Outstanding Accomplishment Award in 2023.

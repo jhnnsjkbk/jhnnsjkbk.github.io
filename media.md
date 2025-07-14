@@ -22,7 +22,7 @@ My work on foundation models for weather and climate assessments have been award
 I was fortunate enough to be recommended for a tenure-track professorship at a German university of excellence in winter 2024.
 
 ### Dissertation Award
-My dissertation, Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning, was recognized as one of the most outstanding theses in Germany in 2024 by the Association for Electrical, Electronic & Information Technologies.
+My dissertation _Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning_ was recognized as one of the most outstanding theses in Germany in 2024 by the Association for Electrical, Electronic & Information Technologies.
 ### Disseration Award Nomination of KIT Faculty
 My thesis _Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning_ has been nominated for a dissertation award by KIT.
 

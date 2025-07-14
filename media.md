@@ -10,13 +10,13 @@ The development team around the deep learning models of the Prithvi and INDUS fa
 _For developing AI foundational models that enhance scientific analysis, facilitating breakthrough discoveries, and exemplifying collaborative innovation, setting new standards for transparency and scientific rigor in AI development._
 
 ### NASA MSFC Honor Award
-I received the NASA Honor Award from Marshall Space Flight Center (MSFC) for my contributions to foundation models for earth observations in summer 2024.
+I received the NASA Honor Award from Marshall Space Flight Center (MSFC) for my contributions to deep learning for earth observations in summer 2024.
 
 ### IBM Significant External Honor
 I was recognized with an IBM Significant External Honor in 2025 for my contributions in geospatial AI as part of our collaboration with NASA.
 
 ### IBM Outstanding Accomplishment Award 
-My work on foundation models for weather and climate assessments have been awarded with an IBM Outstanding Accomplishment Award in 2024.
+My work on deep learning for weather and climate assessments have been awarded with an IBM Outstanding Accomplishment Award in 2024.
 
 ### Tenure-Track Professorship Recommendation
 I was fortunate enough to be recommended for a tenure-track professorship at a German university of excellence in winter 2024.
@@ -28,7 +28,7 @@ My dissertation _Data-Centric Artificial Intelligence: Foundations and Methods f
 My thesis _Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning_ has been nominated for a faculty-wide dissertation award by Karlsruhe Institute of Technology.
 
 ### IBM Outstanding Accomplishment Award
-In summer 2023, my contributions on pioneering foundation models to accelerate scientific discovery have been awarded with an IBM Outstanding Accomplishment Award in 2023.
+In summer 2023, my contributions on pioneering deep learning to accelerate scientific discovery have been awarded with an IBM Outstanding Accomplishment Award in 2023.
 
 ### Outstanding Dissertation 
 I defended my Ph.D. thesis with _summa cum laude_.
@@ -59,7 +59,7 @@ I had the pleasure of giving a keynote at CVPR MORSE on large-scale generative m
 In a team of NASA and IBM researches, we gave a one-day workshop on TerraMind and Prithvi models.
 
 ### Invited speaker and panelist at PASC (2024)
-I contribute to the foundation models in earth systems sciences workshop at PASC'24 in Zurich! Find the workshop [here](https://pasc24.pasc-conference.org/presentation/?id=msa174&sess=sess108).
+I contribute to the deep learning in earth systems sciences workshop at PASC'24 in Zurich! Find the workshop [here](https://pasc24.pasc-conference.org/presentation/?id=msa174&sess=sess108).
 
 ### Invited panelist at ICLR (2024)
 I contribute to the data-centric machine learning research (DMLR) workshop at this year's ICLR in Vienna! Find the workshop [here](https://dmlr.ai).
@@ -71,7 +71,7 @@ Among other speakers from NASA, ESA, Google Research, Apple Research, etc., I co
 As a special guest, I contributed to the keynote on generative AI for business and climate impact based on our work at IBM Research in collaboration with NASA. Find more information [here](https://www.linkedin.com/posts/johannes-jakubik-8763ba167_was-super-exciting-to-contribute-to-the-keynote-activity-7077302085284716544-kDBj?utm_source=share&utm_medium=member_ios).
 
 ### Invited lecturer at NASA workshop (2023)
-In a team of NASA and IBM researches, we gave a one-day workshop on data science at scale and geospatial foundation models. Find more information [here](https://www.hdc-rs.com/summer-schools/2023/lecture-for-topic-1).
+In a team of NASA and IBM researches, we gave a one-day workshop on data science at scale and geospatial deep learning. Find more information [here](https://www.hdc-rs.com/summer-schools/2023/lecture-for-topic-1).
 
 <br>
 <hr style="border:.5px solid lightgray"> <br>

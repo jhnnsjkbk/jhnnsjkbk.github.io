@@ -7,13 +7,9 @@ title: CV
 ### [IBM Research Europe](https://www.zurich.ibm.com/) 
 **Research Scientist**
 
-- Technical co-lead for IBM Research's activities on foundation models for planetary observations
+- Technical co-lead for IBM Research's activities on deep learning for planetary observations
 - Leading research activities on pretraining and scaling multi-modal deep learning models for Earth observation
-- Developing AI foundation models for weather and climate assessments collaborating with NASA
-- Localized Wind Forecasting for Renewable Energy Production collaborating with MIT and ETH
-- Leading technical collaborations with ESA and KIT
-- Deep Learning for Quantum Optimization Algorithms (voluntary IBM internal project)
-
+- Contributing to the development of deep learning models for weather and climate assessments and quantum optimization algorithms
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   March 2025 - ongoing</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Zurich (Switzerland)</div>
@@ -21,9 +17,8 @@ title: CV
 
 **Postdoctoral Researcher**
 
-- Leading the Development of Large-Scale Multi-Modal AI for Sustainability Assessments (collaborating with ESA)
-- Developing AI Foundation Models for Weather and Climate Impact Assessments (collaborating with NASA)
-- Localized Wind Forecasting for Renewable Energy Production (collaborating with MIT and Shell)
+- Leading research activities on pretraining and scaling multi-modal deep learning models for Earth observation
+- Contributing to the development of deep learning models for weather and climate assessments
 - Deep Learning for Quantum Optimization Algorithms (voluntary IBM internal project)
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   January 2024 - February 2025 </div>
@@ -32,8 +27,9 @@ title: CV
 
 **Visiting Researcher**
 
-- Co-lead the Development of AI-based Systems and a Corresponding Data Platform for Understanding the Earth System (collaborating with NASA)
+- Research on self-supervised deep learning for Earth observation 
 - Domain Adaptation Techniques for the Detection of Natural Hazards
+- All work as part of voluntary projects during PhD journey
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   October 2022 - December 2023</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Zurich (Switzerland)</div>
@@ -52,7 +48,7 @@ title: CV
 <br>
 
 
-### Several Undergrad-Internships in Industry
+### [Several Undergrad-Internships in Industry](https://racing.porsche.com/de-DE)
 Formula E (Porsche Motorsports)
 - Development of AI-based Applications for Formula E Performance Optimization 
 
@@ -65,10 +61,10 @@ Energy (EnBW AG)
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Multiple locations (Germany)</div>
 <br>
 
-### Research & Teaching Assistant Positions
+### [Research & Teaching Assistant Positions](https://www.kit.edu/english/index.php)
 Karlsruhe Institute of Technology (KIT)
-• Teaching Assistant for Operations Research and Statistics
-• Student Research Assistant on Machine Learning and Reinforcement Learning
+- Teaching Assistant for Operations Research and Statistics
+- Student Research Assistant on Machine Learning and Reinforcement Learning
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   April 2017 - February 2019</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Karlsruhe (Germany)</div>
 <br>
@@ -82,7 +78,7 @@ Karlsruhe Institute of Technology (KIT)
 ### [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/index.php) 
 **Ph.D. in Applied Deep Learning**
 
-Ph.D. thesis on "Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning" (summa cum laude)
+- Ph.D. thesis on "Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning" (summa cum laude)
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   October 2020 - March 2024</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Karlsruhe (Germany)</div>
@@ -91,10 +87,7 @@ Ph.D. thesis on "Data-Centric Artificial Intelligence: Foundations and Methods f
 
 ### [ETH Zurich](https://mis.ethz.ch/) 
 **Master's Thesis on Machine Learning and Optimization**
-- Supervisor: Prof. Feuerriegel
-- Chair: Management Information Systems, D-MTEC
-
-M.Sc. thesis on "Applied prescriptive analytics" (highest grade)
+- M.Sc. thesis on combining deep learning with mathematical optimization (highest grade)
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   April 2020 - October 2020</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Zurich (Switzerland)</div>
@@ -134,7 +127,7 @@ Master thesis at ETH Zurich: "Applied prescriptive analytics: Combining machine 
 ### [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/index.php) 
 **Bachelor of Science**
 
-Thesis: "Reinforcement learning based optimization of stochastic production processes for an opportunistic maintenance system" (1.0)
+- Thesis: "Reinforcement learning based optimization of stochastic production processes for an opportunistic maintenance system" (highest grade)
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   October 2014 - April 2018</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Karlsruhe (Germany)</div>
@@ -144,11 +137,9 @@ Thesis: "Reinforcement learning based optimization of stochastic production proc
 ## Affiliations
 
 ### [ETH Zurich](https://mis.ethz.ch/) 
-**Affiliated Research Member in Management Information Systems**
+**Affiliated Research Member at D-MTEC**
 
-Research on emotion dynamics
-- Supervisor: Prof. Feuerriegel
-- Chair: Management Information Systems, D-MTEC
+- Research on emotion dynamics on social media
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   October 2020 - October 2021</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Zurich (Switzerland)</div>

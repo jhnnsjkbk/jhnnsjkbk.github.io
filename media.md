@@ -15,20 +15,19 @@ I received the NASA Honor Award from Marshall Space Flight Center (MSFC) for my 
 ### IBM Significant External Honor
 I was recognized with an IBM Significant External Honor in 2025 for my contributions in geospatial AI as part of our collaboration with NASA.
 
-### IBM Accomplishment Award
-My work on foundation models for weather and climate assessments have been awarded with an IBM Accomplishment Award in 2024.
-
-### IBM Outstanding Accomplishment Award
-In summer 2023, my contributions on pioneering foundation models to accelerate scientific discovery have been awarded with an IBM Outstanding Accomplishment Award in 2023.
+### IBM Outstanding Accomplishment Award 
+My work on foundation models for weather and climate assessments have been awarded with an IBM Outstanding Accomplishment Award in 2024.
 
 ### Tenure-Track Professorship Recommendation
 I was fortunate enough to be recommended for a tenure-track professorship at a German university of excellence in winter 2024.
 
-### Dissertation Award Nomination of VDE ITG (under review)
-My thesis on data-centric AI has been nominated for a VDE ITG dissertation award (currently under review).
-
+### Dissertation Award
+My dissertation, Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning, was recognized as one of the most outstanding theses in Germany in 2024 by the Association for Electrical, Electronic & Information Technologies.
 ### Disseration Award Nomination of KIT Faculty
-My thesis on data-centric AI has been nominated for a dissertation award by KIT.
+My thesis _Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning_ has been nominated for a dissertation award by KIT.
+
+### IBM Outstanding Accomplishment Award
+In summer 2023, my contributions on pioneering foundation models to accelerate scientific discovery have been awarded with an IBM Outstanding Accomplishment Award in 2023.
 
 ### Outstanding Dissertation 
 I defended my Ph.D. thesis with _summa cum laude_.

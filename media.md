@@ -19,7 +19,7 @@ I was recognized with an IBM Significant External Honor in 2025 for my contribut
 My work on deep learning for weather and climate assessments have been awarded with an IBM Outstanding Accomplishment Award in 2024.
 
 ### Tenure-Track Professorship Recommendation
-I was fortunate enough to be recommended for a tenure-track professorship at a German university of excellence in winter 2024.
+I was fortunate enough to be recommended for a tenure-track professorship at a German university of excellence in winter 2024. I decided to stay in industry research.
 
 ### Dissertation Award
 My dissertation _Data-Centric Artificial Intelligence: Foundations and Methods for Deep Learning_ was recognized as one of the most outstanding theses in Germany in 2024 by the Association for Electrical, Electronic & Information Technologies.

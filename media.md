@@ -56,7 +56,7 @@ I had the pleasure of giving a keynote at the Intelligent Earth Graduate School 
 I had the pleasure of giving a keynote at CVPR MORSE on large-scale generative multimodality for Earth observation.
 
 ### Invited lecturer at HDCRS (2025)
-In a team of NASA and IBM researches, we gave a one-day workshop on TerraMind and Prithvi models.
+In a team of NASA and IBM researches, we gave a one-day workshop on TerraMind and Prithvi models. Find a recording on YouTube [here](https://www.youtube.com/watch?v=IPhPARuGcGk&t=1955s).
 
 ### Invited speaker and panelist at PASC (2024)
 I contribute to the deep learning in earth systems sciences workshop at PASC'24 in Zurich! Find the workshop [here](https://pasc24.pasc-conference.org/presentation/?id=msa174&sess=sess108).

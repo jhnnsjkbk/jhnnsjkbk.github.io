@@ -15,6 +15,9 @@ I received the NASA Honor Award from Marshall Space Flight Center (MSFC) for my 
 ### IBM Significant External Honor
 I was recognized with an IBM Significant External Honor in 2025 for my contributions in geospatial AI as part of our collaboration with NASA.
 
+### AGU Open Science Recognition Prize 
+The Prithvi teams have received the 2025 AGU Open Science Recognition Prize.
+
 ### IBM Outstanding Accomplishment Award 
 My work on deep learning for weather and climate assessments have been awarded with an IBM Outstanding Accomplishment Award in 2024.
 

@@ -7,9 +7,9 @@ title: CV
 ### [IBM Research Europe](https://www.zurich.ibm.com/) 
 **Research Scientist**
 
-- Technical co-lead for IBM Research's activities on deep learning for planetary observations
-- Leading research activities on pretraining and scaling multi-modal deep learning models for Earth observation
-- Contributing to the development of deep learning models for weather and climate assessments and quantum optimization algorithms
+- Technical lead for multimodal generative modeling focusing on pretraining and scaling, co-lead for IBM Research’s activities on deep learning for planetary observations
+- Co-leading efforts at the intersection of quantum graph optimization and deep learning
+- Contributing to the development of deep learning models for weather and climate assessments
 
 <div><i class="fa fa-calendar" style="font-size: .7rem;"></i>   March 2025 - ongoing</div>
 <div><i class="fa fa-map-marker" style="font-size: 1.2rem;"></i>   Zurich (Switzerland)</div>

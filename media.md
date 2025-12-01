@@ -9,6 +9,9 @@ title: Honors, Talks & Media
 The development team around the deep learning models of the Prithvi and INDUS family received the NASA Agency Group Award in summer 2025:
 _For developing AI foundational models that enhance scientific analysis, facilitating breakthrough discoveries, and exemplifying collaborative innovation, setting new standards for transparency and scientific rigor in AI development._
 
+### IBM Outstanding Accomplishment Award 
+My work on multimodal deep learning for Earth observation has been awarded with an IBM Outstanding Accomplishment Award in 2025.
+
 ### NASA MSFC Honor Award
 I received the NASA Honor Award from Marshall Space Flight Center (MSFC) for my contributions to deep learning for earth observations in summer 2024.
 

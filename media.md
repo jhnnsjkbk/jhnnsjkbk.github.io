@@ -3,7 +3,7 @@ layout: media
 title: Honors, Talks & Media
 ---
 
-# Honors
+# Honors & Awards
 
 ### NASA Agency Group Award
 The development team around the deep learning models of the Prithvi and INDUS family received the NASA Agency Group Award in summer 2025:

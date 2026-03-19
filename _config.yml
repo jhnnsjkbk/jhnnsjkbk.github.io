@@ -191,8 +191,8 @@ exclude:
   - readme_preview/
   - vendor
 keep_files:
-  - CNAME
   - .nojekyll
+#  - CNAME
 
 # Plug-ins
 plugins:

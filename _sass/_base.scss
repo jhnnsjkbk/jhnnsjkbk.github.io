@@ -687,8 +687,18 @@ footer.sticky-bottom {
   }
 
   .card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    
     img {
       width: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+    
+    .card-body {
+      margin-top: auto;
     }
   }
 

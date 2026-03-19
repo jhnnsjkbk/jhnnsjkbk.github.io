@@ -1,0 +1,388 @@
+// Custom styles for Johannes Jakubik's website
+
+// Full-width banner for about page
+.about-banner {
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  margin-top: -56px; // Offset for fixed navbar
+  margin-bottom: 2rem;
+  overflow: hidden;
+  max-height: 400px;
+  
+  .banner-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+  }
+}
+
+// Adjust for non-fixed navbar
+body:not(.fixed-top-nav) .about-banner {
+  margin-top: 0;
+}
+
+// Enhanced color scheme
+:root {
+  --global-theme-color: #0052a3;
+  --global-hover-color: #003d7a;
+  --global-text-color: #2d3748;
+  --global-bg-color: #ffffff;
+  --global-code-bg-color: #f7fafc;
+  --global-heading-color: #003d82;
+}
+
+// Dark mode colors
+html[data-theme='dark'] {
+  --global-theme-color: #4a9eff;
+  --global-hover-color: #6bb0ff;
+  --global-text-color: #e2e8f0;
+  --global-bg-color: #1a202c;
+  --global-code-bg-color: #2d3748;
+  --global-heading-color: #ffffff;
+}
+
+// Enhanced typography
+body {
+  font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  line-height: 1.7;
+  color: var(--global-text-color);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+  margin-top: 1.5em;
+  margin-bottom: 0.75em;
+  color: var(--global-heading-color);
+}
+
+h1 {
+  font-weight: 800;
+  color: #002952;
+}
+
+html[data-theme='dark'] h1 {
+  color: #ffffff;
+}
+
+// Centered profile section for about page
+.profile-centered {
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 600px;
+  
+  img {
+    width: 160px;
+    height: 160px;
+    margin: 0 auto 1.5rem;
+    border-radius: 50%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    
+    &:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+    }
+  }
+  
+  .profile-name {
+    font-size: 2rem;
+    font-weight: 800;
+    margin: 1rem 0 0.5rem;
+    color: var(--global-heading-color);
+  }
+  
+  .profile-subtitle {
+    font-size: 1.1rem;
+    color: var(--global-text-color);
+    margin-bottom: 1rem;
+  }
+}
+
+// Enhanced profile section (for other pages)
+.profile {
+  max-width: 160px !important;
+  margin-top: 0 !important;
+  margin-right: 20px !important;
+  
+  img {
+    width: 60%;
+    max-width: 160px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    
+    &:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
+    }
+  }
+}
+
+// Enhanced links
+a {
+  color: var(--global-theme-color);
+  text-decoration: none;
+  transition: color 0.2s ease;
+  
+  &:hover {
+    color: var(--global-hover-color);
+    text-decoration: underline;
+  }
+}
+
+// Enhanced paper/publication cards
+.publications {
+  .paper {
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-radius: 8px;
+    background: var(--global-code-bg-color);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+  }
+}
+
+// Enhanced news/announcements
+.news {
+  .news-item {
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-left: 3px solid var(--global-theme-color);
+    background: var(--global-code-bg-color);
+    border-radius: 4px;
+    transition: background 0.2s ease;
+    
+    &:hover {
+      background: rgba(0, 102, 204, 0.05);
+    }
+  }
+}
+
+// Enhanced navigation
+.navbar {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  
+  .nav-item {
+    .nav-link {
+      font-weight: 500;
+      transition: color 0.2s ease;
+      
+      &:hover {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+}
+
+// Enhanced footer
+footer {
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  padding-top: 2rem;
+  margin-top: 4rem;
+}
+
+// Social icons enhancement
+.social {
+  a {
+    font-size: 1.5rem;
+    margin: 0 0.5rem;
+    transition: transform 0.2s ease, color 0.2s ease;
+    
+    &:hover {
+      transform: translateY(-3px);
+      color: var(--global-theme-color);
+    }
+  }
+}
+
+// CV page enhancements
+.cv {
+  .timeline-item {
+    position: relative;
+    padding-left: 2rem;
+    margin-bottom: 2rem;
+    
+    &:before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0.5rem;
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      background: var(--global-theme-color);
+    }
+  }
+}
+
+// Responsive improvements
+@media (max-width: 768px) {
+  .profile {
+    text-align: center;
+    
+    img {
+      margin: 0 auto 1rem;
+    }
+  }
+}
+
+// Smooth scrolling
+html {
+  scroll-behavior: smooth;
+}
+
+// Enhanced code blocks
+pre, code {
+  border-radius: 4px;
+  background: var(--global-code-bg-color);
+}
+
+// Button enhancements
+.btn {
+  border-radius: 6px;
+  padding: 0.5rem 1.5rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  }
+}
+
+// Resource cards for project pages
+.resource-cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.resource-card {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem;
+  border-radius: 8px;
+  background: var(--global-code-bg-color);
+  border: 1px solid rgba(0, 82, 163, 0.15);
+  text-decoration: none;
+  transition: all 0.2s ease;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  flex: 0 1 auto;
+  max-width: 100%;
+  
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 82, 163, 0.12);
+    border-color: var(--global-theme-color);
+    text-decoration: none;
+    
+    .resource-preview img {
+      opacity: 0.9;
+    }
+  }
+  
+  .resource-preview {
+    width: 60px;
+    height: 60px;
+    flex-shrink: 0;
+    overflow: hidden;
+    border-radius: 6px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    
+    img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      transition: opacity 0.2s ease;
+    }
+  }
+  
+  .resource-content {
+    flex: 1;
+    min-width: 0;
+    
+    h4 {
+      margin: 0 0 0.25rem 0;
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--global-heading-color);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    
+    p {
+      margin: 0;
+      font-size: 0.75rem;
+      color: var(--global-theme-color);
+      opacity: 0.7;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+  }
+}
+
+// Dark mode adjustments for resource cards
+html[data-theme='dark'] {
+  .resource-card {
+    border-color: rgba(74, 158, 255, 0.2);
+    
+    &:hover {
+      border-color: var(--global-theme-color);
+      box-shadow: 0 8px 16px rgba(74, 158, 255, 0.2);
+    }
+  }
+}
+
+// Responsive adjustments
+@media (max-width: 768px) {
+  .resource-cards {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+  
+  .resource-card {
+    padding: 1.25rem;
+    
+    .resource-icon {
+      font-size: 2.5rem;
+    }
+  }
+}
+
+// Project card enhancements - center images and bottom-align text
+.projects {
+  .card {
+    display: flex;
+    flex-direction: column;
+    
+    .card-img-top {
+      object-fit: cover;
+      object-position: center;
+      height: 200px;
+      width: 100%;
+    }
+    
+    .card-body {
+      margin-top: auto;
+      display: flex;
+      flex-direction: column;
+      flex-grow: 1;
+    }
+  }
+}
+// Made with Bob

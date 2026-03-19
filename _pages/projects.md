@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: In the past year, I have both led and contributed to a range of interesting projects at the intersection of deep learning, learned quantization, weather modeling and Earth observation. Below, I'm providing a brief overview of the major works.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
+display_categories: [quantization, weather]
 horizontal: false
 ---
 

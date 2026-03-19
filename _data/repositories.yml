@@ -1,14 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jhnnsjkbk1
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - IBM/terramind
+  - terrastackai/terratorch
+  - NASA-IMPACT/hls-foundation-os
+  - NASA-IMPACT/Prithvi-WxC
+  - jhnnsjkbk1/IBM-Quantum-qaoa_training_pipeline
+  - jhnnsjkbk1/NeurIPS-MESS

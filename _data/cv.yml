@@ -72,7 +72,7 @@
       year: October 2020 – March 2024
       location: Karlsruhe, Germany
       description:
-        - Ph.D. thesis: “Data‑Centric Artificial Intelligence: Foundations and Methods for Deep Learning” (summa cum laude).
+        - 'Ph.D. thesis: Data-Centric Artificial Intelligence - Foundations and Methods for Deep Learning (summa cum laude).'
 
     - title: Master’s Thesis in Machine Learning & Optimization
       institution: ETH Zürich (D-MTEC)
@@ -104,30 +104,3 @@
       description:
         - Thesis: “Reinforcement learning‑based optimization of stochastic production processes for an opportunistic maintenance system” (highest grade).
 
-- title: Affiliations
-  type: time_table
-  contents:
-    - title: Affiliated Research Member (D‑MTEC)
-      institution: ETH Zürich
-      year: October 2020 – October 2021
-      location: Zürich, Switzerland
-      description:
-        - Research on emotion dynamics on social media.
-
-# Optional sections you can enable later:
-
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Earth Observation & Climate AI
-#       items:
-#         - Multimodal pretraining and scaling strategies.
-#         - Self-supervised learning for geospatial data.
-#     - title: Optimization & ML
-#       items:
-#         - Quantum-inspired graph optimization w/ deep learning.
-
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - Endurance sports, mountain hiking, photography.

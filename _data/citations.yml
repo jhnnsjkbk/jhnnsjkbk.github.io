@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-04-27'
 papers:
   Bz3X5pQAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -30,11 +30,11 @@ papers:
     title: Fine-tuning a Geospatial Foundation Model for Environmental Impact Monitoring Tasks
     year: '2023'
   Bz3X5pQAAAAJ:4JMBOYKVnBMC:
-    citations: 288
+    citations: 291
     title: Foundation Models for Generalist Geospatial Artificial Intelligence
     year: '2023'
   Bz3X5pQAAAAJ:4OULZ7Gr8RgC:
-    citations: 8
+    citations: 9
     title: 'Surya: Foundation model for heliophysics'
     year: '2025'
   Bz3X5pQAAAAJ:5nxA0vEk-isC:
@@ -50,7 +50,7 @@ papers:
     title: Learning to Defer with Limited Expert Predictions
     year: '2023'
   Bz3X5pQAAAAJ:9yKSN-GCB0IC:
-    citations: 109
+    citations: 110
     title: Reinforcement learning for opportunistic maintenance optimization
     year: '2019'
   Bz3X5pQAAAAJ:CHSYGLWDkRkC:
@@ -70,7 +70,7 @@ papers:
     title: Entwicklung eines Human-in-the-Loop-Systems zur Objekterkennung in Grundrissen
     year: '2024'
   Bz3X5pQAAAAJ:JV2RwH3_ST0C:
-    citations: 7
+    citations: 8
     title: Multi-modal graph neural networks for localized off-grid weather forecasting
     year: '2024'
   Bz3X5pQAAAAJ:L8Ckcad2t8MC:
@@ -78,7 +78,7 @@ papers:
     title: 'Navigating the synthetic realm: Harnessing diffusion-based models for laparoscopic text-to-image generation'
     year: '2024'
   Bz3X5pQAAAAJ:LkGwnXOMwfcC:
-    citations: 37
+    citations: 38
     title: 'Online Emotions During the Storming of the US Capitol: Evidence from the Social Media Network Parler'
     year: '2023'
   Bz3X5pQAAAAJ:M05iB0D1s5AC:
@@ -106,7 +106,7 @@ papers:
     title: 'Data-centric artificial intelligence: foundations and methods for deep learning'
     year: '2024'
   Bz3X5pQAAAAJ:Se3iqnhoufwC:
-    citations: 29
+    citations: 30
     title: An Empirical Evaluation of Predicted Outcomes as Explanations in Human-AI Decision-Making
     year: '2022'
   Bz3X5pQAAAAJ:SeFeTyx0c_EC:
@@ -126,7 +126,7 @@ papers:
     title: Directed particle swarm optimization with Gaussian-process-based function forecasting
     year: '2021'
   Bz3X5pQAAAAJ:WF5omc3nYNoC:
-    citations: 31
+    citations: 32
     title: Incorporating Financial News for Forecasting Bitcoin Prices Based on Long Short-Term Memory Networks
     year: '2022'
   Bz3X5pQAAAAJ:Wp0gIr-vW9MC:
@@ -218,7 +218,7 @@ papers:
     title: Assessing Performance of a Foundation Model for Multi-Label Image Classification of Satellite Imagery
     year: '2023'
   Bz3X5pQAAAAJ:hqOjcs7Dif8C:
-    citations: 167
+    citations: 169
     title: Data-centric Artificial Intelligence
     year: '2024'
   Bz3X5pQAAAAJ:isC4tDSrTZIC:
@@ -234,7 +234,7 @@ papers:
     title: NASA-IBM HLS Foundation Model - Image Segmentation by Foundation Model Finetuning
     year: '2023'
   Bz3X5pQAAAAJ:lSLTfruPkqcC:
-    citations: 74
+    citations: 76
     title: 'Terramind: Large-scale generative multimodality for earth observation'
     year: '2025'
   Bz3X5pQAAAAJ:mB3voiENLucC:
@@ -262,7 +262,7 @@ papers:
     title: Evaluating Foundation Models for Crop Type Segmentation Using Multi-temporal Multi-spectral Satellite Imagery
     year: '2023'
   Bz3X5pQAAAAJ:qxL8FJ1GzNcC:
-    citations: 39
+    citations: 40
     title: 'AI foundation models for weather and climate: Applications, design, and implementation'
     year: '2023'
   Bz3X5pQAAAAJ:r0BpntZqJG4C:
@@ -286,7 +286,7 @@ papers:
     title: Designing a Human-in-the-Loop System for Object Detection in Floor Plans
     year: '2022'
   Bz3X5pQAAAAJ:vV6vV6tmYwMC:
-    citations: 11
+    citations: 12
     title: 'Terramesh: A planetary mosaic of multimodal earth observation data'
     year: '2025'
   Bz3X5pQAAAAJ:xtRiw3GOFMkC:

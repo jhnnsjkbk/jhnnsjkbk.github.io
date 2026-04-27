@@ -12,4 +12,4 @@ Excited to join ESA Φ-lab as visiting researcher in April-May 2026 in Frascati,
 <img src="assets/img/phi_lab.jpeg"
      alt="ESA Phi-lab"
      width="30%" height="30%"
-     style="margin-top: 20px;" />
+     style="margin-top: 20px; border-radius: 50%; object-fit: cover; aspect-ratio: 1/1;" />

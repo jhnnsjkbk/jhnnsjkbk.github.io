@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-04'
 papers:
   Bz3X5pQAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -30,7 +30,7 @@ papers:
     title: Fine-tuning a Geospatial Foundation Model for Environmental Impact Monitoring Tasks
     year: '2023'
   Bz3X5pQAAAAJ:4JMBOYKVnBMC:
-    citations: 291
+    citations: 294
     title: Foundation Models for Generalist Geospatial Artificial Intelligence
     year: '2023'
   Bz3X5pQAAAAJ:4OULZ7Gr8RgC:
@@ -50,7 +50,7 @@ papers:
     title: Learning to Defer with Limited Expert Predictions
     year: '2023'
   Bz3X5pQAAAAJ:9yKSN-GCB0IC:
-    citations: 110
+    citations: 111
     title: Reinforcement learning for opportunistic maintenance optimization
     year: '2019'
   Bz3X5pQAAAAJ:CHSYGLWDkRkC:
@@ -90,7 +90,7 @@ papers:
     title: 'What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation'
     year: '2023'
   Bz3X5pQAAAAJ:NaGl4SEjCO4C:
-    citations: 12
+    citations: 13
     title: 'Beyond the visible: Multispectral vision-language learning for earth observation'
     year: '2025'
   Bz3X5pQAAAAJ:NhqRSupF_l8C:
@@ -114,7 +114,7 @@ papers:
     title: "Local off\u2010grid weather forecasting with multi\u2010modal earth observation data"
     year: '2025'
   Bz3X5pQAAAAJ:TFP_iSt0sucC:
-    citations: 19
+    citations: 22
     title: 'AI reliance and decision quality: Fundamentals, interdependence, and the effects of interventions'
     year: '2025'
   Bz3X5pQAAAAJ:TQgYirikUcIC:
@@ -218,7 +218,7 @@ papers:
     title: Assessing Performance of a Foundation Model for Multi-Label Image Classification of Satellite Imagery
     year: '2023'
   Bz3X5pQAAAAJ:hqOjcs7Dif8C:
-    citations: 169
+    citations: 171
     title: Data-centric Artificial Intelligence
     year: '2024'
   Bz3X5pQAAAAJ:isC4tDSrTZIC:
@@ -234,7 +234,7 @@ papers:
     title: NASA-IBM HLS Foundation Model - Image Segmentation by Foundation Model Finetuning
     year: '2023'
   Bz3X5pQAAAAJ:lSLTfruPkqcC:
-    citations: 76
+    citations: 77
     title: 'Terramind: Large-scale generative multimodality for earth observation'
     year: '2025'
   Bz3X5pQAAAAJ:mB3voiENLucC:
@@ -246,11 +246,11 @@ papers:
     title: 'Redefining the Laparoscopic Spatial Sense: AI-based Intra- and Postoperative Measurement from Stereoimages'
     year: '2023'
   Bz3X5pQAAAAJ:maZDTaKrznsC:
-    citations: 65
+    citations: 66
     title: 'Prithvi wxc: Foundation model for weather and climate'
     year: '2024'
   Bz3X5pQAAAAJ:ns9cj8rnVeAC:
-    citations: 11
+    citations: 12
     title: 'Lossy neural compression for geospatial analytics: A review'
     year: '2025'
   Bz3X5pQAAAAJ:pqnbT2bcN3wC:
@@ -286,7 +286,7 @@ papers:
     title: Designing a Human-in-the-Loop System for Object Detection in Floor Plans
     year: '2022'
   Bz3X5pQAAAAJ:vV6vV6tmYwMC:
-    citations: 12
+    citations: 13
     title: 'Terramesh: A planetary mosaic of multimodal earth observation data'
     year: '2025'
   Bz3X5pQAAAAJ:xtRiw3GOFMkC:

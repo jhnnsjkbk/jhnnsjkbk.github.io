@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-18'
 papers:
   Bz3X5pQAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -30,7 +30,7 @@ papers:
     title: Fine-tuning a Geospatial Foundation Model for Environmental Impact Monitoring Tasks
     year: '2023'
   Bz3X5pQAAAAJ:4JMBOYKVnBMC:
-    citations: 294
+    citations: 305
     title: Foundation Models for Generalist Geospatial Artificial Intelligence
     year: '2023'
   Bz3X5pQAAAAJ:4OULZ7Gr8RgC:
@@ -46,11 +46,11 @@ papers:
     title: Burn Scar Detection Leveraging a Harmonized Landsat and Sentinel-2 Foundation Model
     year: '2023'
   Bz3X5pQAAAAJ:8k81kl-MbHgC:
-    citations: 42
+    citations: 45
     title: Learning to Defer with Limited Expert Predictions
     year: '2023'
   Bz3X5pQAAAAJ:9yKSN-GCB0IC:
-    citations: 111
+    citations: 112
     title: Reinforcement learning for opportunistic maintenance optimization
     year: '2019'
   Bz3X5pQAAAAJ:CHSYGLWDkRkC:
@@ -74,7 +74,7 @@ papers:
     title: Multi-modal graph neural networks for localized off-grid weather forecasting
     year: '2024'
   Bz3X5pQAAAAJ:L8Ckcad2t8MC:
-    citations: 13
+    citations: 14
     title: 'Navigating the synthetic realm: Harnessing diffusion-based models for laparoscopic text-to-image generation'
     year: '2024'
   Bz3X5pQAAAAJ:LkGwnXOMwfcC:
@@ -218,7 +218,7 @@ papers:
     title: Assessing Performance of a Foundation Model for Multi-Label Image Classification of Satellite Imagery
     year: '2023'
   Bz3X5pQAAAAJ:hqOjcs7Dif8C:
-    citations: 171
+    citations: 176
     title: Data-centric Artificial Intelligence
     year: '2024'
   Bz3X5pQAAAAJ:isC4tDSrTZIC:
@@ -234,7 +234,7 @@ papers:
     title: NASA-IBM HLS Foundation Model - Image Segmentation by Foundation Model Finetuning
     year: '2023'
   Bz3X5pQAAAAJ:lSLTfruPkqcC:
-    citations: 77
+    citations: 87
     title: 'Terramind: Large-scale generative multimodality for earth observation'
     year: '2025'
   Bz3X5pQAAAAJ:mB3voiENLucC:
@@ -246,7 +246,7 @@ papers:
     title: 'Redefining the Laparoscopic Spatial Sense: AI-based Intra- and Postoperative Measurement from Stereoimages'
     year: '2023'
   Bz3X5pQAAAAJ:maZDTaKrznsC:
-    citations: 66
+    citations: 70
     title: 'Prithvi wxc: Foundation model for weather and climate'
     year: '2024'
   Bz3X5pQAAAAJ:ns9cj8rnVeAC:
@@ -274,7 +274,7 @@ papers:
     title: Leveraging Neural Compression for Earth Observation
     year: '2025'
   Bz3X5pQAAAAJ:roLk4NBRz8UC:
-    citations: 76
+    citations: 79
     title: 'Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts'
     year: '2022'
   Bz3X5pQAAAAJ:u_35RYKgDlwC:

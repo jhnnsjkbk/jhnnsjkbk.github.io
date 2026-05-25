@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-05-25'
 papers:
   Bz3X5pQAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -34,11 +34,11 @@ papers:
     title: Foundation Models for Generalist Geospatial Artificial Intelligence
     year: '2023'
   Bz3X5pQAAAAJ:4OULZ7Gr8RgC:
-    citations: 9
+    citations: 10
     title: 'Surya: Foundation model for heliophysics'
     year: '2025'
   Bz3X5pQAAAAJ:5nxA0vEk-isC:
-    citations: 31
+    citations: 32
     title: On the Interdependence of Reliance Behavior and Accuracy in AI-Assisted Decision-Making
     year: '2023'
   Bz3X5pQAAAAJ:7PzlFSSx8tAC:
@@ -70,7 +70,7 @@ papers:
     title: Entwicklung eines Human-in-the-Loop-Systems zur Objekterkennung in Grundrissen
     year: '2024'
   Bz3X5pQAAAAJ:JV2RwH3_ST0C:
-    citations: 8
+    citations: 9
     title: Multi-modal graph neural networks for localized off-grid weather forecasting
     year: '2024'
   Bz3X5pQAAAAJ:L8Ckcad2t8MC:
@@ -114,7 +114,7 @@ papers:
     title: "Local off\u2010grid weather forecasting with multi\u2010modal earth observation data"
     year: '2025'
   Bz3X5pQAAAAJ:TFP_iSt0sucC:
-    citations: 22
+    citations: 23
     title: 'AI reliance and decision quality: Fundamentals, interdependence, and the effects of interventions'
     year: '2025'
   Bz3X5pQAAAAJ:TQgYirikUcIC:
@@ -218,11 +218,11 @@ papers:
     title: Assessing Performance of a Foundation Model for Multi-Label Image Classification of Satellite Imagery
     year: '2023'
   Bz3X5pQAAAAJ:hqOjcs7Dif8C:
-    citations: 177
+    citations: 180
     title: Data-centric Artificial Intelligence
     year: '2024'
   Bz3X5pQAAAAJ:isC4tDSrTZIC:
-    citations: 7
+    citations: 8
     title: "Explainability in AI-Based Applications\u2013A Framework for Comparing Different Techniques"
     year: '2024'
   Bz3X5pQAAAAJ:j3f4tGmQtD8C:
@@ -246,7 +246,7 @@ papers:
     title: 'Redefining the Laparoscopic Spatial Sense: AI-based Intra- and Postoperative Measurement from Stereoimages'
     year: '2023'
   Bz3X5pQAAAAJ:maZDTaKrznsC:
-    citations: 70
+    citations: 72
     title: 'Prithvi wxc: Foundation model for weather and climate'
     year: '2024'
   Bz3X5pQAAAAJ:ns9cj8rnVeAC:
@@ -282,7 +282,7 @@ papers:
     title: 'Surya: Foundation Model for Heliophysics using SDO Data'
     year: Unknown Year
   Bz3X5pQAAAAJ:ufrVoPGSRksC:
-    citations: 11
+    citations: 12
     title: Designing a Human-in-the-Loop System for Object Detection in Floor Plans
     year: '2022'
   Bz3X5pQAAAAJ:vV6vV6tmYwMC:

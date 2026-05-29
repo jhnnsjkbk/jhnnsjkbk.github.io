@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-05-29'
 papers:
   Bz3X5pQAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -30,15 +30,15 @@ papers:
     title: Fine-tuning a Geospatial Foundation Model for Environmental Impact Monitoring Tasks
     year: '2023'
   Bz3X5pQAAAAJ:4JMBOYKVnBMC:
-    citations: 306
+    citations: 311
     title: Foundation Models for Generalist Geospatial Artificial Intelligence
     year: '2023'
   Bz3X5pQAAAAJ:4OULZ7Gr8RgC:
-    citations: 10
+    citations: 11
     title: 'Surya: Foundation model for heliophysics'
     year: '2025'
   Bz3X5pQAAAAJ:5nxA0vEk-isC:
-    citations: 32
+    citations: 33
     title: On the Interdependence of Reliance Behavior and Accuracy in AI-Assisted Decision-Making
     year: '2023'
   Bz3X5pQAAAAJ:7PzlFSSx8tAC:
@@ -46,7 +46,7 @@ papers:
     title: Burn Scar Detection Leveraging a Harmonized Landsat and Sentinel-2 Foundation Model
     year: '2023'
   Bz3X5pQAAAAJ:8k81kl-MbHgC:
-    citations: 45
+    citations: 46
     title: Learning to Defer with Limited Expert Predictions
     year: '2023'
   Bz3X5pQAAAAJ:9yKSN-GCB0IC:
@@ -234,7 +234,7 @@ papers:
     title: NASA-IBM HLS Foundation Model - Image Segmentation by Foundation Model Finetuning
     year: '2023'
   Bz3X5pQAAAAJ:lSLTfruPkqcC:
-    citations: 87
+    citations: 92
     title: 'Terramind: Large-scale generative multimodality for earth observation'
     year: '2025'
   Bz3X5pQAAAAJ:mB3voiENLucC:
@@ -246,7 +246,7 @@ papers:
     title: 'Redefining the Laparoscopic Spatial Sense: AI-based Intra- and Postoperative Measurement from Stereoimages'
     year: '2023'
   Bz3X5pQAAAAJ:maZDTaKrznsC:
-    citations: 72
+    citations: 73
     title: 'Prithvi wxc: Foundation model for weather and climate'
     year: '2024'
   Bz3X5pQAAAAJ:ns9cj8rnVeAC:
@@ -274,7 +274,7 @@ papers:
     title: Leveraging Neural Compression for Earth Observation
     year: '2025'
   Bz3X5pQAAAAJ:roLk4NBRz8UC:
-    citations: 79
+    citations: 80
     title: 'Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts'
     year: '2022'
   Bz3X5pQAAAAJ:u_35RYKgDlwC:

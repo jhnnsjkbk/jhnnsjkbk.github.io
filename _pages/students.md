@@ -16,11 +16,12 @@ I've had the privilege to work with outstanding students who have done amazing w
 
 **Bogdan Raonic** — PhD thesis at **ETH Zurich AI Center** -- Mentorship (ongoing)
 
-**Hugues Devimeux** — MSc thesis at **ETH Zurich** -- Thesis co-supervision (ongoing)
-
-**Nazar Puriy** — MSc thesis at **ETH Zurich** -- Thesis co-supervision
+**Imelda Romero** — Post-doc internship from **EPFL** -- Internship supervision (ongoing)
 
 ---
+**Hugues Devimeux** — MSc thesis at ETH Zurich -- Thesis co-supervision → Research Engineer at **Mistral AI**
+
+**Nazar Puriy** — MSc thesis at ETH Zurich -- Thesis co-supervision
 
 **Felix Yang** — M.Sc. thesis at ETH Zurich/IBM Research → Research Engineer at **NVIDIA**
 

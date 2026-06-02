@@ -78,6 +78,18 @@ I received a DAAD scholarship as part of my master's thesis supporting research 
 
 An excerpt of recent invited talks I gave during conferences, workshops, and panels.
 
+**Invited talk at CVPR (2026)**
+
+Big pleasure to contribute a talk to the MONTI workshop @ CVPR on a vision for deep learning in Earth observation
+
+**Invited Phi-Talk at ESA (2026)**
+
+I had the honor of delivering a 60 minutes Phi-Talk at ESA Phi-Lab on the benefits of learned quantization for multi-modal deep learning.
+
+**Invited seminar at ESA Phi-Lab (2026)**
+
+I had the pleasure of hosting a 90 minutes seminar at ESA Phi-Lab on the the future of learned quantization for deep learning.
+
 **Invited keynote speaker at University of Oxford (2025)**
 
 I had the pleasure of giving a keynote at the Intelligent Earth Graduate School on large-scale generative multimodality for Earth observation.

@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-29'
+  last_updated: '2026-06-05'
 papers:
   Bz3X5pQAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -18,7 +18,7 @@ papers:
     title: Hyperspectral Vision Transformers for Greenhouse Gas Estimations from Space
     year: '2025'
   Bz3X5pQAAAAJ:3fE2CSJIrl8C:
-    citations: 20
+    citations: 21
     title: 'Improving the Efficiency of Human-in-the-Loop Systems: Adding Artificial to Human Experts'
     year: '2023'
   Bz3X5pQAAAAJ:3s1wT3WcHBgC:
@@ -30,15 +30,15 @@ papers:
     title: Fine-tuning a Geospatial Foundation Model for Environmental Impact Monitoring Tasks
     year: '2023'
   Bz3X5pQAAAAJ:4JMBOYKVnBMC:
-    citations: 311
+    citations: 320
     title: Foundation Models for Generalist Geospatial Artificial Intelligence
     year: '2023'
   Bz3X5pQAAAAJ:4OULZ7Gr8RgC:
-    citations: 11
+    citations: 14
     title: 'Surya: Foundation model for heliophysics'
     year: '2025'
   Bz3X5pQAAAAJ:5nxA0vEk-isC:
-    citations: 33
+    citations: 34
     title: On the Interdependence of Reliance Behavior and Accuracy in AI-Assisted Decision-Making
     year: '2023'
   Bz3X5pQAAAAJ:7PzlFSSx8tAC:
@@ -70,7 +70,7 @@ papers:
     title: Entwicklung eines Human-in-the-Loop-Systems zur Objekterkennung in Grundrissen
     year: '2024'
   Bz3X5pQAAAAJ:JV2RwH3_ST0C:
-    citations: 9
+    citations: 10
     title: Multi-modal graph neural networks for localized off-grid weather forecasting
     year: '2024'
   Bz3X5pQAAAAJ:L8Ckcad2t8MC:
@@ -90,7 +90,7 @@ papers:
     title: 'What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation'
     year: '2023'
   Bz3X5pQAAAAJ:NaGl4SEjCO4C:
-    citations: 13
+    citations: 14
     title: 'Beyond the visible: Multispectral vision-language learning for earth observation'
     year: '2025'
   Bz3X5pQAAAAJ:NhqRSupF_l8C:
@@ -218,7 +218,7 @@ papers:
     title: Assessing Performance of a Foundation Model for Multi-Label Image Classification of Satellite Imagery
     year: '2023'
   Bz3X5pQAAAAJ:hqOjcs7Dif8C:
-    citations: 180
+    citations: 182
     title: Data-centric Artificial Intelligence
     year: '2024'
   Bz3X5pQAAAAJ:isC4tDSrTZIC:
@@ -234,7 +234,7 @@ papers:
     title: NASA-IBM HLS Foundation Model - Image Segmentation by Foundation Model Finetuning
     year: '2023'
   Bz3X5pQAAAAJ:lSLTfruPkqcC:
-    citations: 92
+    citations: 101
     title: 'Terramind: Large-scale generative multimodality for earth observation'
     year: '2025'
   Bz3X5pQAAAAJ:mB3voiENLucC:
@@ -246,11 +246,11 @@ papers:
     title: 'Redefining the Laparoscopic Spatial Sense: AI-based Intra- and Postoperative Measurement from Stereoimages'
     year: '2023'
   Bz3X5pQAAAAJ:maZDTaKrznsC:
-    citations: 73
+    citations: 75
     title: 'Prithvi wxc: Foundation model for weather and climate'
     year: '2024'
   Bz3X5pQAAAAJ:ns9cj8rnVeAC:
-    citations: 12
+    citations: 13
     title: 'Lossy neural compression for geospatial analytics: A review'
     year: '2025'
   Bz3X5pQAAAAJ:pqnbT2bcN3wC:
@@ -262,7 +262,7 @@ papers:
     title: Evaluating Foundation Models for Crop Type Segmentation Using Multi-temporal Multi-spectral Satellite Imagery
     year: '2023'
   Bz3X5pQAAAAJ:qxL8FJ1GzNcC:
-    citations: 40
+    citations: 41
     title: 'AI foundation models for weather and climate: Applications, design, and implementation'
     year: '2023'
   Bz3X5pQAAAAJ:r0BpntZqJG4C:
@@ -274,7 +274,7 @@ papers:
     title: Leveraging Neural Compression for Earth Observation
     year: '2025'
   Bz3X5pQAAAAJ:roLk4NBRz8UC:
-    citations: 80
+    citations: 81
     title: 'Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts'
     year: '2022'
   Bz3X5pQAAAAJ:u_35RYKgDlwC:
@@ -286,7 +286,7 @@ papers:
     title: Designing a Human-in-the-Loop System for Object Detection in Floor Plans
     year: '2022'
   Bz3X5pQAAAAJ:vV6vV6tmYwMC:
-    citations: 13
+    citations: 14
     title: 'Terramesh: A planetary mosaic of multimodal earth observation data'
     year: '2025'
   Bz3X5pQAAAAJ:xtRiw3GOFMkC:

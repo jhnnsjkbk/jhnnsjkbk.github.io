@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-10'
 papers:
   Bz3X5pQAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -30,7 +30,7 @@ papers:
     title: Fine-tuning a Geospatial Foundation Model for Environmental Impact Monitoring Tasks
     year: '2023'
   Bz3X5pQAAAAJ:4JMBOYKVnBMC:
-    citations: 320
+    citations: 317
     title: Foundation Models for Generalist Geospatial Artificial Intelligence
     year: '2023'
   Bz3X5pQAAAAJ:4OULZ7Gr8RgC:
@@ -78,7 +78,7 @@ papers:
     title: 'Navigating the synthetic realm: Harnessing diffusion-based models for laparoscopic text-to-image generation'
     year: '2024'
   Bz3X5pQAAAAJ:LkGwnXOMwfcC:
-    citations: 38
+    citations: 39
     title: 'Online Emotions During the Storming of the US Capitol: Evidence from the Social Media Network Parler'
     year: '2023'
   Bz3X5pQAAAAJ:M05iB0D1s5AC:
@@ -114,7 +114,7 @@ papers:
     title: "Local off\u2010grid weather forecasting with multi\u2010modal earth observation data"
     year: '2025'
   Bz3X5pQAAAAJ:TFP_iSt0sucC:
-    citations: 23
+    citations: 24
     title: 'AI reliance and decision quality: Fundamentals, interdependence, and the effects of interventions'
     year: '2025'
   Bz3X5pQAAAAJ:TQgYirikUcIC:
@@ -234,7 +234,7 @@ papers:
     title: NASA-IBM HLS Foundation Model - Image Segmentation by Foundation Model Finetuning
     year: '2023'
   Bz3X5pQAAAAJ:lSLTfruPkqcC:
-    citations: 101
+    citations: 100
     title: 'Terramind: Large-scale generative multimodality for earth observation'
     year: '2025'
   Bz3X5pQAAAAJ:mB3voiENLucC:
@@ -250,7 +250,7 @@ papers:
     title: 'Prithvi wxc: Foundation model for weather and climate'
     year: '2024'
   Bz3X5pQAAAAJ:ns9cj8rnVeAC:
-    citations: 13
+    citations: 14
     title: 'Lossy neural compression for geospatial analytics: A review'
     year: '2025'
   Bz3X5pQAAAAJ:pqnbT2bcN3wC:
@@ -274,7 +274,7 @@ papers:
     title: Leveraging Neural Compression for Earth Observation
     year: '2025'
   Bz3X5pQAAAAJ:roLk4NBRz8UC:
-    citations: 81
+    citations: 82
     title: 'Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts'
     year: '2022'
   Bz3X5pQAAAAJ:u_35RYKgDlwC:

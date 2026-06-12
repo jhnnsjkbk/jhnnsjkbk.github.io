@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-12'
 papers:
   Bz3X5pQAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -30,7 +30,7 @@ papers:
     title: Fine-tuning a Geospatial Foundation Model for Environmental Impact Monitoring Tasks
     year: '2023'
   Bz3X5pQAAAAJ:4JMBOYKVnBMC:
-    citations: 317
+    citations: 319
     title: Foundation Models for Generalist Geospatial Artificial Intelligence
     year: '2023'
   Bz3X5pQAAAAJ:4OULZ7Gr8RgC:
@@ -114,11 +114,11 @@ papers:
     title: "Local off\u2010grid weather forecasting with multi\u2010modal earth observation data"
     year: '2025'
   Bz3X5pQAAAAJ:TFP_iSt0sucC:
-    citations: 24
+    citations: 25
     title: 'AI reliance and decision quality: Fundamentals, interdependence, and the effects of interventions'
     year: '2025'
   Bz3X5pQAAAAJ:TQgYirikUcIC:
-    citations: 2
+    citations: 1
     title: Improving Label Error Detection and Elimination with Uncertainty Quantification
     year: '2024'
   Bz3X5pQAAAAJ:W7OEmFMy1HYC:
@@ -126,7 +126,7 @@ papers:
     title: Directed particle swarm optimization with Gaussian-process-based function forecasting
     year: '2021'
   Bz3X5pQAAAAJ:WF5omc3nYNoC:
-    citations: 32
+    citations: 33
     title: Incorporating Financial News for Forecasting Bitcoin Prices Based on Long Short-Term Memory Networks
     year: '2022'
   Bz3X5pQAAAAJ:Wp0gIr-vW9MC:
@@ -218,7 +218,7 @@ papers:
     title: Assessing Performance of a Foundation Model for Multi-Label Image Classification of Satellite Imagery
     year: '2023'
   Bz3X5pQAAAAJ:hqOjcs7Dif8C:
-    citations: 182
+    citations: 183
     title: Data-centric Artificial Intelligence
     year: '2024'
   Bz3X5pQAAAAJ:isC4tDSrTZIC:

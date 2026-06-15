@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-15'
 papers:
   Bz3X5pQAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -30,11 +30,11 @@ papers:
     title: Fine-tuning a Geospatial Foundation Model for Environmental Impact Monitoring Tasks
     year: '2023'
   Bz3X5pQAAAAJ:4JMBOYKVnBMC:
-    citations: 319
+    citations: 327
     title: Foundation Models for Generalist Geospatial Artificial Intelligence
     year: '2023'
   Bz3X5pQAAAAJ:4OULZ7Gr8RgC:
-    citations: 14
+    citations: 15
     title: 'Surya: Foundation model for heliophysics'
     year: '2025'
   Bz3X5pQAAAAJ:5nxA0vEk-isC:
@@ -50,7 +50,7 @@ papers:
     title: Learning to Defer with Limited Expert Predictions
     year: '2023'
   Bz3X5pQAAAAJ:9yKSN-GCB0IC:
-    citations: 112
+    citations: 111
     title: Reinforcement learning for opportunistic maintenance optimization
     year: '2019'
   Bz3X5pQAAAAJ:CHSYGLWDkRkC:
@@ -90,7 +90,7 @@ papers:
     title: 'What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation'
     year: '2023'
   Bz3X5pQAAAAJ:NaGl4SEjCO4C:
-    citations: 14
+    citations: 15
     title: 'Beyond the visible: Multispectral vision-language learning for earth observation'
     year: '2025'
   Bz3X5pQAAAAJ:NhqRSupF_l8C:
@@ -114,7 +114,7 @@ papers:
     title: "Local off\u2010grid weather forecasting with multi\u2010modal earth observation data"
     year: '2025'
   Bz3X5pQAAAAJ:TFP_iSt0sucC:
-    citations: 25
+    citations: 27
     title: 'AI reliance and decision quality: Fundamentals, interdependence, and the effects of interventions'
     year: '2025'
   Bz3X5pQAAAAJ:TQgYirikUcIC:
@@ -138,7 +138,7 @@ papers:
     title: 'Downstream Applications on Prithvi WxC: A Foundation Model for Weather and Climate'
     year: '2024'
   Bz3X5pQAAAAJ:YOwf2qJgpHMC:
-    citations: 11
+    citations: 12
     title: 'Sanitizing Data for Analysis: Designing Systems for Data Understanding'
     year: '2023'
   Bz3X5pQAAAAJ:ZeXyd9-uunAC:
@@ -218,7 +218,7 @@ papers:
     title: Assessing Performance of a Foundation Model for Multi-Label Image Classification of Satellite Imagery
     year: '2023'
   Bz3X5pQAAAAJ:hqOjcs7Dif8C:
-    citations: 183
+    citations: 186
     title: Data-centric Artificial Intelligence
     year: '2024'
   Bz3X5pQAAAAJ:isC4tDSrTZIC:
@@ -234,7 +234,7 @@ papers:
     title: NASA-IBM HLS Foundation Model - Image Segmentation by Foundation Model Finetuning
     year: '2023'
   Bz3X5pQAAAAJ:lSLTfruPkqcC:
-    citations: 100
+    citations: 104
     title: 'Terramind: Large-scale generative multimodality for earth observation'
     year: '2025'
   Bz3X5pQAAAAJ:mB3voiENLucC:

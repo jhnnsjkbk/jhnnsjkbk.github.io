@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-06-24'
 papers:
   Bz3X5pQAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -30,7 +30,7 @@ papers:
     title: Fine-tuning a Geospatial Foundation Model for Environmental Impact Monitoring Tasks
     year: '2023'
   Bz3X5pQAAAAJ:4JMBOYKVnBMC:
-    citations: 327
+    citations: 336
     title: Foundation Models for Generalist Geospatial Artificial Intelligence
     year: '2023'
   Bz3X5pQAAAAJ:4OULZ7Gr8RgC:
@@ -38,7 +38,7 @@ papers:
     title: 'Surya: Foundation model for heliophysics'
     year: '2025'
   Bz3X5pQAAAAJ:5nxA0vEk-isC:
-    citations: 34
+    citations: 35
     title: On the Interdependence of Reliance Behavior and Accuracy in AI-Assisted Decision-Making
     year: '2023'
   Bz3X5pQAAAAJ:7PzlFSSx8tAC:
@@ -54,7 +54,7 @@ papers:
     title: Reinforcement learning for opportunistic maintenance optimization
     year: '2019'
   Bz3X5pQAAAAJ:CHSYGLWDkRkC:
-    citations: 0
+    citations: 1
     title: 'How To Embed Matters: Evaluation of EO Embedding Design Choices'
     year: '2026'
   Bz3X5pQAAAAJ:D03iK_w7-QYC:
@@ -114,7 +114,7 @@ papers:
     title: "Local off\u2010grid weather forecasting with multi\u2010modal earth observation data"
     year: '2025'
   Bz3X5pQAAAAJ:TFP_iSt0sucC:
-    citations: 27
+    citations: 30
     title: 'AI reliance and decision quality: Fundamentals, interdependence, and the effects of interventions'
     year: '2025'
   Bz3X5pQAAAAJ:TQgYirikUcIC:
@@ -234,7 +234,7 @@ papers:
     title: NASA-IBM HLS Foundation Model - Image Segmentation by Foundation Model Finetuning
     year: '2023'
   Bz3X5pQAAAAJ:lSLTfruPkqcC:
-    citations: 104
+    citations: 109
     title: 'Terramind: Large-scale generative multimodality for earth observation'
     year: '2025'
   Bz3X5pQAAAAJ:mB3voiENLucC:
@@ -246,7 +246,7 @@ papers:
     title: 'Redefining the Laparoscopic Spatial Sense: AI-based Intra- and Postoperative Measurement from Stereoimages'
     year: '2023'
   Bz3X5pQAAAAJ:maZDTaKrznsC:
-    citations: 75
+    citations: 76
     title: 'Prithvi wxc: Foundation model for weather and climate'
     year: '2024'
   Bz3X5pQAAAAJ:ns9cj8rnVeAC:

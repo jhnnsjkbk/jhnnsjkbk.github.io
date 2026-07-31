@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-07-31'
 papers:
   Bz3X5pQAAAAJ:-f6ydRqryjwC:
     citations: 0
     title: 'Supplementary Material What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation'
     year: Unknown Year
   Bz3X5pQAAAAJ:0EnyYjriUFMC:
-    citations: 13
+    citations: 14
     title: 'Toward Foundation Models for Earth Monitoring: Generalizable Deep Learning Models for Natural Hazard Segmentation'
     year: '2023'
   Bz3X5pQAAAAJ:1sJd4Hv_s6UC:
@@ -30,7 +30,7 @@ papers:
     title: Fine-tuning a Geospatial Foundation Model for Environmental Impact Monitoring Tasks
     year: '2023'
   Bz3X5pQAAAAJ:4JMBOYKVnBMC:
-    citations: 367
+    citations: 365
     title: Foundation Models for Generalist Geospatial Artificial Intelligence
     year: '2023'
   Bz3X5pQAAAAJ:4OULZ7Gr8RgC:
@@ -106,7 +106,7 @@ papers:
     title: 'Data-centric artificial intelligence: foundations and methods for deep learning'
     year: '2024'
   Bz3X5pQAAAAJ:Se3iqnhoufwC:
-    citations: 34
+    citations: 35
     title: An Empirical Evaluation of Predicted Outcomes as Explanations in Human-AI Decision-Making
     year: '2022'
   Bz3X5pQAAAAJ:SeFeTyx0c_EC:
@@ -218,7 +218,7 @@ papers:
     title: Assessing Performance of a Foundation Model for Multi-Label Image Classification of Satellite Imagery
     year: '2023'
   Bz3X5pQAAAAJ:hqOjcs7Dif8C:
-    citations: 195
+    citations: 198
     title: Data-centric Artificial Intelligence
     year: '2024'
   Bz3X5pQAAAAJ:isC4tDSrTZIC:
@@ -234,7 +234,7 @@ papers:
     title: NASA-IBM HLS Foundation Model - Image Segmentation by Foundation Model Finetuning
     year: '2023'
   Bz3X5pQAAAAJ:lSLTfruPkqcC:
-    citations: 129
+    citations: 131
     title: 'Terramind: Large-scale generative multimodality for earth observation'
     year: '2025'
   Bz3X5pQAAAAJ:mB3voiENLucC:
@@ -246,11 +246,15 @@ papers:
     title: 'Redefining the Laparoscopic Spatial Sense: AI-based Intra- and Postoperative Measurement from Stereoimages'
     year: '2023'
   Bz3X5pQAAAAJ:maZDTaKrznsC:
-    citations: 84
+    citations: 88
     title: 'Prithvi wxc: Foundation model for weather and climate'
     year: '2024'
+  Bz3X5pQAAAAJ:nb7KW1ujOQ8C:
+    citations: 0
+    title: Now We Know? A Systematic Comparison of TerraMind and THOR
+    year: '2026'
   Bz3X5pQAAAAJ:ns9cj8rnVeAC:
-    citations: 15
+    citations: 14
     title: 'Lossy neural compression for geospatial analytics: A review'
     year: '2025'
   Bz3X5pQAAAAJ:pqnbT2bcN3wC:
@@ -262,7 +266,7 @@ papers:
     title: Evaluating Foundation Models for Crop Type Segmentation Using Multi-temporal Multi-spectral Satellite Imagery
     year: '2023'
   Bz3X5pQAAAAJ:qxL8FJ1GzNcC:
-    citations: 42
+    citations: 44
     title: 'AI foundation models for weather and climate: Applications, design, and implementation'
     year: '2023'
   Bz3X5pQAAAAJ:r0BpntZqJG4C:

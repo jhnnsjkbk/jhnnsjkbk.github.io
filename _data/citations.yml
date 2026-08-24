@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-24'
 papers:
   Bz3X5pQAAAAJ:0EnyYjriUFMC:
     citations: 14
     title: 'Toward Foundation Models for Earth Monitoring: Generalizable Deep Learning Models for Natural Hazard Segmentation'
     year: '2023'
   Bz3X5pQAAAAJ:1sJd4Hv_s6UC:
-    citations: 1
+    citations: 3
     title: 'TerraFlow: Multimodal, Multitemporal Representation Learning for Earth Observation'
     year: '2026'
   Bz3X5pQAAAAJ:2P1L_qKh6hAC:
@@ -26,7 +26,7 @@ papers:
     title: Fine-tuning a Geospatial Foundation Model for Environmental Impact Monitoring Tasks
     year: '2023'
   Bz3X5pQAAAAJ:4JMBOYKVnBMC:
-    citations: 379
+    citations: 400
     title: Foundation Models for Generalist Geospatial Artificial Intelligence
     year: '2023'
   Bz3X5pQAAAAJ:4OULZ7Gr8RgC:
@@ -34,7 +34,7 @@ papers:
     title: 'Surya: Foundation model for heliophysics'
     year: '2025'
   Bz3X5pQAAAAJ:5nxA0vEk-isC:
-    citations: 36
+    citations: 37
     title: On the Interdependence of Reliance Behavior and Accuracy in AI-Assisted Decision-Making
     year: '2023'
   Bz3X5pQAAAAJ:7PzlFSSx8tAC:
@@ -42,7 +42,7 @@ papers:
     title: Burn Scar Detection Leveraging a Harmonized Landsat and Sentinel-2 Foundation Model
     year: '2023'
   Bz3X5pQAAAAJ:8k81kl-MbHgC:
-    citations: 46
+    citations: 47
     title: Learning to Defer with Limited Expert Predictions
     year: '2023'
   Bz3X5pQAAAAJ:9yKSN-GCB0IC:
@@ -50,7 +50,7 @@ papers:
     title: Reinforcement learning for opportunistic maintenance optimization
     year: '2019'
   Bz3X5pQAAAAJ:CHSYGLWDkRkC:
-    citations: 1
+    citations: 2
     title: 'How To Embed Matters: Evaluation of EO Embedding Design Choices'
     year: '2026'
   Bz3X5pQAAAAJ:D03iK_w7-QYC:
@@ -66,7 +66,7 @@ papers:
     title: Entwicklung eines Human-in-the-Loop-Systems zur Objekterkennung in Grundrissen
     year: '2024'
   Bz3X5pQAAAAJ:JV2RwH3_ST0C:
-    citations: 10
+    citations: 12
     title: Multi-modal graph neural networks for localized off-grid weather forecasting
     year: '2024'
   Bz3X5pQAAAAJ:L8Ckcad2t8MC:
@@ -82,7 +82,7 @@ papers:
     title: Multi-modal fusion for localized wind forecasting
     year: '2024'
   Bz3X5pQAAAAJ:MXK_kJrjxJIC:
-    citations: 35
+    citations: 36
     title: 'What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation'
     year: '2023'
   Bz3X5pQAAAAJ:NaGl4SEjCO4C:
@@ -110,7 +110,7 @@ papers:
     title: "Local off\u2010grid weather forecasting with multi\u2010modal earth observation data"
     year: '2025'
   Bz3X5pQAAAAJ:TFP_iSt0sucC:
-    citations: 35
+    citations: 40
     title: 'AI reliance and decision quality: Fundamentals, interdependence, and the effects of interventions'
     year: '2025'
   Bz3X5pQAAAAJ:TQgYirikUcIC:
@@ -118,11 +118,11 @@ papers:
     title: Improving Label Error Detection and Elimination with Uncertainty Quantification
     year: '2024'
   Bz3X5pQAAAAJ:W7OEmFMy1HYC:
-    citations: 43
+    citations: 45
     title: Directed particle swarm optimization with Gaussian-process-based function forecasting
     year: '2021'
   Bz3X5pQAAAAJ:WF5omc3nYNoC:
-    citations: 33
+    citations: 34
     title: Incorporating Financial News for Forecasting Bitcoin Prices Based on Long Short-Term Memory Networks
     year: '2022'
   Bz3X5pQAAAAJ:Wp0gIr-vW9MC:
@@ -142,7 +142,7 @@ papers:
     title: Comparative Analysis of Vision Transformer and CGAN Models for Cloud Gap Filling in Time Series of Satellite Images
     year: '2023'
   Bz3X5pQAAAAJ:_FxGoFyzp5QC:
-    citations: 21
+    citations: 22
     title: "Data\u2010driven allocation of development aid towards Sustainable Development Goals: Evidence from HIV/AIDS"
     year: '2022'
   Bz3X5pQAAAAJ:_xSYboBqXhAC:
@@ -214,7 +214,7 @@ papers:
     title: Assessing Performance of a Foundation Model for Multi-Label Image Classification of Satellite Imagery
     year: '2023'
   Bz3X5pQAAAAJ:hqOjcs7Dif8C:
-    citations: 203
+    citations: 217
     title: Data-centric Artificial Intelligence
     year: '2024'
   Bz3X5pQAAAAJ:isC4tDSrTZIC:
@@ -230,7 +230,7 @@ papers:
     title: NASA-IBM HLS Foundation Model - Image Segmentation by Foundation Model Finetuning
     year: '2023'
   Bz3X5pQAAAAJ:lSLTfruPkqcC:
-    citations: 142
+    citations: 155
     title: 'Terramind: Large-scale generative multimodality for earth observation'
     year: '2025'
   Bz3X5pQAAAAJ:mB3voiENLucC:
@@ -242,7 +242,7 @@ papers:
     title: 'Redefining the Laparoscopic Spatial Sense: AI-based Intra- and Postoperative Measurement from Stereoimages'
     year: '2023'
   Bz3X5pQAAAAJ:maZDTaKrznsC:
-    citations: 90
+    citations: 95
     title: 'Prithvi wxc: Foundation model for weather and climate'
     year: '2024'
   Bz3X5pQAAAAJ:nb7KW1ujOQ8C:
@@ -250,11 +250,11 @@ papers:
     title: Now We Know? A Systematic Comparison of TerraMind and THOR
     year: '2026'
   Bz3X5pQAAAAJ:ns9cj8rnVeAC:
-    citations: 15
+    citations: 19
     title: 'Lossy neural compression for geospatial analytics: A review'
     year: '2025'
   Bz3X5pQAAAAJ:pqnbT2bcN3wC:
-    citations: 1
+    citations: 2
     title: 'FAST-EO: Multi-Modal Foundation Models for Scalable Earth Observation and Earth Sciences'
     year: '2025'
   Bz3X5pQAAAAJ:qUcmZB5y_30C:
@@ -274,7 +274,7 @@ papers:
     title: Leveraging Neural Compression for Earth Observation
     year: '2025'
   Bz3X5pQAAAAJ:roLk4NBRz8UC:
-    citations: 87
+    citations: 88
     title: 'Forming Effective Human-AI Teams: Building Machine Learning Models that Complement the Capabilities of Multiple Experts'
     year: '2022'
   Bz3X5pQAAAAJ:u_35RYKgDlwC:

@@ -30,11 +30,11 @@ I also contribute to various communities as reviewer, associate editor, and trac
 
 *Large-scale multimodal foundation model for Earth observation combining vision and language understanding.*
 
-### TerraFlow: Multimodal, Multitemporal Representation Learning for Earth Observation
-Puriy, N.\*, **Jakubik, J.**\*, Blumenstiel, B., Schindler, K. (2026).
-**arXiv preprint** | [Paper](https://arxiv.org/abs/2603.12762)
+### SIMPLER: Efficient Foundation Model Adaptation via Similarity-Guided Layer Pruning for Earth Observation
+Barreiro, V., **Jakubik, J.**, Argüello, F., Heras, DB. (2026).
+**ECCV 2026** | [Paper](https://arxiv.org/pdf/2603.19873)
 
-*Novel approach to multimodal, multitemporal learning for Earth observation with temporal training objectives.*
+*Similarity-guided layer pruning for efficient adaptation of foundation models to Earth observation tasks.*
 
 ### Phaedra: Learning High-Fidelity Discrete Tokenization for the Physical Sciences
 Lingsch, L., Kissas, G., **Jakubik, J.**, Mishra, S. (2026).

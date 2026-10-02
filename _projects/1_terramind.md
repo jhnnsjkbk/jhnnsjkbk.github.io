@@ -27,7 +27,7 @@ TerraMind is a groundbreaking multimodal foundation model designed specifically 
 
 ### Impact
 
-- **60+ Citations** within months of publication
+- **185+ Citations** within months of publication
 - Featured at ICCV 2025, one of the top computer vision conferences
 - Collaboration with NASA and ESA for planetary observation applications
 - Used in climate impact assessment and natural hazard detection

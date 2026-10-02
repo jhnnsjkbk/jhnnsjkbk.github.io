@@ -8,11 +8,11 @@ nav_order: 3
 ---
 
 Together with a range of amazing co-authors, I have published
-- **40+ Publications** including conference papers, journal articles, and preprints
-- **15+ Conference Papers** at top-tier venues (ICCV, CVPR, NeurIPS, AAAI, IJCAI, ECML)
+- **75+ Publications** including conference papers, journal articles, and preprints
+- **20+ Conference Papers** at top-tier venues (NeurIPS, ICCV, ECCV, CVPR, ICLR, AAAI, IJCAI, ECML)
 - **10+ Journal Publications** in high-impact journals (JAIR, EJOR, POM, BISE, IEEE GRSM)
-- **1200+ Citations** on Google Scholar
-- **h-index: 17**
+- **1750+ Citations** on Google Scholar
+- **h-index: 20** | **i10-index: 27**
 - **Best Paper Award** at HHAI 2023
 - **Best Paper Nomination** at WI 2023
 
@@ -23,6 +23,12 @@ I also contribute to various communities as reviewer, associate editor, and trac
 ---
 
 ## 🌟 Recent Highlighted Publications
+
+### Learning Angles for Quantum Approximate Optimization
+**Jakubik, J.**, Wittmann, I., Gaffoor, Z., Baloyi, GS, Mahlasi, C., Vos, E., Brunschwiler, T., Egger, DJ. (2026).
+**Under review**
+
+*Learning the mapping from problem instance to high-quality QAOA angles, replacing per-instance classical optimization with a single forward pass — validated on IBM quantum hardware.*
 
 ### TerraMind: Large-scale Generative Multimodality for Earth Observation
 **Jakubik, J.**\*, Yang, F.\*, Blumenstiel, B.\*, Scheurer, E., Sedona, R., Maurogiovanni, S., ... & Longépé, N. (2025).
@@ -38,7 +44,7 @@ Barreiro, V., **Jakubik, J.**, Argüello, F., Heras, DB. (2026).
 
 ### Phaedra: Learning High-Fidelity Discrete Tokenization for the Physical Sciences
 Lingsch, L., Kissas, G., **Jakubik, J.**, Mishra, S. (2026).
-**arXiv preprint** | [Paper](http://arxiv.org/pdf/2602.03915v1) | [Website](https://camlab-ethz.github.io/Phaedra/) | [Code](https://github.com/camlab-ethz/Phaedra)
+**NeurIPS 2026** | [Paper](http://arxiv.org/pdf/2602.03915v1) | [Website](https://camlab-ethz.github.io/Phaedra/) | [Code](https://github.com/camlab-ethz/Phaedra)
 
 *Novel approach to discrete tokenization for physical sciences data, enabling high-fidelity reconstruction.*
 
@@ -66,120 +72,124 @@ Yang, Q., Giezendanner, J., Civitarese, DS, **Jakubik, J.**, Schmitt, E., Chandr
 
 **Foundation Models for Generalist Geospatial Artificial Intelligence**
 **Jakubik, J.**, Roy, S., Phillips, CE, Fraccaro, P., Godwin, D., Zadrozny, B., et al. (2023).
-**arXiv preprint** | [Paper](https://arxiv.org/abs/2310.18660) | **Citations: 267**
+**arXiv preprint** | [Paper](https://arxiv.org/abs/2310.18660) | **Citations: 447**
 
 **Data-centric Artificial Intelligence**
 **Jakubik, J.**, Vössing, M., Kühl, N., Walk, J., Satzger, G. (2022).
-**Business & Information Systems Engineering (BISE)** | [Paper](https://arxiv.org/pdf/2212.11854.pdf) | **Citations: 157**
-
-**Reinforcement Learning for Opportunistic Maintenance Optimization**
-Kühne, A., **Jakubik, J.**, Lanza, G. (2019).
-**Production Engineering 13 (1), 33-41** | **Citations: 108**
-
-**Forming Effective Human-AI Teams**
-Hemmer, P., Schellhammer, S., Vössing, M., **Jakubik, J.**, Satzger, G. (2022).
-**IJCAI 2022** | [Paper](https://arxiv.org/pdf/2206.07948) | [Code](https://github.com/ptrckhmmr/human-ai-teams) | **Citations: 74**
+**Business & Information Systems Engineering (BISE)** | [Paper](https://arxiv.org/pdf/2212.11854.pdf) | **Citations: 231**
 
 **TerraMind: Large-scale Generative Multimodality for Earth Observation**
 **Jakubik, J.**\*, Yang, F.\*, Blumenstiel, B.\*, Scheurer, E., Sedona, R., Maurogiovanni, S., et al. (2025).
-**ICCV 2025** | [Paper](https://arxiv.org/pdf/2504.11171) | [Website](https://ibm.github.io/terramind/) | [Code](https://github.com/ibm/terramind) | **Citations: 62**
+**ICCV 2025** | [Paper](https://arxiv.org/pdf/2504.11171) | [Website](https://ibm.github.io/terramind/) | [Code](https://github.com/ibm/terramind) | **Citations: 188**
+
+**Reinforcement Learning for Opportunistic Maintenance Optimization**
+Kühne, A., **Jakubik, J.**, Lanza, G. (2019).
+**Production Engineering 13 (1), 33-41** | **Citations: 113**
 
 **Prithvi wxc: Foundation Model for Weather and Climate**
 Schmude, J., Roy, S., Trojak, W., **Jakubik, J.**, Civitarese, DS, Singh, S., et al. (2024).
-**arXiv preprint** | [Paper](https://arxiv.org/abs/2409.13598) | **Citations: 59**
+**arXiv preprint** | [Paper](https://arxiv.org/abs/2409.13598) | **Citations: 96**
 
-**Directed Particle Swarm Optimization with Gaussian-Process-Based Function Forecasting**
-**Jakubik, J.**, Binding, A., Feuerriegel, S. (2021).
-**European Journal of Operational Research (EJOR)** | [Paper](https://www.sciencedirect.com/science/article/pii/S0377221721001661) | **Citations: 42**
+**Forming Effective Human-AI Teams**
+Hemmer, P., Schellhammer, S., Vössing, M., **Jakubik, J.**, Satzger, G. (2022).
+**IJCAI 2022** | [Paper](https://arxiv.org/pdf/2206.07948) | [Code](https://github.com/ptrckhmmr/human-ai-teams) | **Citations: 91**
 
 **Learning to Defer with Limited Expert Predictions**
 Hemmer, P., Thede, L., Vössing, M., **Jakubik, J.**, Kühl, N. (2023).
-**AAAI 2023** | [Paper](https://arxiv.org/pdf/2304.07306) | [Code](https://github.com/ptrckhmmr/learning-to-defer-with-limited-expert-predictions) | **Citations: 38**
+**AAAI 2023** | [Paper](https://arxiv.org/pdf/2304.07306) | [Code](https://github.com/ptrckhmmr/learning-to-defer-with-limited-expert-predictions) | **Citations: 49**
 
 **AI Foundation Models for Weather and Climate: Applications, Design, and Implementation**
 Mukkavilli, SK, Civitarese, DS, Schmude, J., **Jakubik, J.**, Jones, A., Nguyen, N., et al. (2023).
-**arXiv preprint** | [Paper](https://arxiv.org/abs/2309.10808) | **Citations: 38**
+**arXiv preprint** | [Paper](https://arxiv.org/abs/2309.10808) | **Citations: 49**
 
-**What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation**
-Blumenstiel, B.\*, **Jakubik, J.**\*, Kühne, H., Vössing, M. (2023).
-**NeurIPS 2023** | [Paper](http://arxiv.org/abs/2306.15521) | [Website](https://blumenstiel.github.io/mess-benchmark/) | [Code](https://github.com/blumenstiel/MESS) | **Citations: 37**
-*\* denotes shared first authorship*
-
-**Incorporating Financial News for Forecasting Bitcoin Prices Based on Long Short-Term Memory Networks**
-**Jakubik, J.**, Nazemi, A., Geyer-Schulz, A., Fabozzi, FJ. (2022).
-**Quantitative Finance** | [Paper](https://www.tandfonline.com/doi/abs/10.1080/14697688.2022.2130085) | **Citations: 31**
-
-**On the Interdependence of Reliance Behavior and Accuracy in AI-Assisted Decision-Making**
-Schoeffer, J., **Jakubik, J.**, Voessing, M., Kuehl, N., Satzger, G. (2023).
-**The Second International Conference on Hybrid Human-Artificial Intelligence** | **Citations: 30**
-
-**An Empirical Evaluation of Predicted Outcomes as Explanations in Human-AI Decision-Making**
-**Jakubik, J.**, Schöffer, J., Hoge, V., Vössing, M., Kühl, N. (2022).
-**Proceedings of the European Conference on Machine Learning and Principles** | **Citations: 29**
-
-**Data-driven Allocation of Development Aid Toward Sustainable Development Goals**
-**Jakubik, J.**, Feuerriegel, S. (2022).
-**Production and Operations Management (POM)** | [Paper](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/poms.13714) | **Citations: 21**
-
-**Improving the Efficiency of Human-in-the-Loop Systems: Adding Artificial to Human Experts**
-**Jakubik, J.**, Weber, D., Hemmer, P., Vössing, M., Satzger, G. (2023).
-**Proceedings of the International Conference on Wirtschaftsinformatik 2023** | **Citations: 20**
+**Directed Particle Swarm Optimization with Gaussian-Process-Based Function Forecasting**
+**Jakubik, J.**, Binding, A., Feuerriegel, S. (2021).
+**European Journal of Operational Research (EJOR)** | [Paper](https://www.sciencedirect.com/science/article/pii/S0377221721001661) | **Citations: 45**
 
 **AI Reliance and Decision Quality: Fundamentals, Interdependence, and Effects of Interventions**
 Schoeffer, J., **Jakubik, J.**, Voessing, M., Kühl, N., Satzger, G. (2025).
-**Journal of Artificial Intelligence Research (JAIR)** | [Paper](https://arxiv.org/pdf/2304.08804) | **Citations: 17**
+**Journal of Artificial Intelligence Research (JAIR)** | [Paper](https://arxiv.org/pdf/2304.08804) | **Citations: 43**
 
-**Navigating the Synthetic Realm: Harnessing Diffusion-Based Models for Laparoscopic Text-to-Image Generation**
-Allmendinger, S., Hemmer, P., Queisner, M., Sauer, I., Müller, L., **Jakubik, J.**, et al. (2024).
-**AI for Health Equity and Fairness: Leveraging AI to Address Social Determinants of Health** | **Citations: 13**
+**What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation**
+Blumenstiel, B.\*, **Jakubik, J.**\*, Kühne, H., Vössing, M. (2023).
+**NeurIPS 2023** | [Paper](http://arxiv.org/abs/2306.15521) | [Website](https://blumenstiel.github.io/mess-benchmark/) | [Code](https://github.com/blumenstiel/MESS) | **Citations: 38**
+*\* denotes shared first authorship*
 
-**Toward Foundation Models for Earth Monitoring: Generalizable Deep Learning Models for Natural Hazard Segmentation**
-**Jakubik, J.**, Muszynski, M., Vössing, M., Kühl, N., Brunschwiler, T. (2023).
-**IGARSS 2023** | **Citations: 12**
+**On the Interdependence of Reliance Behavior and Accuracy in AI-Assisted Decision-Making**
+Schoeffer, J., **Jakubik, J.**, Voessing, M., Kuehl, N., Satzger, G. (2023).
+**The Second International Conference on Hybrid Human-Artificial Intelligence** | **Citations: 38**
 
-**Designing a Human-in-the-Loop System for Object Detection in Floor Plans**
-**Jakubik, J.**, Hemmer, P., Vössing, M., Blumenstiel, B., Bartos, A., Mohr, K. (2022).
-**AAAI 2022** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/21522/21271) | **Citations: 11**
+**An Empirical Evaluation of Predicted Outcomes as Explanations in Human-AI Decision-Making**
+**Jakubik, J.**, Schöffer, J., Hoge, V., Vössing, M., Kühl, N. (2022).
+**Proceedings of the European Conference on Machine Learning and Principles** | **Citations: 35**
 
-**Sanitizing Data for Analysis: Designing Systems for Data Understanding**
-Holstein, J., Schemmer, M., **Jakubik, J.**, Vössing, M., Satzger, G. (2023).
-**Electronic Markets** | [Paper](https://link.springer.com/article/10.1007/s12525-023-00677-w) | **Citations: 11**
+**Incorporating Financial News for Forecasting Bitcoin Prices Based on Long Short-Term Memory Networks**
+**Jakubik, J.**, Nazemi, A., Geyer-Schulz, A., Fabozzi, FJ. (2022).
+**Quantitative Finance** | [Paper](https://www.tandfonline.com/doi/abs/10.1080/14697688.2022.2130085) | **Citations: 34**
 
-**Beyond the Visible: Multispectral Vision-Language Learning for Earth Observation**
-Marimo, CT, Blumenstiel, B., Nitsche, M., **Jakubik, J.**, Brunschwiler, T. (2025).
-**ECML 2025** | [Paper](https://arxiv.org/pdf/2503.15969) | **Citations: 10**
+**Data-driven Allocation of Development Aid Toward Sustainable Development Goals**
+**Jakubik, J.**, Feuerriegel, S. (2022).
+**Production and Operations Management (POM)** | [Paper](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/poms.13714) | **Citations: 22**
+
+**Improving the Efficiency of Human-in-the-Loop Systems: Adding Artificial to Human Experts**
+**Jakubik, J.**, Weber, D., Hemmer, P., Vössing, M., Satzger, G. (2023).
+**Proceedings of the International Conference on Wirtschaftsinformatik 2023** | **Citations: 22**
 
 **Lossy Neural Compression for Geospatial Analytics: A Review**
 Gomes, C., Wittmann, I., Robert, D., **Jakubik, J.**, Reichelt, T., Maurogiovanni, S., et al. (2025).
-**IEEE Geoscience and Remote Sensing Magazine** | **Citations: 9**
+**IEEE Geoscience and Remote Sensing Magazine** | **Citations: 22**
+
+**Beyond the Visible: Multispectral Vision-Language Learning for Earth Observation**
+Marimo, CT, Blumenstiel, B., Nitsche, M., **Jakubik, J.**, Brunschwiler, T. (2025).
+**ECML 2025** | [Paper](https://arxiv.org/pdf/2503.15969) | **Citations: 20**
+
+**Surya: Foundation Model for Heliophysics**
+Roy, S., Schmude, J., Lal, R., Gaur, V., Freitag, M., Kuehnert, J., van Kessel, T., et al. (2025).
+**arXiv preprint** | [Paper](https://arxiv.org/abs/2508.14112) | **Citations: 20**
 
 **TerraMesh: A Planetary Mosaic of Multimodal Earth Observation Data**
 Blumenstiel, B., Fraccaro, P., Marsocci, V., **Jakubik, J.**, Maurogiovanni, S., Czerkawski, M., et al. (2025).
-**CVPR 2025 (EarthVision Workshop)** | [Paper](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/papers/Blumenstiel_TerraMesh_A_Planetary_Mosaic_of_Multimodal_Earth_Observation_Data_CVPRW_2025_paper.pdf) | **Citations: 9**
+**CVPR 2025 (EarthVision Workshop)** | [Paper](https://openaccess.thecvf.com/content/CVPR2025W/EarthVision/papers/Blumenstiel_TerraMesh_A_Planetary_Mosaic_of_Multimodal_Earth_Observation_Data_CVPRW_2025_paper.pdf) | **Citations: 18**
+
+**Toward Foundation Models for Earth Monitoring: Generalizable Deep Learning Models for Natural Hazard Segmentation**
+**Jakubik, J.**, Muszynski, M., Vössing, M., Kühl, N., Brunschwiler, T. (2023).
+**IGARSS 2023** | **Citations: 15**
+
+**Sanitizing Data for Analysis: Designing Systems for Data Understanding**
+Holstein, J., Schemmer, M., **Jakubik, J.**, Vössing, M., Satzger, G. (2023).
+**Electronic Markets** | [Paper](https://link.springer.com/article/10.1007/s12525-023-00677-w) | **Citations: 15**
+
+**Navigating the Synthetic Realm: Harnessing Diffusion-Based Models for Laparoscopic Text-to-Image Generation**
+Allmendinger, S., Hemmer, P., Queisner, M., Sauer, I., Müller, L., **Jakubik, J.**, et al. (2024).
+**AI for Health Equity and Fairness: Leveraging AI to Address Social Determinants of Health** | **Citations: 14**
+
+**Multi-modal Graph Neural Networks for Localized Off-Grid Weather Forecasting**
+Yang, Q., Giezendanner, J., Civitarese, DS, **Jakubik, J.**, Schmitt, E., Chandra, A., et al. (2024).
+**arXiv preprint** | **Citations: 13**
+
+**Designing a Human-in-the-Loop System for Object Detection in Floor Plans**
+**Jakubik, J.**, Hemmer, P., Vössing, M., Blumenstiel, B., Bartos, A., Mohr, K. (2022).
+**AAAI 2022** | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/21522/21271) | **Citations: 12**
+
+**Local Off-Grid Weather Forecasting with Multi-Modal Earth Observation Data**
+Yang, Q., Giezendanner, J., Civitarese, DS, **Jakubik, J.**, Schmitt, E., Chandra, A., et al. (2025).
+**Journal of Advances in Modeling Earth Systems** | **Citations: 12**
+
+**Explainability in AI-Based Applications–A Framework for Comparing Different Techniques**
+Grobrügge, A., Mishra, N., **Jakubik, J.**, Satzger, G. (2024).
+**2024 26th International Conference on Business Informatics (CBI)** | **Citations: 9**
 
 **Instance Selection Mechanisms for Human-in-the-Loop Systems in Few-Shot Learning**
 **Jakubik, J.**, Blumenstiel, B., Vössing, M., Hemmer, P. (2022).
 **Proceedings of the International Conference on Wirtschaftsinformatik 2022** | **Citations: 8**
 
-**Multi-modal Graph Neural Networks for Localized Off-Grid Weather Forecasting**
-Yang, Q., Giezendanner, J., Civitarese, DS, **Jakubik, J.**, Schmitt, E., Chandra, A., et al. (2024).
-**arXiv preprint** | **Citations: 7**
-
-**Local Off-Grid Weather Forecasting with Multi-Modal Earth Observation Data**
-Yang, Q., Giezendanner, J., Civitarese, DS, **Jakubik, J.**, Schmitt, E., Chandra, A., et al. (2025).
-**Journal of Advances in Modeling Earth Systems** | **Citations: 7**
-
-**Explainability in AI-Based Applications–A Framework for Comparing Different Techniques**
-Grobrügge, A., Mishra, N., **Jakubik, J.**, Satzger, G. (2024).
-**2024 26th International Conference on Business Informatics (CBI)** | **Citations: 7**
-
-**Surya: Foundation Model for Heliophysics**
-Roy, S., Schmude, J., Lal, R., Gaur, V., Freitag, M., Kuehnert, J., van Kessel, T., et al. (2025).
-**arXiv preprint** | [Paper](https://arxiv.org/abs/2508.14112) | **Citations: 6**
-
 **Hyperspectral Vision Transformers for Greenhouse Gas Estimations from Space**
 Avilés, RG, Schelberreif, L., Braham, NAA, Blumenstiel, B., **Jakubik, J.**, Brunschwiler, T., et al. (2025).
 **arXiv preprint** | [Paper](https://arxiv.org/abs/2504.16851) | **Citations: 5**
+
+**Improving Label Error Detection and Elimination with Uncertainty Quantification**
+**Jakubik, J.**, Vössing, M., Maskey, M., Wölfle, C., Satzger, G. (2024).
+**Journal of Artificial Intelligence Research (JAIR)** | [Paper](https://arxiv.org/pdf/2405.09602) | **Citations: 4**
 
 **Finetuning the Geospatial Foundation Model for Land Cover Mapping**
 Lambhate, D., Jain, A., Das, K., Bangalore, R., **Jakubik, J.**, Zadrozny, B. (2024).
@@ -197,17 +207,13 @@ Maskey, M., Cavallaro, G., Heras, DB, Fraccaro, P., Edwards, B., Gurung, I., **J
 **Jakubik, J.**, Muszynski, M., Vössing, M., Kühl, N., Brunschwiler, T. (2023).
 **American Geophysical Union (AGU)** | **Citations: 2**
 
-**Improving Label Error Detection and Elimination with Uncertainty Quantification**
-**Jakubik, J.**, Vössing, M., Maskey, M., Wölfle, C., Satzger, G. (2024).
-**Journal of Artificial Intelligence Research (JAIR)** | [Paper](https://arxiv.org/pdf/2405.09602) | **Citations: 1**
+**FAST-EO: Multi-Modal Foundation Models for Scalable Earth Observation and Earth Sciences**
+Kuzu, RS, Brunschwiler, T., Cavallaro, G., Nalepa, J., Dumitru, CO, **Jakubik, J.**, et al. (2025).
+**arXiv preprint** | **Citations: 2**
 
 **Compress Once, Decode Anywhere: Embedding Workflows with TerraTorch**
 Zadrozny, B., Wittmann, I., de Sousa Almeida, JL, **Jakubik, J.**, Brunschwiler, T., et al. (2025).
 **AGU 2025** | **Citations: 1**
-
-**FAST-EO: Multi-Modal Foundation Models for Scalable Earth Observation and Earth Sciences**
-Kuzu, RS, Brunschwiler, T., Cavallaro, G., Nalepa, J., Dumitru, CO, **Jakubik, J.**, et al. (2025).
-**arXiv preprint** | **Citations: 1**
 
 **Redefining the Laparoscopic Spatial Sense: AI-based Intra- and Postoperative Measurement**
 Müller, L., Hemmer, P., Queisner, M., Sauer, I., Allmendinger, S., **Jakubik, J.**, et al. (2024).
@@ -342,7 +348,6 @@ Schmude, J., **Jakubik, J.**, Civitarese, DS, Singh, S., Roy, S., Maskey, M., et
 
 **Supplementary Material What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation**
 Blumenstiel, B., **Jakubik, J.**, Kühne, H., Vössing, M. (2023).
-
 
 ---
 

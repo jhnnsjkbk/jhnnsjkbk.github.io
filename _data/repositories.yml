@@ -5,7 +5,7 @@ repo_description_lines_max: 2
 
 github_repos:
   - IBM/terramind
-  - terrastackai/terratorch
+  - torchgeo/terratorch
   - NASA-IMPACT/hls-foundation-os
   - NASA-IMPACT/Prithvi-WxC
   - jhnnsjkbk1/IBM-Quantum-qaoa_training_pipeline

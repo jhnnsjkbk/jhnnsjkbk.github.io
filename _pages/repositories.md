@@ -47,8 +47,8 @@ nav_order: 4
 
 My open-source work spans multiple domains including Earth observation foundation models, geospatial AI, quantum computing, and machine learning. Key contributions include:
 
-- **1000+ GitHub Stars** across contributed repositories
-- **300+ Forks** from the research community
+- **1800+ GitHub Stars** across contributed repositories
+- **350+ Forks** from the research community
 - Active development in **IBM Research** and **NASA-IMPACT** projects
 
 ---

@@ -10,7 +10,7 @@ related_publications: true
 
 ## Phaedra: Learning High-Fidelity Discrete Tokenization for the Physical Sciences
 
-Phaedra introduces a groundbreaking approach to discrete tokenization specifically designed for physical sciences data, including Earth observation, weather modeling, and climate assessment. This work addresses a fundamental challenge in applying modern deep learning to physical sciences: how to transform high-dimensional data into sequences that can be efficiently learned, generated, and generalized.
+Accepted at **NeurIPS 2026**, Phaedra introduces a new approach to discrete tokenization specifically designed for physical sciences data, including Earth observation, weather modeling, and climate assessment. This work addresses a fundamental challenge in applying modern deep learning to physical sciences: how to transform high-dimensional data into sequences that can be efficiently learned, generated, and generalized.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Phaedra has been accepted at **NeurIPS 2026**! Our work on high-fidelity discrete tokenization for the physical sciences, together with the amazing team at ETH Zurich. :tada: :milky_way:
+Great news from this conference cycle! At **ECCV 2026**: one full paper and two workshop papers. At **NeurIPS 2026**: two full papers, including Phaedra on high-fidelity discrete tokenization for the physical sciences. :tada:

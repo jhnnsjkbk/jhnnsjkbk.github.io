@@ -36,17 +36,17 @@ I also contribute to various communities as reviewer, associate editor, and trac
 
 *Large-scale multimodal foundation model for Earth observation combining vision and language understanding.*
 
-### SIMPLER: Efficient Foundation Model Adaptation via Similarity-Guided Layer Pruning for Earth Observation
-Barreiro, V., **Jakubik, J.**, Argüello, F., Heras, DB. (2026).
-**ECCV 2026** | [Paper](https://arxiv.org/pdf/2603.19873)
-
-*Similarity-guided layer pruning for efficient adaptation of foundation models to Earth observation tasks.*
-
 ### Phaedra: Learning High-Fidelity Discrete Tokenization for the Physical Sciences
 Lingsch, L., Kissas, G., **Jakubik, J.**, Mishra, S. (2026).
 **NeurIPS 2026** | [Paper](http://arxiv.org/pdf/2602.03915v1) | [Website](https://camlab-ethz.github.io/Phaedra/) | [Code](https://github.com/camlab-ethz/Phaedra)
 
 *Novel approach to discrete tokenization for physical sciences data, enabling high-fidelity reconstruction.*
+
+### SIMPLER: Efficient Foundation Model Adaptation via Similarity-Guided Layer Pruning for Earth Observation
+Barreiro, V., **Jakubik, J.**, Argüello, F., Heras, DB. (2026).
+**ECCV 2026** | [Paper](https://arxiv.org/pdf/2603.19873)
+
+*Similarity-guided layer pruning for efficient adaptation of foundation models to Earth observation tasks.*
 
 ### Quantizing Space and Time: Fusing Time Series and Images for Earth Observation
 Basile, G., **Jakubik, J.**, Blumenstiel, B., Brunschwiler, T., Moreno, JB. (2025).
